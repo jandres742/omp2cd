@@ -1,2 +1,24 @@
 This directory contains OpenMP applications that have been translated
 into DARTS code using the omp2cd compiler.
+
+Each example contains a Makefile with the following basic rules:
+
+- make omp (default):
+Compiles the OpenMP application into a executable.
+
+- make clean
+Removes OpenMP executable and corresponding object files.
+
+- make darts:
+Compiles the OpenMP application into DARTS code using the omp2cd compiler.
+
+- make clean-darts
+Removes the generated DARTS code.
+
+Paths to omp2cd and OpenMP libraries and compilation/linking options are defined in the top level
+file Makefile.def. Modify this file according to your environment.
+
+Generated DARTS applications rely on the library included in darts_lib, which contains functions
+to read OpenMP variables and common base classes.
+
+
