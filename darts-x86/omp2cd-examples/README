@@ -1,0 +1,2 @@
+This directory contains OpenMP applications that have been translated
+into DARTS code using the omp2cd compiler.
