@@ -1,0 +1,13 @@
+set(DARTS_INCLUDE_DIRS "${CMAKE_INSTALL_PREFIX}/darts/include")
+
+# Our library dependencies (contains definitions for IMPORTED targets)
+include(${CMAKE_INSTALL_PREFIX}/darts/CMake/dartsLibraryDepends.cmake)
+
+# These are IMPORTED targets created by dartsLibraryDepends.cmake
+set(DARTS_LIBRARIES 
+    ${CMAKE_INSTALL_PREFIX}/darts/lib/amm 
+    ${CMAKE_INSTALL_PREFIX}/darts/lib/codelet 
+    ${CMAKE_INSTALL_PREFIX}/darts/lib/common 
+    ${CMAKE_INSTALL_PREFIX}/darts/lib/darts 
+    ${CMAKE_INSTALL_PREFIX}/darts/lib/rsmanager 
+    ${CMAKE_INSTALL_PREFIX}/darts/lib/scheduler)

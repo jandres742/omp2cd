@@ -1,0 +1,8 @@
+add_executable(mm mm.cpp)
+add_executable(percmmrow percmmrow.cpp)
+add_executable(percmmblock percmmblock.cpp)
+add_executable(percmmcopyblock percmmcopyblock.cpp)
+target_link_libraries(mm darts)
+target_link_libraries(percmmrow darts)
+target_link_libraries(percmmblock darts)
+target_link_libraries(percmmcopyblock darts)

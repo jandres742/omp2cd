@@ -1,0 +1,54 @@
+================
+= DARTS README =
+================
+Hello and thank you for downloading/taking interest in Darts, an asynchonous
+fine-grained runtime based on the codelet model!  The following is designed to
+get you off the ground.
+
+This is a modified and improved version of DARTS aimed to support code generated
+by the omp2cd compiler, although it can also be used with any DARTS code.
+
+System requirements:
+====================
+- Pthreads.
+- hwloc http://www.open-mpi.org/projects/hwloc/
+- Optional but recommended: TBB http://threadingbuildingblocks.org/
+
+ATLAS libraries are needed for NWChem-SCF. Add the path to the libraries
+and modify the corresponding lines as indicated in the CMakeLists.txt file.
+
+BOOST queues may be used if desired on the TP schedulers(not used by default). If desired,
+modify scheduler/TPScheduler.h and the CMakeLists.txt file as indicated in those files.
+
+Steps to install:
+=================
+1. Create a director to build the source in the upper most directory
+   $ mkdir build
+2. Move into this directory
+   $ cd build
+3. Use Cmake to configure the build aiming at the top level CMakelist.txt
+   $ cmake ../ -DCMAKE_C_COMPILER=gcc -DCMAKE_CXX_COMPILER=g++
+4. Build
+   $ make
+5. To install for other projects to use
+   $ make install
+
+
+Cmake Options:
+==============
+All of these options may be added when generating the makefiles in step 3.
+1. Debug ie. compile with -g: -DDEBUG=ON
+   By default cmake compiles in release mode ie. compiles with -O3
+2. Install directory: -DCMAKE_INSTALL_PREFIX="DIRECTORY/OF/YOUR/CHOICE"
+   By defualt Darts will install in bash variable HOME/darts
+
+
+Troubleshooting:
+================
+1. Cmake cannot find a hwloc/TBB
+   First make sure you have hwloc/TBB installed on your system.
+   Second cmake will look for hwloc/TBB in specific directories.  To find if you
+   installation is located in on of these directories, navigate in your source
+   to the cmake/Modules directory and view the FindHwloc.cmake/FindTBB.cmake
+   file.  You may add your search path to these files rather than moving your
+   installation.

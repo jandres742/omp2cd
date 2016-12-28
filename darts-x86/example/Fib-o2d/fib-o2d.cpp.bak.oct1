@@ -1,0 +1,280 @@
+//==========================================================//
+/*
+#include <omp.h> should be found and commented. It is replaced by the usual includes in a darts file:
+
+#include <iostream>
+#include <stdlib.h>
+#include <stdint.h>
+#include "getClock.h"
+#include "darts.h"
+*/
+
+#ifdef OMPCODE
+#include <omp.h>
+#else
+#include <iostream>
+#include <stdlib.h>
+#include <stdint.h>
+#include "getClock.h"
+#include "darts.h"
+#include <vector>
+#endif
+//==========================================================//
+
+#include <iostream>
+#include <cstdlib>
+#include <chrono>
+
+//==========================================================//
+/*
+using namespace darts should be added
+*/
+
+#if OMPCODE==0
+using namespace darts;
+#endif
+//==========================================================//
+using namespace std;
+using namespace chrono;
+
+#define CUTOFF 20
+
+//==========================================================//
+/*
+Global variable created since the function returns a value.
+*/
+#if OMPCODE==0
+int theResult;
+#endif
+//==========================================================//
+
+//==========================================================//
+/*
+Vector of inputs
+*/
+#if OMPCODE==0
+std::vector<int> theInputs;
+#endif
+//==========================================================//
+
+int calcSerialFib(int num)
+{
+	int result = 0;
+	if(num <= 1)
+	{
+		return num;
+	}
+
+	int fib1 = 1, fib0 = 0;
+	while(num > 1)
+	{
+		result = fib1 + fib0;
+		fib0 = fib1;
+		fib1 = result;
+		num--;
+	}
+	return result;
+}
+
+
+int calcParallelFib(int num)
+{
+	int fib0 = 0, fib1 = 1;
+	if(num <= CUTOFF)
+	{
+		return calcSerialFib(num);
+	}
+#pragma omp parallel
+	{
+		int num_1 = num-1;
+		int num_2 = num-2;
+#pragma omp task firstprivate(num_1) shared(fib1)
+		fib1 = calcParallelFib(num_1);
+#pragma omp task firstprivate(num_2) shared(fib0)
+		fib0 = calcParallelFib(num_2);
+#pragma omp taskwait
+	}	
+	return fib1 + fib0;
+}
+
+
+//==========================================================//
+
+
+#if OMPCODE==0
+
+
+class ActionCodelet : public Codelet
+{
+public:
+	ActionCodelet(uint32_t dep, uint32_t res, ThreadedProcedure * myTP, uint32_t stat):
+	Codelet(dep,res,theTP,stat) { }
+  
+	void fire(void)
+	{
+		std::cout << "Fire Action Codelet" << std::endl;
+		
+		theTP * myTP = static_cast<theTP*>(myTP_);
+		
+		if(myFib->num<2)
+		{
+			(*myFib->result) = myFib->num;
+			myFib->toSignal->decDep();
+		}
+		else
+		{
+			invoke<fib>(myFib,myFib->num-1,&myFib->x,&myFib->adder);
+			invoke<fib>(myFib,myFib->num-2,&myFib->y,&myFib->adder);
+		}
+	}
+};
+
+class WaitCodelet : public Codelet
+{
+public:
+	WaitCodelet(uint32_t dep, uint32_t res, ThreadedProcedure * myTP, uint32_t stat):	
+	Codelet(dep,res,theTP,stat) { }
+  
+	void fire(void)
+	{ 
+		std::cout << "Fire Wait Codelet" << std::endl;
+		
+		theTP * myTP = static_cast<theTP*>(myTP_);
+		
+		(*myFib->result) = myFib->x + myFib->y;
+		myFib->toSignal->decDep();
+	}
+};
+
+
+
+
+
+
+class theTP : public ThreadedProcedure
+{
+public:
+    //These are the frame variables
+    int num;
+    int x;
+    int y;
+    int * result;
+    cd1 check;
+    cd2 adder;
+    //This is who to signal when complete
+    Codelet * toSignal;
+    
+    //Constructor
+    fib(int n, int * res, Codelet * toSig):
+    ThreadedProcedure(),
+    num(n),
+    x(0),
+    y(0),
+    result(res),
+    check(0,0,this,SHORTWAIT),
+    adder(2,2,this,LONGWAIT),
+    toSignal(toSig) 
+    { 
+        add(&check); 
+    }  
+};
+
+
+
+
+class FinalCodelet : public Codelet
+{
+public:
+  FinalCodelet(uint32_t dep, uint32_t res, ThreadedProcedure * myTP, uint32_t stat):
+  Codelet(dep,res,myTP,stat) { }
+  
+  void fire(void)
+  {
+	std::cout << "WaitCodelet" << std::endl;	
+  }
+};
+
+
+class mainTP : public ThreadedProcedure
+{
+public:
+    //ActionCodelet theActionCodelet;
+    FinalCodelet theFinalCodelet;
+    mainTP():
+    res(1,1,this,LONGWAIT)
+    {
+		invoke<theTP>(this, 0, &theResult, &theFinalCodelet);
+    }
+
+};
+
+#endif
+//==========================================================//
+
+
+int main(int argc, char** argv)
+{
+	if(argc <= 1 )
+	{
+		cout << "Use ./fib-omp FIBNUMBER NUMTHREADS" << endl;
+		return 0;
+	} 
+	//else
+	int fibNum = atoi(argv[1]);
+	int numThreads = atoi(argv[2]);
+	omp_set_num_threads(numThreads);
+	
+	cout << "Fibonacci OpenMP 3.0" << endl;
+	cout << "Number of Threads: " << omp_get_max_threads() << endl;
+
+	system_clock::time_point startTime, endTime;
+	system_clock::duration serialTime, parallelTime;
+
+	startTime = system_clock::now();
+	int serialFib = calcSerialFib(fibNum);
+	endTime =  system_clock::now();
+	serialTime = endTime - startTime;
+
+	startTime =  system_clock::now();
+	//==========================================================//
+	/*
+	The function with the openmp directives is replaced by the call to the main TP.
+	
+	If such function returns a value, a global variable theResult is created.
+	
+	If an input is required, a vector of inputs is created.
+	
+	*/
+#ifdef OMPCODE
+	int parallelFib = calcParallelFib(fibNum);
+#else
+	//Store in the vector the inputs passed to the function with opemp directives
+	theInputs.push_back(fibNum);//as many as inputs required
+	
+	ThreadAffinity affin(3U, 1U, COMPACT, 0, 0);
+    if (affin.generateMask())
+    {
+        std::cout << "Calling mainTP" << std::endl;
+
+        Runtime(&affin).run(launch<mainTP>());
+    }	
+	
+	int parallelFib = theResult;
+#endif
+	//==========================================================//
+	endTime =  system_clock::now();
+	parallelTime = endTime - startTime;
+
+	if(serialFib != parallelFib)
+	{
+		cout << "Error in calculation" << endl;
+	}
+
+	cout << "Serial Fib(" << fibNum << ") = " << serialFib << endl; 
+	cout << "Serial   Time: " << chrono::duration_cast<chrono::milliseconds>(serialTime).count()/double(1000) << " seconds" << endl;	
+
+	cout << "Parallel Fib(" << fibNum << ") = " << parallelFib << endl; 
+	cout << "Parallel Time: " << chrono::duration_cast<chrono::milliseconds>(parallelTime).count()/double(1000) << " seconds" << endl;	
+
+	return 0;
+}
