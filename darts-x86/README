@@ -166,18 +166,18 @@ Sets up the policy used by the Micro schedulers. Options are:
 
 DARTS_MCPOLICY=0
 Name: MicroStandard.
-Each Micro Scheduler executes the Codelets pushed into its queue by its parent
+Each Micro scheduler executes the Codelets pushed into its queue by its parent
 TP scheduler.
 
 DARTS_MCPOLICY=1
 Name: MicroSteal.
-Each Micro Scheduler executes the Codelets pushed into its queue by its parent
+Each Micro scheduler executes the Codelets pushed into its queue by its parent
 TP scheduler. When its queue is empty, it steals one Codelet from its parent
 TP scheduler's queue.
 
 DARTS_MCPOLICY=2
 Name: MicroSteal_Sleep.
-Each Micro Scheduler executes the Codelets pushed into its queue by its parent
+Each Micro scheduler executes the Codelets pushed into its queue by its parent
 TP scheduler. Unlike previous policies, context objects used by the runtime
 are not deleted right away but queued and later deleted when the scheduler has
 no Codelets to execute. If there are no objects to delete, the scheduler goes
@@ -185,7 +185,7 @@ to sleep. Sleep time is controlled with DARTS_MCSLEEP.
 
 DARTS_MCPOLICY=3
 Name: MicroSteal_DeleteAtFinal.
-Each Micro Scheduler executes the Codelets pushed into its queue by its parent
+Each Micro scheduler executes the Codelets pushed into its queue by its parent
 TP scheduler. Unlike previous policies, context objects used by the runtime are
 not deleted right away but queued and deleted only at the end of the application
 when the scheduler is killed.
