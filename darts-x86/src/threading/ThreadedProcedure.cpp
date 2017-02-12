@@ -12,7 +12,6 @@ ThreadedProcedure::ThreadedProcedure(void)
     , parentTP_(myThread.tempParent)
     , numThreads(0)
     , mainCodeletID(0)
-    , schedulingBeyondCluster(false)
 {
 }
 
@@ -21,7 +20,6 @@ ThreadedProcedure::ThreadedProcedure(unsigned int num, ThreadedProcedure* parent
     , parentTP_(parentTP)
     , numThreads(0)
     , mainCodeletID(0)
-    , schedulingBeyondCluster(false)
 {
 }
 
@@ -31,7 +29,6 @@ ThreadedProcedure::ThreadedProcedure(unsigned int in_numThreads,
     , parentTP_(myThread.tempParent)
     , numThreads(in_numThreads)
     , mainCodeletID(in_mainCodeletID)
-    , schedulingBeyondCluster(false)
 {
 }
 

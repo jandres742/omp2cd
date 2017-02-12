@@ -27,15 +27,13 @@ protected:
 	 * Variable: ref_
 	 * ref_ says when the TP is done
 	*/
-    // unsigned int ref_;
+    unsigned int ref_;
 
 public:
-    unsigned int ref_;
 
     ThreadedProcedure* parentTP_;
     unsigned int numThreads;
     unsigned int mainCodeletID;
-    bool schedulingBeyondCluster;
 
     ThreadedProcedure(void);
     ThreadedProcedure(unsigned int num, ThreadedProcedure* parentTP);

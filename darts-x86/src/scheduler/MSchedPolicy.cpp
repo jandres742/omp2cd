@@ -54,21 +54,9 @@ bool MicroStandard(MScheduler* mSched)
 bool MicroSteal(MScheduler* mSched)
 {
     /*TPs are deleted on the run */
+    TPScheduler* myTPSched = static_cast<TPScheduler*>(mSched->getParentScheduler());
     while (mSched->alive()) {
-        Codelet* tempCodelet = mSched->pop();
-        while (tempCodelet && mSched->alive()) {
-            // if (tempCodelet) {
-            ThreadedProcedure* checkTP = tempCodelet->getTP();
-            bool deleteTP = (checkTP) ? checkTP->checkParent() : false;
-            tempCodelet->fire();
-            if (deleteTP)
-                if (checkTP->decRef())
-                    delete checkTP;
-
-            tempCodelet = mSched->pop();
-        }
-        TPScheduler* myTPSched = static_cast<TPScheduler*>(mSched->getParentScheduler());
-        tempCodelet = myTPSched->popCodelet();
+        Codelet* tempCodelet = myTPSched->popCodelet();
         if (tempCodelet) {
             tempCodelet->fire();
             ThreadedProcedure* checkTP = tempCodelet->getTP();
@@ -85,14 +73,12 @@ bool MicroSteal_Sleep(MScheduler* mSched)
 {
     /*TPs are deleted when scheduler is idle */
     std::queue<ThreadedProcedure*> pendingTPsToDel;
+    TPScheduler* myTPSched = static_cast<TPScheduler*>(mSched->getParentScheduler());
     while (mSched->alive()) {
-
         bool scheduled = true;
-        TPScheduler* myTPSched = static_cast<TPScheduler*>(mSched->getParentScheduler());
         Codelet* tempCodelet = myTPSched->popCodelet();
         if (!tempCodelet)
             scheduled = false;
-
         while (tempCodelet && mSched->alive()) {
             tempCodelet->fire();
             ThreadedProcedure* checkTP = tempCodelet->getTP();
@@ -100,7 +86,6 @@ bool MicroSteal_Sleep(MScheduler* mSched)
             if (deleteTP)
                 if (checkTP->decRef())
                     pendingTPsToDel.push(checkTP);
-
             tempCodelet = myTPSched->popCodelet();
         }
         cleanupOrSleep(scheduled, mSched, pendingTPsToDel);
@@ -113,11 +98,9 @@ bool MicroSteal_DeleteAtFinal(MScheduler* mSched)
 {
     /*TPs are deleted when scheduler is idle */
     std::queue<ThreadedProcedure*> pendingTPsToDel;
+    TPScheduler* myTPSched = static_cast<TPScheduler*>(mSched->getParentScheduler());
     while (mSched->alive()) {
-
-        TPScheduler* myTPSched = static_cast<TPScheduler*>(mSched->getParentScheduler());
         Codelet* tempCodelet = myTPSched->popCodelet();
-
         while (tempCodelet && mSched->alive()) {
             tempCodelet->fire();
             ThreadedProcedure* checkTP = tempCodelet->getTP();
@@ -125,7 +108,6 @@ bool MicroSteal_DeleteAtFinal(MScheduler* mSched)
             if (deleteTP)
                 if (checkTP->decRef())
                     pendingTPsToDel.push(checkTP);
-
             tempCodelet = myTPSched->popCodelet();
         }
     }

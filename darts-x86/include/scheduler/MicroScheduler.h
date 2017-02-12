@@ -90,9 +90,12 @@ public:
     //This function puts a codelet into the waiting pool
     virtual bool placeCodelet(Codelet* input)
     {
-        // return buff.push(input);
+#if USE_RING_BUFF == 1
+        return buff.push(input);
+#else
         buff.push(input);
         return true;
+#endif
     }
 
     bool push(Codelet* const& toAdd)
