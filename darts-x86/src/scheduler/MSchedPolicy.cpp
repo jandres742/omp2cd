@@ -23,7 +23,7 @@ inline void cleanupOrSleep(bool scheduled, MScheduler* mSched,
             pendingTPsToDel.pop();
             delete TPToDel;
         }
-    } else if (mSched->getNumSched() > mSched->getNumOfMaxUnitsPerCluster() * 2 && scheduled == false) {
+    } else if (scheduled == false) {
         usleep(mSched->getSleepTime());
         if (mSched->getSleepTime() <= MCSleepTime)
             mSched->setSleepTime(mSched->getSleepTime() << 1);
