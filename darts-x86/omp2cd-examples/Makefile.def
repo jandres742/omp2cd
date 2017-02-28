@@ -2,22 +2,23 @@
 CC=gcc
 
 #Paths to the Intel OpenMP library
-OPENMPPATH=$(PATH_TO_OPENNMP_RUNTIME_FOLDER)
+OPENMPPATH=$PATH_TO_OPENMP/openmp/runtime
 OPENMPINCLUDE=$(OPENMPPATH)/exports/common/include
 OPENMPLIB=$(OPENMPPATH)/exports/lin_32e/lib
 
 #Compilation flags for OpenMP applications
-CFLAGS=-std=gnu99 -g3 -O3 -I$(OPENMPINCLUDE) -Wall
-CFLAGS_OPENMP=$(CFLAGS) -fopenmp
+CFLAGS_OPENMP=-std=gnu99 -g3 -O3 -Wall -I$(OPENMPINCLUDE) -fopenmp
 
 #Linking flags for OpenMP applications with the Intel OpenMP library
-LDFLAGS=-L$(OPENMPLIB) -O3 -lm
-LDFLAGS_OPENMP=$(LDFLAGS) -lomp
+LDFLAGS_OPENMP=-O3 -L$(OPENMPLIB) -lomp -lm -lrt
+
+#Atlas
+LDFLAGS_ATLAS=-L$PATH_TO_ATLAS/atlas/3.10.2/lib -lsatlas
 
 #Path to the omp2cd compiler
-LLVMBIN=$(PATH_TO_BIN_FOLDER_IN_LLVM)
+LLVMBIN=$PATH_TO_LLVM_BUILD/build/bin
 OMP2CD=$(LLVMBIN)/omp2cd
 
 #omp2cd compilation flags
-CLANGFLAGS=-fopenmp -I$(OPENMPINCLUDE)
+CLANGFLAGS=-I$(OPENMPINCLUDE) -fopenmp
 OMP2CDFLAGS= -balanceOMPFor -IG=50 -inlineOMP
