@@ -1,0 +1,37 @@
+1) To compile the program, type "make".
+
+2) To run the program, type "scf.x".
+
+3) The programs input file is be.input.
+
+4) The following optimization should be considered
+
+   a) In function g in file scf.c replace pow(pi, 2.50) with a constant.  Some compilers may replace the
+      term automatically.  The division by expntIJ and expntKL operations can be avoided by calculating their
+       inverse and multiplying.
+
+   b) Change 2-index reads and writes of 2-D arrays to single dimension and calculate offsets manually.
+
+   c) Convert loop structure or array indicies so that loops access arrays in row major order.
+
+   d) If single dimension arrays are used, contract_matricies can be modified to use a single loop which
+      iterates to nbfn*nbfn and uses pointer incrementing.
+
+   e) oneel can be modified; rather than reinitializing g_fock each iteration, precompute g_fock and perform
+      a memcpy from a stored copy. This doesn't make too big of a difference, but could add up for very
+      large problems.
+
+   f) Inline g and hoist loop invariant expressions.
+
+   g) There is symmetry in g that can be exploited to cut the number of times is it called to approximately
+      1/8th. The function calculates the same value when: i and j are swapped, k and l are swapped, i,j and
+      k,l are swapped, as well as any combination of those three swap operations.
+
+   h) The calculations in g which only rely on one of the i,j or k,l input pairs can be precomputed. The
+      memory required for this is of the same order as g_fock and other existing matricies which scale with
+      nbfn^2. Additionally, there is an e^(a+b) calculation which can be avoided since e^a and e^b can be
+      precomputed once and multiplied in g.
+
+    i) If g uses only precomputed tables, the i,j and k,l arguments can be replaced with the computed ij or
+       kl offset into the table. This is useful if twoel() has already been modified to easily compute these
+       offsets without requiring multiplication.
