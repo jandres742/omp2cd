@@ -1,0 +1,202 @@
+sourceFileName : masterthread.c
+-----------------------------
+Function Table (size = 1):
+-----------------------------
+funcName              = main
+type                  = int
+isOmp2dartsFunction   = 1
+id                    = 1
+Num of Parallel Reg   = 2
+-----------------------------
+Compiling
+fileName : /home/work/ececis_research/jaime/darts-x86-cplusplus/omp2cd-examples/tests/masterthread-test/masterthread.c
+AST traverse ended, generating fine-grain application...
+========================================================
+Processing node main 1
+children: CompoundStmt 5, 
+node->parent = rootNode 4 
+isFunctionDecl = 1
+isOMPDirective = 0
+isCallerNode = 0
+isLoopNode = 0 isComplexStmt = 0
+Creating region
+parentRegion = main 1
+node->myNodes.size() = 1
+---------------------
+In while-loop: childNode: CompoundStmt 5 childNode->myNodes.size() = 18
+children: CallExpr 6, DeclStmt 10, IfStmt 11, IfStmt 19, DeclStmt 24, DeclStmt 29, DeclStmt 34, ForStmt 36, DeclStmt 46, ForStmt 47, DeclStmt 54, CallExpr 55, OMPParallelDirective 56, IfStmt 73, ForStmt 77, CallExpr 87, CallExpr 88, ReturnStmt 89, 
+-------------
+In do-loop: tempNode: CallExpr 6 tempNode->myNodes.size() = 1
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+(3)creating new Region for tempNode : 6
+currentRegion = CallExpr 6
+-------------
+In do-loop: tempNode: DeclStmt 10 tempNode->myNodes.size() = 0
+currentRegion: CallExpr 6
+tempNode->prev 6 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 10 to current region CallExpr 6
+-------------
+In do-loop: tempNode: IfStmt 11 tempNode->myNodes.size() = 2
+currentRegion: CallExpr 6
+tempNode->prev 10 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 11 to current region CallExpr 6
+-------------
+In do-loop: tempNode: IfStmt 19 tempNode->myNodes.size() = 1
+currentRegion: CallExpr 6
+tempNode->prev 11 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 19 to current region CallExpr 6
+-------------
+In do-loop: tempNode: DeclStmt 24 tempNode->myNodes.size() = 1
+currentRegion: CallExpr 6
+tempNode->prev 19 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 24 to current region CallExpr 6
+-------------
+In do-loop: tempNode: DeclStmt 29 tempNode->myNodes.size() = 1
+currentRegion: CallExpr 6
+tempNode->prev 24 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 29 to current region CallExpr 6
+-------------
+In do-loop: tempNode: DeclStmt 34 tempNode->myNodes.size() = 1
+currentRegion: CallExpr 6
+tempNode->prev 29 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 34 to current region CallExpr 6
+-------------
+In do-loop: tempNode: ForStmt 36 tempNode->myNodes.size() = 1
+currentRegion: CallExpr 6
+tempNode->prev 34 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 36 to current region CallExpr 6
+-------------
+In do-loop: tempNode: DeclStmt 46 tempNode->myNodes.size() = 0
+currentRegion: CallExpr 6
+tempNode->prev 36 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 46 to current region CallExpr 6
+-------------
+In do-loop: tempNode: ForStmt 47 tempNode->myNodes.size() = 1
+currentRegion: CallExpr 6
+tempNode->prev 46 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 47 to current region CallExpr 6
+-------------
+In do-loop: tempNode: DeclStmt 54 tempNode->myNodes.size() = 0
+currentRegion: CallExpr 6
+tempNode->prev 47 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 54 to current region CallExpr 6
+-------------
+In do-loop: tempNode: CallExpr 55 tempNode->myNodes.size() = 0
+currentRegion: CallExpr 6
+tempNode->prev 54 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 55 to current region CallExpr 6
+-------------
+In do-loop: tempNode: OMPParallelDirective 56 tempNode->myNodes.size() = 1
+currentRegion: CallExpr 6
+tempNode->prev 55 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+calling generateRegions for tempNode : 56
+========================================================
+Processing node OMPParallelDirective 56
+children: CompoundStmt 57, 
+parentRegion = main 1 node->parent = CompoundStmt 5 
+isFunctionDecl = 0
+isOMPDirective = 1
+isCallerNode = 0
+isLoopNode = 0 isComplexStmt = 0
+Creating region
+parentRegion = OMPParallelDirective 56
+node->myNodes.size() = 1
+---------------------
+In while-loop: childNode: CompoundStmt 57 childNode->myNodes.size() = 3
+children: OMPMasterDirective 58, OMPBarrierDirective 69, BinaryOperator 70, 
+-------------
+In do-loop: tempNode: OMPMasterDirective 58 tempNode->myNodes.size() = 1
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+calling generateRegions for tempNode : 58
+========================================================
+Processing node OMPMasterDirective 58
+children: CompoundStmt 59, 
+parentRegion = OMPParallelDirective 56 node->parent = CompoundStmt 57 
+isFunctionDecl = 0
+isOMPDirective = 1
+isCallerNode = 0
+isLoopNode = 0 isComplexStmt = 0
+Creating region
+parentRegion = OMPMasterDirective 58
+node->myNodes.size() = 1
+---------------------
+In while-loop: childNode: CompoundStmt 59 childNode->myNodes.size() = 2
+children: BinaryOperator 60, ForStmt 62, 
+-------------
+In do-loop: tempNode: BinaryOperator 60 tempNode->myNodes.size() = 1
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+(3)creating new Region for tempNode : 60
+currentRegion = BinaryOperator 60
+-------------
+In do-loop: tempNode: ForStmt 62 tempNode->myNodes.size() = 1
+currentRegion: BinaryOperator 60
+tempNode->prev 60 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 62 to current region BinaryOperator 60
+coming back from calling generateRegions for tempNode : 58
+-------------
+In do-loop: tempNode: OMPBarrierDirective 69 tempNode->myNodes.size() = 0
+tempNode->prev 58 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+calling generateRegions for tempNode : 69
+========================================================
+Processing node OMPBarrierDirective 69
+parentRegion = OMPParallelDirective 56 node->parent = CompoundStmt 57 
+isFunctionDecl = 0
+isOMPDirective = 1
+isCallerNode = 0
+isLoopNode = 0 isComplexStmt = 0
+Creating region
+parentRegion = OMPBarrierDirective 69
+node->myNodes.size() = 0
+coming back from calling generateRegions for tempNode : 69
+-------------
+In do-loop: tempNode: BinaryOperator 70 tempNode->myNodes.size() = 1
+tempNode->prev 69 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+(3)creating new Region for tempNode : 70
+currentRegion = BinaryOperator 70
+coming back from calling generateRegions for tempNode : 56
+-------------
+In do-loop: tempNode: IfStmt 73 tempNode->myNodes.size() = 1
+tempNode->prev 56 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+(3)creating new Region for tempNode : 73
+currentRegion = IfStmt 73
+-------------
+In do-loop: tempNode: ForStmt 77 tempNode->myNodes.size() = 1
+currentRegion: IfStmt 73
+tempNode->prev 73 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 77 to current region IfStmt 73
+-------------
+In do-loop: tempNode: CallExpr 87 tempNode->myNodes.size() = 0
+currentRegion: IfStmt 73
+tempNode->prev 77 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 87 to current region IfStmt 73
+-------------
+In do-loop: tempNode: CallExpr 88 tempNode->myNodes.size() = 0
+currentRegion: IfStmt 73
+tempNode->prev 87 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 88 to current region IfStmt 73
+-------------
+In do-loop: tempNode: ReturnStmt 89 tempNode->myNodes.size() = 0
+currentRegion: IfStmt 73
+tempNode->prev 88 prevNodeIsFunctCall: 0 tempNode->prev->calleeTmpVarName.empty(): 1 tempNode->prev->useTmpVarInsteadOfCall: 0
+tempNodeIsFunctCall: 0, calleeTmpVarName: 
+adding  tempNode : 89 to current region IfStmt 73
+Preprocessing region OMPParallelDirective 56
