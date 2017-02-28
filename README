@@ -1,0 +1,63 @@
+====================================================
+omp2cd: An OpenMP to Codelets Compiler based on Clang
+
+v1.0
+March 1, 2017
+
+CAPSL: Computer Architectures and Parallel Systems Laboratory
+University of Delaware
+Newark, DE
+19716
+USA
+
+Jaime Arteaga
+jaime@udel.edu
+
+Citation:
+Jaime A Arteaga Molina, Stephane Zuckerman, Guang R. Gao
+"Multigrain Parallelism: Bridging Coarse-Grain Parallel Programs and Fine-Grain
+Event-Driven Multithreading"
+2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS 2017)
+May 2017
+====================================================
+
+This is omp2cd, a Multigrain Parallel Compiler to generate fine-grain applications
+from OpenMP programs. Currently, output applications are generated for DARTS and
+SWARM runtimes.
+
+omp2cd is a free software and distributed under the terms of the LLVM license.
+See license in top level directory of the LLVM project tree.
+
+====================================================
+A summary of the current support on omp2cd follows:
+
+Compiler Directives:
+- omp parallel
+- omp (parallel) for: Including static, dynamic, runtime policies. Support also for reduction operations.
+- omp sections
+- omp single
+- omp critical
+- omp atomic
+- omp barrier
+- omp task: Including depend clauses.
+- omp taskwait
+- omp threadprivate
+
+Library Routines:
+- omp_get_num_threads()
+- omp_set_num_threads()
+- omp_get_max_threads()
+- omp_get_thread_num()
+- omp_get_num_threads()
+- omp_get_max_threads()
+- omp_get_num_procs()
+- omp_get_wtime() 
+- omp_init_lock()
+- omp_destroy_lock()
+- omp_set_lock()
+- omp_unset_lock()
+
+Environment Variables:
+- OMP_NUM_THREADS
+- OMP_SCHEDULE
+====================================================
