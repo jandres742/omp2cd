@@ -97,6 +97,8 @@ void Codelet::setDep(uint32_t dep)
 void Codelet::resetCodelet(void)
 {
     sync_.resetCounter();
+    if(myTP_)
+      myTP_->incRef();
 #if 0
         //The check is just in case we are reseting the final codelet
         if(sync_.ready()){
