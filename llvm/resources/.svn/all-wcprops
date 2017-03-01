@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/239612/llvm/trunk/resources
+END
+windows_version_resource.rc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239612/llvm/trunk/resources/windows_version_resource.rc
+END

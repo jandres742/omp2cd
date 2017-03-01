@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/247281/llvm/trunk/utils/emacs
+END
+tablegen-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/225356/llvm/trunk/utils/emacs/tablegen-mode.el
+END
+emacs.el
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/226861/llvm/trunk/utils/emacs/emacs.el
+END
+llvm-mode.el
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/247281/llvm/trunk/utils/emacs/llvm-mode.el
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/243999/llvm/trunk/utils/emacs/README
+END

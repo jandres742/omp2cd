@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/251726/llvm/trunk/test/Transforms/StripDeadPrototypes
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/251726/llvm/trunk/test/Transforms/StripDeadPrototypes/basic.ll
+END

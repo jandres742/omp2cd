@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/268276/llvm/trunk/test/CodeGen/MIR/ARM
+END
+ARMLoadStoreDBG.mir
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267578/llvm/trunk/test/CodeGen/MIR/ARM/ARMLoadStoreDBG.mir
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/245082/llvm/trunk/test/CodeGen/MIR/ARM/lit.local.cfg
+END
+extraneous-closing-brace-error.mir
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/245082/llvm/trunk/test/CodeGen/MIR/ARM/extraneous-closing-brace-error.mir
+END
+sched-it-debug-nodes.mir
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/267578/llvm/trunk/test/CodeGen/MIR/ARM/sched-it-debug-nodes.mir
+END
+cfi-same-value.mir
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/ARM/cfi-same-value.mir
+END
+imm-peephole-arm.mir
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268276/llvm/trunk/test/CodeGen/MIR/ARM/imm-peephole-arm.mir
+END
+imm-peephole-thumb.mir
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268276/llvm/trunk/test/CodeGen/MIR/ARM/imm-peephole-thumb.mir
+END
+bundled-instructions.mir
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/ARM/bundled-instructions.mir
+END
+nested-instruction-bundle-error.mir
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/245082/llvm/trunk/test/CodeGen/MIR/ARM/nested-instruction-bundle-error.mir
+END
+expected-closing-brace.mir
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/245082/llvm/trunk/test/CodeGen/MIR/ARM/expected-closing-brace.mir
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/264313/llvm/trunk/test/Transforms/LoopLoadElim
+END
+loop-simplify-dep.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/263173/llvm/trunk/test/Transforms/LoopLoadElim/loop-simplify-dep.ll
+END
+opt-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/259861/llvm/trunk/test/Transforms/LoopLoadElim/opt-size.ll
+END
+memcheck.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/252467/llvm/trunk/test/Transforms/LoopLoadElim/memcheck.ll
+END
+backward.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/252017/llvm/trunk/test/Transforms/LoopLoadElim/backward.ll
+END
+non-consecutive.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/263058/llvm/trunk/test/Transforms/LoopLoadElim/non-consecutive.ll
+END
+multiple-stores-same-block.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/252017/llvm/trunk/test/Transforms/LoopLoadElim/multiple-stores-same-block.ll
+END
+forward.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/259860/llvm/trunk/test/Transforms/LoopLoadElim/forward.ll
+END
+type-mismatch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/264313/llvm/trunk/test/Transforms/LoopLoadElim/type-mismatch.ll
+END
+def-store-before-load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/252017/llvm/trunk/test/Transforms/LoopLoadElim/def-store-before-load.ll
+END
+unknown-dep.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/252017/llvm/trunk/test/Transforms/LoopLoadElim/unknown-dep.ll
+END

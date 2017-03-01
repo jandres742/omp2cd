@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView
+END
+TypeDumper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView/TypeDumper.cpp
+END
+TypeStreamMerger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView/TypeStreamMerger.cpp
+END
+TypeRecord.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView/TypeRecord.cpp
+END
+TypeTableBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView/TypeTableBuilder.cpp
+END
+ListRecordBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/lib/DebugInfo/CodeView/ListRecordBuilder.cpp
+END
+MethodListRecordBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269461/llvm/trunk/lib/DebugInfo/CodeView/MethodListRecordBuilder.cpp
+END
+FieldListRecordBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView/FieldListRecordBuilder.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/256387/llvm/trunk/lib/DebugInfo/CodeView/LLVMBuild.txt
+END
+Line.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/lib/DebugInfo/CodeView/Line.cpp
+END
+TypeRecordBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView/TypeRecordBuilder.cpp
+END
+MemoryTypeTableBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/lib/DebugInfo/CodeView/MemoryTypeTableBuilder.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo/CodeView/CMakeLists.txt
+END
+RecordSerialization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/269315/llvm/trunk/lib/DebugInfo/CodeView/RecordSerialization.cpp
+END

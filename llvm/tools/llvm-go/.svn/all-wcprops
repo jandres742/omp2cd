@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/258861/llvm/trunk/tools/llvm-go
+END
+llvm-go.go
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/258383/llvm/trunk/tools/llvm-go/llvm-go.go
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/220462/llvm/trunk/tools/llvm-go/CMakeLists.txt
+END

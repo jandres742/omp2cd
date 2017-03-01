@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/unittests/Transforms/IPO
+END
+WholeProgramDevirt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/unittests/Transforms/IPO/WholeProgramDevirt.cpp
+END
+LowerBitSets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265176/llvm/trunk/unittests/Transforms/IPO/LowerBitSets.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/unittests/Transforms/IPO/CMakeLists.txt
+END

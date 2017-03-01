@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269051/llvm/trunk/test/Transforms/LoopVectorize/AArch64
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Transforms/LoopVectorize/AArch64/lit.local.cfg
+END
+interleaved_cost.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/246542/llvm/trunk/test/Transforms/LoopVectorize/AArch64/interleaved_cost.ll
+END
+reduction-small-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/247337/llvm/trunk/test/Transforms/LoopVectorize/AArch64/reduction-small-size.ll
+END
+sdiv-pow2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/AArch64/sdiv-pow2.ll
+END
+deterministic-type-shrinkage.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/254179/llvm/trunk/test/Transforms/LoopVectorize/AArch64/deterministic-type-shrinkage.ll
+END
+first-order-recurrence.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/265983/llvm/trunk/test/Transforms/LoopVectorize/AArch64/first-order-recurrence.ll
+END
+gather-cost.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/AArch64/gather-cost.ll
+END
+aarch64-unroll.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/AArch64/aarch64-unroll.ll
+END
+type-shrinkage-insertelt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/260893/llvm/trunk/test/Transforms/LoopVectorize/AArch64/type-shrinkage-insertelt.ll
+END
+arbitrary-induction-step.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/246542/llvm/trunk/test/Transforms/LoopVectorize/AArch64/arbitrary-induction-step.ll
+END
+arm64-unroll.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/AArch64/arm64-unroll.ll
+END
+backedge-overflow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/265786/llvm/trunk/test/Transforms/LoopVectorize/AArch64/backedge-overflow.ll
+END
+loop-vectorization-factors.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/269051/llvm/trunk/test/Transforms/LoopVectorize/AArch64/loop-vectorization-factors.ll
+END

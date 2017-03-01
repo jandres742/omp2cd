@@ -1,0 +1,791 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/268652/llvm/trunk/test/Object/Inputs
+END
+corrupt-version.elf-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/188022/llvm/trunk/test/Object/Inputs/corrupt-version.elf-x86_64
+END
+macho64-invalid-too-small-segment-load-command
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho64-invalid-too-small-segment-load-command
+END
+no-section-table.so
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/241869/llvm/trunk/test/Object/Inputs/no-section-table.so
+END
+trivial-object-test.elf-hexagon
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/159081/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-hexagon
+END
+thumb-symbols.elf.arm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/205500/llvm/trunk/test/Object/Inputs/thumb-symbols.elf.arm
+END
+trivial-object-test.macho-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.macho-x86-64
+END
+corrupt-invalid-dynamic-table-offset.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/244320/llvm/trunk/test/Object/Inputs/corrupt-invalid-dynamic-table-offset.elf.x86-64
+END
+symtab-only.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/241750/llvm/trunk/test/Object/Inputs/symtab-only.a
+END
+corrupt-invalid-virtual-addr.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/260962/llvm/trunk/test/Object/Inputs/corrupt-invalid-virtual-addr.elf.x86-64
+END
+corrupt-invalid-dynamic-table-too-large.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/244323/llvm/trunk/test/Object/Inputs/corrupt-invalid-dynamic-table-too-large.elf.x86-64
+END
+weak.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/200808/llvm/trunk/test/Object/Inputs/weak.elf-x86-64
+END
+macho-invalid-no-size-for-sections
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho-invalid-no-size-for-sections
+END
+corrupt-invalid-relocation-size.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/242700/llvm/trunk/test/Object/Inputs/corrupt-invalid-relocation-size.elf.x86-64
+END
+macho-invalid-bad-symbol-index
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho-invalid-bad-symbol-index
+END
+macho-invalid-symbol-name-past-eof
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho-invalid-symbol-name-past-eof
+END
+archive-test.a-empty
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/186159/llvm/trunk/test/Object/Inputs/archive-test.a-empty
+END
+macho-invalid-too-small-segment-load-command
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho-invalid-too-small-segment-load-command
+END
+SVR4.a
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/SVR4.a
+END
+darwin-m-test3.macho-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/210285/llvm/trunk/test/Object/Inputs/darwin-m-test3.macho-x86-64
+END
+no-sections.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/212059/llvm/trunk/test/Object/Inputs/no-sections.elf-x86-64
+END
+macho-archive-x86_64.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/211117/llvm/trunk/test/Object/Inputs/macho-archive-x86_64.a
+END
+elfver.script
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elfver.script
+END
+macho-hello-g.macho-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/213327/llvm/trunk/test/Object/Inputs/macho-hello-g.macho-x86_64
+END
+corrupt-invalid-strtab.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/242658/llvm/trunk/test/Object/Inputs/corrupt-invalid-strtab.elf.x86-64
+END
+invalid-strtab-size.elf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/240950/llvm/trunk/test/Object/Inputs/invalid-strtab-size.elf
+END
+sectionGroup.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/230124/llvm/trunk/test/Object/Inputs/sectionGroup.elf.x86-64
+END
+trivial-object-test.elf-mips64el
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/178694/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-mips64el
+END
+relocations.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/163272/llvm/trunk/test/Object/Inputs/relocations.elf-x86-64
+END
+macho-universal-archive.x86_64.i386
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/208812/llvm/trunk/test/Object/Inputs/macho-universal-archive.x86_64.i386
+END
+pr25877.lib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/256001/llvm/trunk/test/Object/Inputs/pr25877.lib
+END
+invalid-sh_entsize.elf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/261099/llvm/trunk/test/Object/Inputs/invalid-sh_entsize.elf
+END
+macho-no-exports.dylib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/224563/llvm/trunk/test/Object/Inputs/macho-no-exports.dylib
+END
+GNU.a
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/GNU.a
+END
+no-section-header-string-table.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/242839/llvm/trunk/test/Object/Inputs/no-section-header-string-table.elf-x86-64
+END
+trivial-label-test.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/215837/llvm/trunk/test/Object/Inputs/trivial-label-test.elf-x86-64
+END
+elfver.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elfver.S
+END
+trivial-object-test.elf-avr
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/251096/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-avr
+END
+macho-text.thumb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/179848/llvm/trunk/test/Object/Inputs/macho-text.thumb
+END
+macho-text-data-bss.macho-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/209158/llvm/trunk/test/Object/Inputs/macho-text-data-bss.macho-x86_64
+END
+invalid-strtab-non-null.elf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/240945/llvm/trunk/test/Object/Inputs/invalid-strtab-non-null.elf
+END
+liblong_filenames.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/167853/llvm/trunk/test/Object/Inputs/liblong_filenames.a
+END
+macho-invalid-zero-ncmds
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho-invalid-zero-ncmds
+END
+rel-no-sec-table.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/242998/llvm/trunk/test/Object/Inputs/rel-no-sec-table.elf-x86-64
+END
+archive-test.a-coff-i386
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/archive-test.a-coff-i386
+END
+macho-text-sections.macho-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/170349/llvm/trunk/test/Object/Inputs/macho-text-sections.macho-x86_64
+END
+thin.a
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/224307/llvm/trunk/test/Object/Inputs/thin.a
+END
+macho-archive-unsorted-x86_64.a
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/221747/llvm/trunk/test/Object/Inputs/macho-archive-unsorted-x86_64.a
+END
+coff_archive.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/183091/llvm/trunk/test/Object/Inputs/coff_archive.lib
+END
+unwind-section.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/212880/llvm/trunk/test/Object/Inputs/unwind-section.elf-x86-64
+END
+coff-short-import-data
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/246283/llvm/trunk/test/Object/Inputs/coff-short-import-data
+END
+elf-versioning-test.i386
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elf-versioning-test.i386
+END
+trivial-object-test2.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/186934/llvm/trunk/test/Object/Inputs/trivial-object-test2.elf-x86-64
+END
+corrupt-archive.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/211036/llvm/trunk/test/Object/Inputs/corrupt-archive.a
+END
+absolute.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/200818/llvm/trunk/test/Object/Inputs/absolute.elf-x86-64
+END
+xpg4.a
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/xpg4.a
+END
+elf-versioning-test.x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/152436/llvm/trunk/test/Object/Inputs/elf-versioning-test.x86_64
+END
+macho-invalid-header
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239078/llvm/trunk/test/Object/Inputs/macho-invalid-header
+END
+mri-crlf.mri
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/256707/llvm/trunk/test/Object/Inputs/mri-crlf.mri
+END
+main-ret-zero-pe-i386.exe
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/243755/llvm/trunk/test/Object/Inputs/main-ret-zero-pe-i386.exe
+END
+invalid-section-size.elf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/241109/llvm/trunk/test/Object/Inputs/invalid-section-size.elf
+END
+IsNAN.o
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/IsNAN.o
+END
+trivial-executable-test.macho-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/188879/llvm/trunk/test/Object/Inputs/trivial-executable-test.macho-x86-64
+END
+dext-test.elf-mips64r2
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/162808/llvm/trunk/test/Object/Inputs/dext-test.elf-mips64r2
+END
+macho64-invalid-incomplete-load-command
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho64-invalid-incomplete-load-command
+END
+program-headers.elf-i386
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/171649/llvm/trunk/test/Object/Inputs/program-headers.elf-i386
+END
+shared.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/151785/llvm/trunk/test/Object/Inputs/shared.ll
+END
+trivial.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/Object/Inputs/trivial.ll
+END
+macho64-invalid-no-size-for-sections
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho64-invalid-no-size-for-sections
+END
+elf-reloc-no-sym.x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/183284/llvm/trunk/test/Object/Inputs/elf-reloc-no-sym.x86_64
+END
+shndx.elf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/244504/llvm/trunk/test/Object/Inputs/shndx.elf
+END
+macho-data-in-code.macho-thumbv7
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/183424/llvm/trunk/test/Object/Inputs/macho-data-in-code.macho-thumbv7
+END
+relocatable-with-section-address.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/205493/llvm/trunk/test/Object/Inputs/relocatable-with-section-address.elf-x86-64
+END
+coff-short-import-code
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/246283/llvm/trunk/test/Object/Inputs/coff-short-import-code
+END
+libsimple_archive.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/167853/llvm/trunk/test/Object/Inputs/libsimple_archive.a
+END
+coff_archive_short.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/183091/llvm/trunk/test/Object/Inputs/coff_archive_short.lib
+END
+weak-global-symbol.macho-i386
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/193912/llvm/trunk/test/Object/Inputs/weak-global-symbol.macho-i386
+END
+corrupt-invalid-phentsize.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/242669/llvm/trunk/test/Object/Inputs/corrupt-invalid-phentsize.elf.x86-64
+END
+macho64-invalid-incomplete-load-command.1
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/268403/llvm/trunk/test/Object/Inputs/macho64-invalid-incomplete-load-command.1
+END
+relocation-dynamic.elf-i386
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/205588/llvm/trunk/test/Object/Inputs/relocation-dynamic.elf-i386
+END
+invalid-bad-rel-type.elf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/240176/llvm/trunk/test/Object/Inputs/invalid-bad-rel-type.elf
+END
+corrupt-invalid-dynamic-table-size.elf.x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/242712/llvm/trunk/test/Object/Inputs/corrupt-invalid-dynamic-table-size.elf.x86-64
+END
+trivial-object-test.coff-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/205746/llvm/trunk/test/Object/Inputs/trivial-object-test.coff-x86-64
+END
+program-headers.mips
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/237451/llvm/trunk/test/Object/Inputs/program-headers.mips
+END
+archive-test.a-gnu-minimal
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/185664/llvm/trunk/test/Object/Inputs/archive-test.a-gnu-minimal
+END
+darwin-m-test2.macho-i386
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/210285/llvm/trunk/test/Object/Inputs/darwin-m-test2.macho-i386
+END
+invalid-symbol-table-size.elf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/242981/llvm/trunk/test/Object/Inputs/invalid-symbol-table-size.elf
+END
+main-ret-zero-pe-i386.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/243755/llvm/trunk/test/Object/Inputs/main-ret-zero-pe-i386.dll
+END
+macho-invalid-section-index-getSectionRawName
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho-invalid-section-index-getSectionRawName
+END
+macho-rpath-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/223346/llvm/trunk/test/Object/Inputs/macho-rpath-x86_64
+END
+very_long_bytecode_file_name.bc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/very_long_bytecode_file_name.bc
+END
+dynamic-reloc.so
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/263988/llvm/trunk/test/Object/Inputs/dynamic-reloc.so
+END
+trivial-object-test.macho-i386
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.macho-i386
+END
+macho-invalid-too-small-segment-load-command.1
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/268652/llvm/trunk/test/Object/Inputs/macho-invalid-too-small-segment-load-command.1
+END
+invalid-bad-section-address.coff
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/241447/llvm/trunk/test/Object/Inputs/invalid-bad-section-address.coff
+END
+no-start-symbol.elf-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239039/llvm/trunk/test/Object/Inputs/no-start-symbol.elf-x86_64
+END
+macho64-invalid-incomplete-segment-load-command
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/239109/llvm/trunk/test/Object/Inputs/macho64-invalid-incomplete-segment-load-command
+END
+macho-empty-kext-bundle-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230779/llvm/trunk/test/Object/Inputs/macho-empty-kext-bundle-x86-64
+END
+archive-test.a-irix6-mips64el
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/229520/llvm/trunk/test/Object/Inputs/archive-test.a-irix6-mips64el
+END
+corrupt.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/188022/llvm/trunk/test/Object/Inputs/corrupt.elf-x86-64
+END
+stackmap-test.macho-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/240875/llvm/trunk/test/Object/Inputs/stackmap-test.macho-x86-64
+END
+macho-universal.x86_64.i386
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/184191/llvm/trunk/test/Object/Inputs/macho-universal.x86_64.i386
+END
+macho64-invalid-too-small-load-command
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho64-invalid-too-small-load-command
+END
+trivial-object-test.elf-mipsel
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/212908/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-mipsel
+END
+macho-valid-0-nsyms
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/258576/llvm/trunk/test/Object/Inputs/macho-valid-0-nsyms
+END
+evenlen
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/evenlen
+END
+darwin-m-test1.mach0-armv7
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/210285/llvm/trunk/test/Object/Inputs/darwin-m-test1.mach0-armv7
+END
+trivial-object-test.coff-i386
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/161205/llvm/trunk/test/Object/Inputs/trivial-object-test.coff-i386
+END
+program-headers.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/171650/llvm/trunk/test/Object/Inputs/program-headers.elf-x86-64
+END
+invalid-xindex-size.elf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/245873/llvm/trunk/test/Object/Inputs/invalid-xindex-size.elf
+END
+program-headers.mips64
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/211891/llvm/trunk/test/Object/Inputs/program-headers.mips64
+END
+archive-test.a-corrupt-symbol-table
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/187353/llvm/trunk/test/Object/Inputs/archive-test.a-corrupt-symbol-table
+END
+elf-mip64-reloc.o
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/241440/llvm/trunk/test/Object/Inputs/elf-mip64-reloc.o
+END
+invalid-section-index.elf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/241094/llvm/trunk/test/Object/Inputs/invalid-section-index.elf
+END
+dyn-rel.so.elf-mips
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/258001/llvm/trunk/test/Object/Inputs/dyn-rel.so.elf-mips
+END
+invalid-strtab-type.elf
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/240944/llvm/trunk/test/Object/Inputs/invalid-strtab-type.elf
+END
+hello-world.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/180259/llvm/trunk/test/Object/Inputs/hello-world.elf-x86-64
+END
+macho-invalid-too-small-load-command
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/226219/llvm/trunk/test/Object/Inputs/macho-invalid-too-small-load-command
+END
+hello-world.macho-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/211117/llvm/trunk/test/Object/Inputs/hello-world.macho-x86_64
+END
+thin-path.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/242083/llvm/trunk/test/Object/Inputs/thin-path.a
+END
+macho64-invalid-too-small-load-command.1
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/268463/llvm/trunk/test/Object/Inputs/macho64-invalid-too-small-load-command.1
+END
+shared-object-test.elf-i386
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/151785/llvm/trunk/test/Object/Inputs/shared-object-test.elf-i386
+END
+trivial-object-test.elf-i386
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-i386
+END
+common.coff-i386
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/200803/llvm/trunk/test/Object/Inputs/common.coff-i386
+END
+oddlen
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/oddlen
+END
+relocation-relocatable.elf-i386
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/205588/llvm/trunk/test/Object/Inputs/relocation-relocatable.elf-i386
+END
+shared-object-test.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/151785/llvm/trunk/test/Object/Inputs/shared-object-test.elf-x86-64
+END
+MacOSX.a
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/186038/llvm/trunk/test/Object/Inputs/MacOSX.a
+END
+trivial-object-test.elf-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/143400/llvm/trunk/test/Object/Inputs/trivial-object-test.elf-x86-64
+END
+archive-test.a-gnu-no-symtab
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/185547/llvm/trunk/test/Object/Inputs/archive-test.a-gnu-no-symtab
+END
+micro-mips.elf-mipsel
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/222726/llvm/trunk/test/Object/Inputs/micro-mips.elf-mipsel
+END
+trivial-object-test2.macho-x86-64
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/241815/llvm/trunk/test/Object/Inputs/trivial-object-test2.macho-x86-64
+END

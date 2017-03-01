@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/265762/llvm/trunk/test/Transforms/FunctionAttrs
+END
+optnone-simple.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/FunctionAttrs/optnone-simple.ll
+END
+2008-09-13-VolatileRead.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/FunctionAttrs/2008-09-13-VolatileRead.ll
+END
+convergent.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/263481/llvm/trunk/test/Transforms/FunctionAttrs/convergent.ll
+END
+2008-09-03-ReadOnly.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/175605/llvm/trunk/test/Transforms/FunctionAttrs/2008-09-03-ReadOnly.ll
+END
+noreturn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/186268/llvm/trunk/test/Transforms/FunctionAttrs/noreturn.ll
+END
+atomic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/252871/llvm/trunk/test/Transforms/FunctionAttrs/atomic.ll
+END
+2009-01-02-LocalStores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/FunctionAttrs/2009-01-02-LocalStores.ll
+END
+optnone.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/260813/llvm/trunk/test/Transforms/FunctionAttrs/optnone.ll
+END
+nonnull.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246476/llvm/trunk/test/Transforms/FunctionAttrs/nonnull.ll
+END
+operand-bundles-scc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/260244/llvm/trunk/test/Transforms/FunctionAttrs/operand-bundles-scc.ll
+END
+2008-12-29-Constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/FunctionAttrs/2008-12-29-Constant.ll
+END
+2008-09-03-ReadNone.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/252871/llvm/trunk/test/Transforms/FunctionAttrs/2008-09-03-ReadNone.ll
+END
+readattrs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/261203/llvm/trunk/test/Transforms/FunctionAttrs/readattrs.ll
+END
+readnone.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/238152/llvm/trunk/test/Transforms/FunctionAttrs/readnone.ll
+END
+comdat-ipo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/265762/llvm/trunk/test/Transforms/FunctionAttrs/comdat-ipo.ll
+END
+2010-10-30-volatile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/252871/llvm/trunk/test/Transforms/FunctionAttrs/2010-10-30-volatile.ll
+END
+nocapture.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/261284/llvm/trunk/test/Transforms/FunctionAttrs/nocapture.ll
+END
+out-of-bounds-iterator-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/252386/llvm/trunk/test/Transforms/FunctionAttrs/out-of-bounds-iterator-bug.ll
+END
+2008-09-03-Mutual.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/96981/llvm/trunk/test/Transforms/FunctionAttrs/2008-09-03-Mutual.ll
+END
+norecurse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/260813/llvm/trunk/test/Transforms/FunctionAttrs/norecurse.ll
+END

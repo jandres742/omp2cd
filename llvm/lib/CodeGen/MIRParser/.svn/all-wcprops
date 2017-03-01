@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/CodeGen/MIRParser
+END
+MIParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/264608/llvm/trunk/lib/CodeGen/MIRParser/MIParser.cpp
+END
+MIRParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/266351/llvm/trunk/lib/CodeGen/MIRParser/MIRParser.cpp
+END
+MILexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266524/llvm/trunk/lib/CodeGen/MIRParser/MILexer.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/243081/llvm/trunk/lib/CodeGen/MIRParser/LLVMBuild.txt
+END
+MIParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/CodeGen/MIRParser/MIParser.h
+END
+MILexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/264608/llvm/trunk/lib/CodeGen/MIRParser/MILexer.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/240323/llvm/trunk/lib/CodeGen/MIRParser/CMakeLists.txt
+END

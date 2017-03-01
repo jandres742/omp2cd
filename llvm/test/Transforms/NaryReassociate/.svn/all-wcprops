@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/256035/llvm/trunk/test/Transforms/NaryReassociate
+END
+pr24301.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/248983/llvm/trunk/test/Transforms/NaryReassociate/pr24301.ll
+END
+nary-add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/247774/llvm/trunk/test/Transforms/NaryReassociate/nary-add.ll
+END
+nary-mul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/247774/llvm/trunk/test/Transforms/NaryReassociate/nary-mul.ll
+END

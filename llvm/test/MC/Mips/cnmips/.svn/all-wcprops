@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/264279/llvm/trunk/test/MC/Mips/cnmips
+END
+invalid.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/264279/llvm/trunk/test/MC/Mips/cnmips/invalid.s
+END

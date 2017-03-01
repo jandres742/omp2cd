@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265452/llvm/trunk/test/tools/llvm-dwp/Inputs/gcc_type
+END
+a.dwo
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265452/llvm/trunk/test/tools/llvm-dwp/Inputs/gcc_type/a.dwo
+END

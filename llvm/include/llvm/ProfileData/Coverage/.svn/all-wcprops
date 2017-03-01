@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/269547/llvm/trunk/include/llvm/ProfileData/Coverage
+END
+CoverageMappingReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/269547/llvm/trunk/include/llvm/ProfileData/Coverage/CoverageMappingReader.h
+END
+CoverageMappingWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/268089/llvm/trunk/include/llvm/ProfileData/Coverage/CoverageMappingWriter.h
+END
+CoverageMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/269547/llvm/trunk/include/llvm/ProfileData/Coverage/CoverageMapping.h
+END

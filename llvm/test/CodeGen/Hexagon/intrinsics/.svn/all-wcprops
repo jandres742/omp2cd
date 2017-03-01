@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/261210/llvm/trunk/test/CodeGen/Hexagon/intrinsics
+END
+alu32_perm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/alu32_perm.ll
+END
+xtype_alu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_alu.ll
+END
+xtype_perm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_perm.ll
+END
+xtype_fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_fp.ll
+END
+xtype_mpy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_mpy.ll
+END
+xtype_complex.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_complex.ll
+END
+system_user.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/261210/llvm/trunk/test/CodeGen/Hexagon/intrinsics/system_user.ll
+END
+xtype_pred.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_pred.ll
+END
+cr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/cr.ll
+END
+xtype_shift.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_shift.ll
+END
+alu32_alu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/alu32_alu.ll
+END
+xtype_bit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239634/llvm/trunk/test/CodeGen/Hexagon/intrinsics/xtype_bit.ll
+END

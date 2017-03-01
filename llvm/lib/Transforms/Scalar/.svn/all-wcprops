@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/269511/llvm/trunk/lib/Transforms/Scalar
+END
+LoopUnswitch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268357/llvm/trunk/lib/Transforms/Scalar/LoopUnswitch.cpp
+END
+ConstantHoisting.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/ConstantHoisting.cpp
+END
+InductiveRangeCheckElimination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/268457/llvm/trunk/lib/Transforms/Scalar/InductiveRangeCheckElimination.cpp
+END
+LowerGuardIntrinsic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268148/llvm/trunk/lib/Transforms/Scalar/LowerGuardIntrinsic.cpp
+END
+IndVarSimplify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/IndVarSimplify.cpp
+END
+LoopLoadElimination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/269021/llvm/trunk/lib/Transforms/Scalar/LoopLoadElimination.cpp
+END
+PartiallyInlineLibCalls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/268457/llvm/trunk/lib/Transforms/Scalar/PartiallyInlineLibCalls.cpp
+END
+TailRecursionElimination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/267692/llvm/trunk/lib/Transforms/Scalar/TailRecursionElimination.cpp
+END
+PlaceSafepoints.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/259121/llvm/trunk/lib/Transforms/Scalar/PlaceSafepoints.cpp
+END
+LoopRerollPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269121/llvm/trunk/lib/Transforms/Scalar/LoopRerollPass.cpp
+END
+LoopStrengthReduce.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/LoopStrengthReduce.cpp
+END
+LoopInterchange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269370/llvm/trunk/lib/Transforms/Scalar/LoopInterchange.cpp
+END
+ScalarReplAggregates.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267692/llvm/trunk/lib/Transforms/Scalar/ScalarReplAggregates.cpp
+END
+StructurizeCFG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266346/llvm/trunk/lib/Transforms/Scalar/StructurizeCFG.cpp
+END
+LoopInstSimplify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/LoopInstSimplify.cpp
+END
+CorrelatedValuePropagation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/CorrelatedValuePropagation.cpp
+END
+SCCP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/269269/llvm/trunk/lib/Transforms/Scalar/SCCP.cpp
+END
+LoopRotation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/269034/llvm/trunk/lib/Transforms/Scalar/LoopRotation.cpp
+END
+GVN.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268804/llvm/trunk/lib/Transforms/Scalar/GVN.cpp
+END
+ConstantProp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268457/llvm/trunk/lib/Transforms/Scalar/ConstantProp.cpp
+END
+DCE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/DCE.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/264976/llvm/trunk/lib/Transforms/Scalar/CMakeLists.txt
+END
+BDCE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/BDCE.cpp
+END
+Reg2Mem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268457/llvm/trunk/lib/Transforms/Scalar/Reg2Mem.cpp
+END
+Scalarizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268457/llvm/trunk/lib/Transforms/Scalar/Scalarizer.cpp
+END
+RewriteStatepointsForGC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/268790/llvm/trunk/lib/Transforms/Scalar/RewriteStatepointsForGC.cpp
+END
+JumpThreading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267430/llvm/trunk/lib/Transforms/Scalar/JumpThreading.cpp
+END
+LoopIdiomRecognize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267762/llvm/trunk/lib/Transforms/Scalar/LoopIdiomRecognize.cpp
+END
+SeparateConstOffsetFromGEP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/SeparateConstOffsetFromGEP.cpp
+END
+Reassociate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/267631/llvm/trunk/lib/Transforms/Scalar/Reassociate.cpp
+END
+Float2Int.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/Float2Int.cpp
+END
+SimplifyCFGPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268681/llvm/trunk/lib/Transforms/Scalar/SimplifyCFGPass.cpp
+END
+DeadStoreElimination.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/DeadStoreElimination.cpp
+END
+StraightLineStrengthReduce.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267645/llvm/trunk/lib/Transforms/Scalar/StraightLineStrengthReduce.cpp
+END
+Sink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/267199/llvm/trunk/lib/Transforms/Scalar/Sink.cpp
+END
+SROA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/268424/llvm/trunk/lib/Transforms/Scalar/SROA.cpp
+END
+FlattenCFGPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/250197/llvm/trunk/lib/Transforms/Scalar/FlattenCFGPass.cpp
+END
+Scalar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/269511/llvm/trunk/lib/Transforms/Scalar/Scalar.cpp
+END
+MergedLoadStoreMotion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/MergedLoadStoreMotion.cpp
+END
+LoopSimplifyCFG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269370/llvm/trunk/lib/Transforms/Scalar/LoopSimplifyCFG.cpp
+END
+EarlyCSE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/269445/llvm/trunk/lib/Transforms/Scalar/EarlyCSE.cpp
+END
+LoopDistribute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269392/llvm/trunk/lib/Transforms/Scalar/LoopDistribute.cpp
+END
+AlignmentFromAssumptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/268457/llvm/trunk/lib/Transforms/Scalar/AlignmentFromAssumptions.cpp
+END
+SpeculativeExecution.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/268370/llvm/trunk/lib/Transforms/Scalar/SpeculativeExecution.cpp
+END
+LoadCombine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/268507/llvm/trunk/lib/Transforms/Scalar/LoadCombine.cpp
+END
+LoopVersioningLICM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/LoopVersioningLICM.cpp
+END
+LoopDataPrefetch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268578/llvm/trunk/lib/Transforms/Scalar/LoopDataPrefetch.cpp
+END
+LICM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/268583/llvm/trunk/lib/Transforms/Scalar/LICM.cpp
+END
+LowerExpectIntrinsic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267615/llvm/trunk/lib/Transforms/Scalar/LowerExpectIntrinsic.cpp
+END
+LowerAtomic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269511/llvm/trunk/lib/Transforms/Scalar/LowerAtomic.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/245957/llvm/trunk/lib/Transforms/Scalar/LLVMBuild.txt
+END
+LoopUnrollPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269486/llvm/trunk/lib/Transforms/Scalar/LoopUnrollPass.cpp
+END
+ADCE.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/ADCE.cpp
+END
+NaryReassociate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267231/llvm/trunk/lib/Transforms/Scalar/NaryReassociate.cpp
+END
+LoopDeletion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268407/llvm/trunk/lib/Transforms/Scalar/LoopDeletion.cpp
+END
+MemCpyOptimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269456/llvm/trunk/lib/Transforms/Scalar/MemCpyOptimizer.cpp
+END

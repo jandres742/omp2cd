@@ -1,0 +1,491 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/268339/llvm/trunk/test/DebugInfo/Generic
+END
+namespace_function_definition.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/266692/llvm/trunk/test/DebugInfo/Generic/namespace_function_definition.ll
+END
+skeletoncu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/skeletoncu.ll
+END
+dbg-at-specficiation.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/dbg-at-specficiation.ll
+END
+debuginfofinder-forward-declaration.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/debuginfofinder-forward-declaration.ll
+END
+dwarf-public-names.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/dwarf-public-names.ll
+END
+def-line.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/def-line.ll
+END
+inlined-arguments.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/inlined-arguments.ll
+END
+2010-05-03-DisableFramePtr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-05-03-DisableFramePtr.ll
+END
+2009-11-06-NamelessGlobalVariable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2009-11-06-NamelessGlobalVariable.ll
+END
+inheritance.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/inheritance.ll
+END
+linkage-name-abstract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266692/llvm/trunk/test/DebugInfo/Generic/linkage-name-abstract.ll
+END
+bug_null_debuginfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/265081/llvm/trunk/test/DebugInfo/Generic/bug_null_debuginfo.ll
+END
+debug-info-always-inline.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/DebugInfo/Generic/debug-info-always-inline.ll
+END
+virtual-index.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/virtual-index.ll
+END
+inline-debug-info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/inline-debug-info.ll
+END
+missing-abstract-variable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/missing-abstract-variable.ll
+END
+constantfp-sdnodes-have-dbg-location.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/constantfp-sdnodes-have-dbg-location.ll
+END
+ptrsize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/ptrsize.ll
+END
+unconditional-branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/unconditional-branch.ll
+END
+two-cus-from-same-file.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/two-cus-from-same-file.ll
+END
+enum.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/enum.ll
+END
+varargs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/varargs.ll
+END
+enum-types.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/enum-types.ll
+END
+lto-comp-dir.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/lto-comp-dir.ll
+END
+gmlt.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/DebugInfo/Generic/gmlt.test
+END
+tu-member-pointer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/tu-member-pointer.ll
+END
+array.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/array.ll
+END
+template-recursive-void.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/template-recursive-void.ll
+END
+2010-04-06-NestedFnDbgInfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/268150/llvm/trunk/test/DebugInfo/Generic/2010-04-06-NestedFnDbgInfo.ll
+END
+version.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/version.ll
+END
+debuginfofinder-multiple-cu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/debuginfofinder-multiple-cu.ll
+END
+recursive_inlining.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/recursive_inlining.ll
+END
+empty.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/empty.ll
+END
+restrict.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/restrict.ll
+END
+2010-05-10-MultipleCU.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-05-10-MultipleCU.ll
+END
+inline-no-debug-info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/inline-no-debug-info.ll
+END
+2010-01-05-DbgScope.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-01-05-DbgScope.ll
+END
+constant-sdnodes-have-dbg-location.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/constant-sdnodes-have-dbg-location.ll
+END
+inline-scopes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/inline-scopes.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/DebugInfo/Generic/lit.local.cfg
+END
+2009-10-16-Phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/DebugInfo/Generic/2009-10-16-Phi.ll
+END
+block-asan.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/block-asan.ll
+END
+2010-10-01-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-10-01-crash.ll
+END
+incorrect-variable-debugloc1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/incorrect-variable-debugloc1.ll
+END
+2010-03-24-MemberFn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-03-24-MemberFn.ll
+END
+member-order.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/member-order.ll
+END
+debug-info-qualifiers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/debug-info-qualifiers.ll
+END
+nodebug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/nodebug.ll
+END
+2010-06-29-InlinedFnLocalVar.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/268150/llvm/trunk/test/DebugInfo/Generic/2010-06-29-InlinedFnLocalVar.ll
+END
+dead-argument-order.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/dead-argument-order.ll
+END
+cu-range-hole.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/cu-range-hole.ll
+END
+2010-03-12-llc-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-03-12-llc-crash.ll
+END
+accel-table-hash-collisions.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/accel-table-hash-collisions.ll
+END
+2009-11-10-CurrentFn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2009-11-10-CurrentFn.ll
+END
+2010-05-03-OriginDIE.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-05-03-OriginDIE.ll
+END
+2010-07-19-Crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-07-19-Crash.ll
+END
+piece-verifier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/piece-verifier.ll
+END
+multiline.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/multiline.ll
+END
+2010-03-19-DbgDeclare.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-03-19-DbgDeclare.ll
+END
+namespace_inline_function_definition.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/266692/llvm/trunk/test/DebugInfo/Generic/namespace_inline_function_definition.ll
+END
+2010-04-19-FramePtr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2010-04-19-FramePtr.ll
+END
+2009-11-05-DeadGlobalVariable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2009-11-05-DeadGlobalVariable.ll
+END
+cross-cu-linkonce-distinct.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/cross-cu-linkonce-distinct.ll
+END
+PR20038.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/PR20038.ll
+END
+location-verifier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/location-verifier.ll
+END
+2009-11-03-InsertExtractValue.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/2009-11-03-InsertExtractValue.ll
+END
+cu-ranges.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/cu-ranges.ll
+END
+tu-composite.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/tu-composite.ll
+END
+constant-pointers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/constant-pointers.ll
+END
+gvn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/gvn.ll
+END
+inlined-vars.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/inlined-vars.ll
+END
+namespace.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268150/llvm/trunk/test/DebugInfo/Generic/namespace.ll
+END
+incorrect-variable-debugloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/267296/llvm/trunk/test/DebugInfo/Generic/incorrect-variable-debugloc.ll
+END
+cross-cu-linkonce.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/cross-cu-linkonce.ll
+END
+inline-debug-info-multiret.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/inline-debug-info-multiret.ll
+END
+typedef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/typedef.ll
+END
+global.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/global.ll
+END
+cross-cu-inlining.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266692/llvm/trunk/test/DebugInfo/Generic/cross-cu-inlining.ll
+END
+sugared-constants.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/sugared-constants.ll
+END
+discriminator.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/discriminator.ll
+END
+member-pointers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/member-pointers.ll
+END

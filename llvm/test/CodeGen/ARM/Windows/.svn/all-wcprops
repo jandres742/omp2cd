@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/267361/llvm/trunk/test/CodeGen/ARM/Windows
+END
+no-eabi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/255448/llvm/trunk/test/CodeGen/ARM/Windows/no-eabi.ll
+END
+no-aeabi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267361/llvm/trunk/test/CodeGen/ARM/Windows/no-aeabi.ll
+END
+no-arm-mode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/242123/llvm/trunk/test/CodeGen/ARM/Windows/no-arm-mode.ll
+END
+pic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/242123/llvm/trunk/test/CodeGen/ARM/Windows/pic.ll
+END
+global-minsize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/210814/llvm/trunk/test/CodeGen/ARM/Windows/global-minsize.ll
+END
+frame-register.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/ARM/Windows/frame-register.ll
+END
+hard-float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/242123/llvm/trunk/test/CodeGen/ARM/Windows/hard-float.ll
+END
+vla.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/ARM/Windows/vla.ll
+END
+no-ehabi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/205459/llvm/trunk/test/CodeGen/ARM/Windows/no-ehabi.ll
+END
+stack-probe-non-default.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/ARM/Windows/stack-probe-non-default.ll
+END
+division.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267092/llvm/trunk/test/CodeGen/ARM/Windows/division.ll
+END
+libcalls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/254158/llvm/trunk/test/CodeGen/ARM/Windows/libcalls.ll
+END
+no-frame-register.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/249804/llvm/trunk/test/CodeGen/ARM/Windows/no-frame-register.ll
+END
+chkstk.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267361/llvm/trunk/test/CodeGen/ARM/Windows/chkstk.ll
+END
+aapcs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/205459/llvm/trunk/test/CodeGen/ARM/Windows/aapcs.ll
+END
+mov32t-bundling.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/209267/llvm/trunk/test/CodeGen/ARM/Windows/mov32t-bundling.ll
+END
+memset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/ARM/Windows/memset.ll
+END
+chkstk-movw-movt-isel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/267361/llvm/trunk/test/CodeGen/ARM/Windows/chkstk-movw-movt-isel.ll
+END
+long-calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/258750/llvm/trunk/test/CodeGen/ARM/Windows/long-calls.ll
+END
+alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/261384/llvm/trunk/test/CodeGen/ARM/Windows/alloca.ll
+END
+movw-movt-relocations.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/ARM/Windows/movw-movt-relocations.ll
+END
+builtin_longjmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/263123/llvm/trunk/test/CodeGen/ARM/Windows/builtin_longjmp.ll
+END
+mangling.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/205459/llvm/trunk/test/CodeGen/ARM/Windows/mangling.ll
+END
+read-only-data.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/ARM/Windows/read-only-data.ll
+END
+tls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/259676/llvm/trunk/test/CodeGen/ARM/Windows/tls.ll
+END
+trivial-gnu-object.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/242166/llvm/trunk/test/CodeGen/ARM/Windows/trivial-gnu-object.ll
+END
+dbzchk.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267361/llvm/trunk/test/CodeGen/ARM/Windows/dbzchk.ll
+END
+dllimport.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/ARM/Windows/dllimport.ll
+END
+structors.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/242123/llvm/trunk/test/CodeGen/ARM/Windows/structors.ll
+END

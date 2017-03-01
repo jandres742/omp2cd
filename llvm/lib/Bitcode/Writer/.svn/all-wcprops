@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/269232/llvm/trunk/lib/Bitcode/Writer
+END
+ValueEnumerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/267278/llvm/trunk/lib/Bitcode/Writer/ValueEnumerator.cpp
+END
+ValueEnumerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267278/llvm/trunk/lib/Bitcode/Writer/ValueEnumerator.h
+END
+BitcodeWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/269232/llvm/trunk/lib/Bitcode/Writer/BitcodeWriter.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/265945/llvm/trunk/lib/Bitcode/Writer/LLVMBuild.txt
+END
+BitWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/219643/llvm/trunk/lib/Bitcode/Writer/BitWriter.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239796/llvm/trunk/lib/Bitcode/Writer/CMakeLists.txt
+END
+BitcodeWriterPass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265941/llvm/trunk/lib/Bitcode/Writer/BitcodeWriterPass.cpp
+END

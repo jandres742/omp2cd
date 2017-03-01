@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/269339/llvm/trunk/test/tools/llvm-dwp/Inputs
+END
+empty.dwo
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/261987/llvm/trunk/test/tools/llvm-dwp/Inputs/empty.dwo
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/264904/llvm/trunk/test/Transforms/LoopVectorize/PowerPC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Transforms/LoopVectorize/PowerPC/lit.local.cfg
+END
+agg-interleave-a2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/246819/llvm/trunk/test/Transforms/LoopVectorize/PowerPC/agg-interleave-a2.ll
+END
+small-loop-rdx.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/262054/llvm/trunk/test/Transforms/LoopVectorize/PowerPC/small-loop-rdx.ll
+END
+large-loop-rdx.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/262054/llvm/trunk/test/Transforms/LoopVectorize/PowerPC/large-loop-rdx.ll
+END
+vectorize-only-for-real.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/264904/llvm/trunk/test/Transforms/LoopVectorize/PowerPC/vectorize-only-for-real.ll
+END
+stride-vectorization.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/261331/llvm/trunk/test/Transforms/LoopVectorize/PowerPC/stride-vectorization.ll
+END
+vsx-tsvc-s173.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/PowerPC/vsx-tsvc-s173.ll
+END

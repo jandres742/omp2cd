@@ -1,0 +1,40 @@
+10
+
+dir
+269559
+http://llvm.org/svn/llvm-project/llvm/trunk/test/Transforms/ConstantHoisting
+http://llvm.org/svn/llvm-project
+
+
+
+2016-04-15T18:17:18.468996Z
+266464
+tnorthover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+ARM
+dir
+
+PowerPC
+dir
+
+X86
+dir
+
+AArch64
+dir
+

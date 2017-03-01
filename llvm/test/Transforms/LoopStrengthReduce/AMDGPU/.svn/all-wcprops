@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268002/llvm/trunk/test/Transforms/LoopStrengthReduce/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/245137/llvm/trunk/test/Transforms/LoopStrengthReduce/AMDGPU/lit.local.cfg
+END
+lsr-postinc-pos-addrspace.ll
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/llvm-project/!svn/ver/268002/llvm/trunk/test/Transforms/LoopStrengthReduce/AMDGPU/lsr-postinc-pos-addrspace.ll
+END
+different-addrspace-addressing-mode-loops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/llvm-project/!svn/ver/245137/llvm/trunk/test/Transforms/LoopStrengthReduce/AMDGPU/different-addrspace-addressing-mode-loops.ll
+END

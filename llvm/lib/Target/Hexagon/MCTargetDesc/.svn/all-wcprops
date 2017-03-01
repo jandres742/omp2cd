@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/269415/llvm/trunk/lib/Target/Hexagon/MCTargetDesc
+END
+HexagonMCCodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/267897/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCCodeEmitter.cpp
+END
+HexagonMCChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCChecker.cpp
+END
+HexagonInstPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/252443/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonInstPrinter.h
+END
+HexagonAsmBackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/267798/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonAsmBackend.cpp
+END
+HexagonFixupKinds.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/261006/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonFixupKinds.h
+END
+HexagonMCChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCChecker.h
+END
+HexagonMCCodeEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/239744/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCCodeEmitter.h
+END
+HexagonMCELFStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/266882/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCELFStreamer.cpp
+END
+HexagonELFObjectWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/261006/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonELFObjectWriter.cpp
+END
+HexagonMCInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/267897/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCInstrInfo.cpp
+END
+HexagonBaseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/261218/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonBaseInfo.h
+END
+HexagonMCDuplexInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/254385/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCDuplexInfo.cpp
+END
+HexagonMCELFStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/239876/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCELFStreamer.h
+END
+HexagonMCExpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/262252/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCExpr.cpp
+END
+HexagonMCShuffler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/269415/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCShuffler.cpp
+END
+HexagonMCInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267897/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCInstrInfo.h
+END
+HexagonMCShuffler.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCShuffler.h
+END
+HexagonMCExpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/262243/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCExpr.h
+END
+HexagonMCCompound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/253056/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCCompound.cpp
+END
+HexagonMCTargetDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/267469/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCTargetDesc.cpp
+END
+HexagonMCTargetDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/255501/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCTargetDesc.h
+END
+HexagonMCAsmInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267469/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCAsmInfo.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/222458/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/LLVMBuild.txt
+END
+HexagonShuffler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/257215/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonShuffler.cpp
+END
+HexagonMCAsmInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonMCAsmInfo.h
+END
+HexagonInstPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/269415/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonInstPrinter.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/252443/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/CMakeLists.txt
+END
+HexagonShuffler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/257215/llvm/trunk/lib/Target/Hexagon/MCTargetDesc/HexagonShuffler.h
+END

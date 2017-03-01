@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269518/llvm/trunk/test/Instrumentation/MemorySanitizer/PowerPC
+END
+vararg-ppc64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/269518/llvm/trunk/test/Instrumentation/MemorySanitizer/PowerPC/vararg-ppc64.ll
+END
+vararg-ppc64le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/269518/llvm/trunk/test/Instrumentation/MemorySanitizer/PowerPC/vararg-ppc64le.ll
+END

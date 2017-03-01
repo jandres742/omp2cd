@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/268846/llvm/trunk/tools/lli
+END
+OrcLazyJIT.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/257265/llvm/trunk/tools/lli/OrcLazyJIT.h
+END
+lli.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/267457/llvm/trunk/tools/lli/lli.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/239632/llvm/trunk/tools/lli/LLVMBuild.txt
+END
+RemoteJITUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/267512/llvm/trunk/tools/lli/RemoteJITUtils.h
+END
+OrcLazyJIT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/268845/llvm/trunk/tools/lli/OrcLazyJIT.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/257343/llvm/trunk/tools/lli/CMakeLists.txt
+END

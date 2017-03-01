@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/267732/llvm/trunk/test/tools/llvm-symbolizer/pdb/Inputs
+END
+test.exe
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267732/llvm/trunk/test/tools/llvm-symbolizer/pdb/Inputs/test.exe
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267732/llvm/trunk/test/tools/llvm-symbolizer/pdb/Inputs/test.cpp
+END
+test.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267732/llvm/trunk/test/tools/llvm-symbolizer/pdb/Inputs/test.pdb
+END

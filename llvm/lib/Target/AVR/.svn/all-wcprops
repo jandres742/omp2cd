@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/269011/llvm/trunk/lib/Target/AVR
+END
+AVRRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/256120/llvm/trunk/lib/Target/AVR/AVRRegisterInfo.td
+END
+AVRMachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/256213/llvm/trunk/lib/Target/AVR/AVRMachineFunctionInfo.h
+END
+AVRSubtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRSubtarget.cpp
+END
+AVRRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRRegisterInfo.cpp
+END
+AVRInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRInstrInfo.td
+END
+AVR.td
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/260363/llvm/trunk/lib/Target/AVR/AVR.td
+END
+AVRRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRRegisterInfo.h
+END
+AVRSubtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRSubtarget.h
+END
+AVRFrameLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRFrameLowering.h
+END
+AVRISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRISelLowering.h
+END
+AVRConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/256213/llvm/trunk/lib/Target/AVR/AVRConfig.h
+END
+TODO.md
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/260363/llvm/trunk/lib/Target/AVR/TODO.md
+END
+AVRInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRInstrInfo.cpp
+END
+AVRTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/269011/llvm/trunk/lib/Target/AVR/AVRTargetMachine.cpp
+END
+AVRTargetObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/257049/llvm/trunk/lib/Target/AVR/AVRTargetObjectFile.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/252865/llvm/trunk/lib/Target/AVR/LLVMBuild.txt
+END
+AVRInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRInstrInfo.h
+END
+AVRInstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/260363/llvm/trunk/lib/Target/AVR/AVRInstrFormats.td
+END
+AVRTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/AVRTargetMachine.h
+END
+AVRSelectionDAGInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/258939/llvm/trunk/lib/Target/AVR/AVRSelectionDAGInfo.h
+END
+AVRTargetObjectFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/257049/llvm/trunk/lib/Target/AVR/AVRTargetObjectFile.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/CMakeLists.txt
+END
+AVRCallingConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/256130/llvm/trunk/lib/Target/AVR/AVRCallingConv.td
+END
+AVR.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/257049/llvm/trunk/lib/Target/AVR/AVR.h
+END

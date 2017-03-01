@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/lib/DebugInfo
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/lib/DebugInfo/LLVMBuild.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/lib/DebugInfo/CMakeLists.txt
+END

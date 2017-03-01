@@ -1,0 +1,3317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/269480/llvm/trunk/test/CodeGen/AMDGPU
+END
+concat_vectors.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/concat_vectors.ll
+END
+load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/load.ll
+END
+local-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/local-64.ll
+END
+fptrunc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fptrunc.ll
+END
+i1-copy-implicit-def.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/260765/llvm/trunk/test/CodeGen/AMDGPU/i1-copy-implicit-def.ll
+END
+fpext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fpext.ll
+END
+llvm.amdgcn.s.barrier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.barrier.ll
+END
+schedule-vs-if-nested-loop-failure.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/schedule-vs-if-nested-loop-failure.ll
+END
+promote-alloca-to-lds-select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/269265/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-to-lds-select.ll
+END
+store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/261570/llvm/trunk/test/CodeGen/AMDGPU/store.ll
+END
+llvm.amdgcn.image.atomic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.image.atomic.ll
+END
+global-zero-initializer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/259498/llvm/trunk/test/CodeGen/AMDGPU/global-zero-initializer.ll
+END
+cgp-bitfield-extract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267024/llvm/trunk/test/CodeGen/AMDGPU/cgp-bitfield-extract.ll
+END
+fcanonicalize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268293/llvm/trunk/test/CodeGen/AMDGPU/fcanonicalize.ll
+END
+llvm.amdgcn.atomic.dec.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.atomic.dec.ll
+END
+and-gcn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/260765/llvm/trunk/test/CodeGen/AMDGPU/and-gcn.ll
+END
+fmuladd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/fmuladd.ll
+END
+calling-conventions.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/249468/llvm/trunk/test/CodeGen/AMDGPU/calling-conventions.ll
+END
+llvm.amdgcn.div.fixup.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.div.fixup.ll
+END
+llvm.SI.packf16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.packf16.ll
+END
+llvm.SI.image.sample.o.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.image.sample.o.ll
+END
+llvm.SI.sendmsg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268762/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.sendmsg.ll
+END
+predicates.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/predicates.ll
+END
+fadd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/fadd.ll
+END
+lds-alignment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/259912/llvm/trunk/test/CodeGen/AMDGPU/lds-alignment.ll
+END
+addrspacecast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/addrspacecast.ll
+END
+llvm.AMDGPU.cvt_f32_ubyte.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268930/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.cvt_f32_ubyte.ll
+END
+llvm.amdgcn.cubesc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/258786/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.cubesc.ll
+END
+private-memory-r600.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/259573/llvm/trunk/test/CodeGen/AMDGPU/private-memory-r600.ll
+END
+llvm.SI.image.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.image.ll
+END
+image-attributes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/image-attributes.ll
+END
+default-fp-mode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/default-fp-mode.ll
+END
+extract-vector-elt-i8.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/258788/llvm/trunk/test/CodeGen/AMDGPU/extract-vector-elt-i8.ll
+END
+no-hsa-graphics-shaders.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/AMDGPU/no-hsa-graphics-shaders.ll
+END
+umed3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/262864/llvm/trunk/test/CodeGen/AMDGPU/umed3.ll
+END
+llvm.dbg.value.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/CodeGen/AMDGPU/llvm.dbg.value.ll
+END
+imm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/268293/llvm/trunk/test/CodeGen/AMDGPU/imm.ll
+END
+detect-dead-lanes.mir
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268815/llvm/trunk/test/CodeGen/AMDGPU/detect-dead-lanes.mir
+END
+v_mac.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/v_mac.ll
+END
+scalar_to_vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/scalar_to_vector.ll
+END
+insert_vector_elt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269145/llvm/trunk/test/CodeGen/AMDGPU/insert_vector_elt.ll
+END
+llvm.amdgcn.kernarg.segment.ptr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/268105/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.kernarg.segment.ptr.ll
+END
+and.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/and.ll
+END
+annotate-kernel-features.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/259296/llvm/trunk/test/CodeGen/AMDGPU/annotate-kernel-features.ll
+END
+bfm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/260123/llvm/trunk/test/CodeGen/AMDGPU/bfm.ll
+END
+llvm.amdgcn.mbcnt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.mbcnt.ll
+END
+fconst64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fconst64.ll
+END
+add_i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/add_i64.ll
+END
+bfi_int.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/bfi_int.ll
+END
+mad-combine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/mad-combine.ll
+END
+annotate-kernel-features-hsa.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/267452/llvm/trunk/test/CodeGen/AMDGPU/annotate-kernel-features-hsa.ll
+END
+private-memory-atomics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/259573/llvm/trunk/test/CodeGen/AMDGPU/private-memory-atomics.ll
+END
+si-instr-info-correct-implicit-operands.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/si-instr-info-correct-implicit-operands.ll
+END
+selectcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/selectcc.ll
+END
+llvm.exp2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.exp2.ll
+END
+ffloor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/ffloor.ll
+END
+gep-address-space.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/250129/llvm/trunk/test/CodeGen/AMDGPU/gep-address-space.ll
+END
+fneg-fabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/251631/llvm/trunk/test/CodeGen/AMDGPU/fneg-fabs.ll
+END
+llvm.AMDGPU.bfe.u32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.bfe.u32.ll
+END
+llvm.amdgcn.ds.bpermute.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/268043/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.ds.bpermute.ll
+END
+trunc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/trunc.ll
+END
+llvm.amdgcn.buffer.store.format.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.store.format.ll
+END
+llvm.AMDGPU.rsq.clamped.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.rsq.clamped.f64.ll
+END
+llvm.amdgcn.cubema.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/258786/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.cubema.ll
+END
+fract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/258513/llvm/trunk/test/CodeGen/AMDGPU/fract.ll
+END
+legalizedag-bug-expand-setcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/legalizedag-bug-expand-setcc.ll
+END
+kcache-fold.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/258614/llvm/trunk/test/CodeGen/AMDGPU/kcache-fold.ll
+END
+extload.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/261571/llvm/trunk/test/CodeGen/AMDGPU/extload.ll
+END
+fnearbyint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fnearbyint.ll
+END
+mul_uint24.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/mul_uint24.ll
+END
+cttz_zero_undef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/cttz_zero_undef.ll
+END
+fp_to_uint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fp_to_uint.ll
+END
+sampler-resource-id.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/244372/llvm/trunk/test/CodeGen/AMDGPU/sampler-resource-id.ll
+END
+dynamic_stackalloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/AMDGPU/dynamic_stackalloc.ll
+END
+llvm.AMDGPU.tex.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.tex.ll
+END
+sra.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/sra.ll
+END
+si-annotate-cfg-loop-assert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/260692/llvm/trunk/test/CodeGen/AMDGPU/si-annotate-cfg-loop-assert.ll
+END
+salu-to-valu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268154/llvm/trunk/test/CodeGen/AMDGPU/salu-to-valu.ll
+END
+r600-export-fix.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/r600-export-fix.ll
+END
+ret.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/265708/llvm/trunk/test/CodeGen/AMDGPU/ret.ll
+END
+texture-input-merge.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/texture-input-merge.ll
+END
+waitcnt-flat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/261330/llvm/trunk/test/CodeGen/AMDGPU/waitcnt-flat.ll
+END
+usubo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/usubo.ll
+END
+llvm.sqrt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/262125/llvm/trunk/test/CodeGen/AMDGPU/llvm.sqrt.ll
+END
+sext-in-reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/258342/llvm/trunk/test/CodeGen/AMDGPU/sext-in-reg.ll
+END
+large-constant-initializer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/large-constant-initializer.ll
+END
+llvm.memcpy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/264877/llvm/trunk/test/CodeGen/AMDGPU/llvm.memcpy.ll
+END
+multilevel-break.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266088/llvm/trunk/test/CodeGen/AMDGPU/multilevel-break.ll
+END
+smrd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/smrd.ll
+END
+srem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/srem.ll
+END
+xor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/xor.ll
+END
+fabs.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/fabs.f64.ll
+END
+llvm.amdgcn.s.sleep.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/262120/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.sleep.ll
+END
+lds-oqap-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/lds-oqap-crash.ll
+END
+large-alloca-graphics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269145/llvm/trunk/test/CodeGen/AMDGPU/large-alloca-graphics.ll
+END
+cgp-addressing-modes-flat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/cgp-addressing-modes-flat.ll
+END
+trunc-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/243731/llvm/trunk/test/CodeGen/AMDGPU/trunc-store.ll
+END
+mad-sub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/mad-sub.ll
+END
+large-alloca-compute.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269145/llvm/trunk/test/CodeGen/AMDGPU/large-alloca-compute.ll
+END
+codegen-prepare-addrmode-sext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/codegen-prepare-addrmode-sext.ll
+END
+llvm.amdgcn.s.memtime.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/262119/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.memtime.ll
+END
+srl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/srl.ll
+END
+setcc-opt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/setcc-opt.ll
+END
+debugger-insert-nops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269452/llvm/trunk/test/CodeGen/AMDGPU/debugger-insert-nops.ll
+END
+global-extload-i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/global-extload-i1.ll
+END
+copy-to-reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/copy-to-reg.ll
+END
+llvm.amdgcn.cubetc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/258786/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.cubetc.ll
+END
+partially-dead-super-register-immediate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/partially-dead-super-register-immediate.ll
+END
+shl_add_constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266506/llvm/trunk/test/CodeGen/AMDGPU/shl_add_constant.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/lit.local.cfg
+END
+seto.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/seto.ll
+END
+cvt_f32_ubyte.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268930/llvm/trunk/test/CodeGen/AMDGPU/cvt_f32_ubyte.ll
+END
+opencl-image-metadata.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/opencl-image-metadata.ll
+END
+sdivrem24.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/sdivrem24.ll
+END
+global_atomics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/global_atomics.ll
+END
+llvm.amdgcn.ps.live.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267102/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.ps.live.ll
+END
+llvm.amdgcn.rcp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.rcp.ll
+END
+llvm.rint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/llvm.rint.ll
+END
+cvt_flr_i32_f32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/cvt_flr_i32_f32.ll
+END
+select-i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/select-i1.ll
+END
+llvm.amdgcn.ds.permute.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268043/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.ds.permute.ll
+END
+llvm.amdgcn.buffer.load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.load.ll
+END
+no-shrink-extloads.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/no-shrink-extloads.ll
+END
+llvm.amdgcn.s.dcache.inv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/248533/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.dcache.inv.ll
+END
+promote-alloca-to-lds-icmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/269265/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-to-lds-icmp.ll
+END
+private-element-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/262153/llvm/trunk/test/CodeGen/AMDGPU/private-element-size.ll
+END
+operand-spacing.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/operand-spacing.ll
+END
+fabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fabs.ll
+END
+uniform-cfg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/269391/llvm/trunk/test/CodeGen/AMDGPU/uniform-cfg.ll
+END
+fmax_legacy.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/fmax_legacy.f64.ll
+END
+llvm.AMDGPU.bfe.i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/246358/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.bfe.i32.ll
+END
+fetch-limits.r600.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/fetch-limits.r600.ll
+END
+sgpr-copy-duplicate-operand.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/sgpr-copy-duplicate-operand.ll
+END
+sgpr-copy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/sgpr-copy.ll
+END
+max.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/max.ll
+END
+selectcc-cnd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/selectcc-cnd.ll
+END
+sext-eliminate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/sext-eliminate.ll
+END
+uniform-branch-intrinsic-cond.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/268650/llvm/trunk/test/CodeGen/AMDGPU/uniform-branch-intrinsic-cond.ll
+END
+m0-spill.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/m0-spill.ll
+END
+scratch-buffer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/263964/llvm/trunk/test/CodeGen/AMDGPU/scratch-buffer.ll
+END
+ds_write2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/ds_write2.ll
+END
+r600.private-memory.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269207/llvm/trunk/test/CodeGen/AMDGPU/r600.private-memory.ll
+END
+min3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/min3.ll
+END
+max3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/max3.ll
+END
+call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/AMDGPU/call.ll
+END
+bswap.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/bswap.ll
+END
+subreg-coalescer-undef-use.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/268815/llvm/trunk/test/CodeGen/AMDGPU/subreg-coalescer-undef-use.ll
+END
+select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/select.ll
+END
+llvm.amdgcn.s.dcache.wb.vol.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/248533/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.dcache.wb.vol.ll
+END
+ds_write2st64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/ds_write2st64.ll
+END
+llvm.amdgcn.buffer.wbinvl1.vol.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/248532/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.wbinvl1.vol.ll
+END
+move-to-valu-atomicrmw.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/move-to-valu-atomicrmw.ll
+END
+ci-use-flat-for-global.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/260658/llvm/trunk/test/CodeGen/AMDGPU/ci-use-flat-for-global.ll
+END
+write_register.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/258785/llvm/trunk/test/CodeGen/AMDGPU/write_register.ll
+END
+sgpr-control-flow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/sgpr-control-flow.ll
+END
+indirect-private-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269145/llvm/trunk/test/CodeGen/AMDGPU/indirect-private-64.ll
+END
+lshl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/lshl.ll
+END
+llvm.amdgcn.s.dcache.inv.vol.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/248533/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.dcache.inv.vol.ll
+END
+promote-alloca-invariant-markers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/258537/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-invariant-markers.ll
+END
+infinite-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/infinite-loop.ll
+END
+promote-alloca-array-allocation.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/267916/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-array-allocation.ll
+END
+promote-alloca-unhandled-intrinsic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/259546/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-unhandled-intrinsic.ll
+END
+fp-classify.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/fp-classify.ll
+END
+or.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/or.ll
+END
+rotl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/rotl.ll
+END
+min.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/min.ll
+END
+si-lower-control-flow-unreachable-block.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/268119/llvm/trunk/test/CodeGen/AMDGPU/si-lower-control-flow-unreachable-block.ll
+END
+setuo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/setuo.ll
+END
+work-item-intrinsics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/259293/llvm/trunk/test/CodeGen/AMDGPU/work-item-intrinsics.ll
+END
+s_addk_i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266506/llvm/trunk/test/CodeGen/AMDGPU/s_addk_i32.ll
+END
+32-bit-local-address-space.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/267922/llvm/trunk/test/CodeGen/AMDGPU/32-bit-local-address-space.ll
+END
+hsa-group-segment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/254519/llvm/trunk/test/CodeGen/AMDGPU/hsa-group-segment.ll
+END
+sdiv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/sdiv.ll
+END
+llvm.amdgcn.rsq.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.rsq.ll
+END
+si-spill-sgpr-stack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268295/llvm/trunk/test/CodeGen/AMDGPU/si-spill-sgpr-stack.ll
+END
+shift-and-i128-ubfe.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268293/llvm/trunk/test/CodeGen/AMDGPU/shift-and-i128-ubfe.ll
+END
+unaligned-load-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268296/llvm/trunk/test/CodeGen/AMDGPU/unaligned-load-store.ll
+END
+mubuf.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/mubuf.ll
+END
+rotl.i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/rotl.i64.ll
+END
+ctpop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/ctpop.ll
+END
+local-atomics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266074/llvm/trunk/test/CodeGen/AMDGPU/local-atomics.ll
+END
+coalescer_remat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/coalescer_remat.ll
+END
+madmk.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/madmk.ll
+END
+llvm.amdgcn.buffer.wbinvl1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/248532/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.wbinvl1.ll
+END
+load.vec.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/load.vec.ll
+END
+read-register-invalid-type-i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/258785/llvm/trunk/test/CodeGen/AMDGPU/read-register-invalid-type-i32.ll
+END
+infinite-loop-evergreen.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/infinite-loop-evergreen.ll
+END
+uaddo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/uaddo.ll
+END
+fmul-2-combine-multi-use.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/fmul-2-combine-multi-use.ll
+END
+llvm.round.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/llvm.round.ll
+END
+spill-scavenge-offset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/260625/llvm/trunk/test/CodeGen/AMDGPU/spill-scavenge-offset.ll
+END
+global_atomics_i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/global_atomics_i64.ll
+END
+select-vectors.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/242146/llvm/trunk/test/CodeGen/AMDGPU/select-vectors.ll
+END
+sint_to_fp.i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/sint_to_fp.i64.ll
+END
+dagcombiner-bug-illegal-vec4-int-to-fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/dagcombiner-bug-illegal-vec4-int-to-fp.ll
+END
+uint_to_fp.i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/uint_to_fp.i64.ll
+END
+mul_int24.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/mul_int24.ll
+END
+commute-compares.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/commute-compares.ll
+END
+llvm.SI.load.dword.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.load.dword.ll
+END
+array-ptr-calc-i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/242177/llvm/trunk/test/CodeGen/AMDGPU/array-ptr-calc-i64.ll
+END
+gv-const-addrspace.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269480/llvm/trunk/test/CodeGen/AMDGPU/gv-const-addrspace.ll
+END
+llvm.SI.image.sample.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.image.sample.ll
+END
+flat-scratch-reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/257073/llvm/trunk/test/CodeGen/AMDGPU/flat-scratch-reg.ll
+END
+urecip.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/urecip.ll
+END
+schedule-if-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/schedule-if-2.ll
+END
+global-constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268647/llvm/trunk/test/CodeGen/AMDGPU/global-constant.ll
+END
+promote-alloca-volatile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/264214/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-volatile.ll
+END
+ctlz_zero_undef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/ctlz_zero_undef.ll
+END
+cgp-addressing-modes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/cgp-addressing-modes.ll
+END
+missing-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268154/llvm/trunk/test/CodeGen/AMDGPU/missing-store.ll
+END
+large-work-group-registers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/269145/llvm/trunk/test/CodeGen/AMDGPU/large-work-group-registers.ll
+END
+bitreverse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/255512/llvm/trunk/test/CodeGen/AMDGPU/bitreverse.ll
+END
+llvm.r600.read.local.size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/llvm.r600.read.local.size.ll
+END
+large-work-group-promote-alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/266337/llvm/trunk/test/CodeGen/AMDGPU/large-work-group-promote-alloca.ll
+END
+llvm.rint.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.rint.f64.ll
+END
+udivrem64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/udivrem64.ll
+END
+vertex-fetch-encoding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/vertex-fetch-encoding.ll
+END
+schedule-if.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/schedule-if.ll
+END
+bitcast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/bitcast.ll
+END
+vector-alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/vector-alloca.ll
+END
+pv-packing.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/pv-packing.ll
+END
+ftrunc.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266506/llvm/trunk/test/CodeGen/AMDGPU/ftrunc.f64.ll
+END
+i1-copy-phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/260765/llvm/trunk/test/CodeGen/AMDGPU/i1-copy-phi.ll
+END
+fma.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fma.f64.ll
+END
+store_typed.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/249042/llvm/trunk/test/CodeGen/AMDGPU/store_typed.ll
+END
+llvm.SI.tid.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.tid.ll
+END
+wait.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/wait.ll
+END
+sign_extend.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267244/llvm/trunk/test/CodeGen/AMDGPU/sign_extend.ll
+END
+kernel-args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/254329/llvm/trunk/test/CodeGen/AMDGPU/kernel-args.ll
+END
+si-annotate-cf-assertion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/si-annotate-cf-assertion.ll
+END
+fmin_legacy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/fmin_legacy.ll
+END
+atomic_load_sub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/atomic_load_sub.ll
+END
+debug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/debug.ll
+END
+fdiv.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/fdiv.f64.ll
+END
+promote-alloca-bitcast-function.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-bitcast-function.ll
+END
+llvm.amdgcn.trig.preop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.trig.preop.ll
+END
+fcopysign.f32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fcopysign.f32.ll
+END
+hsa-globals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268647/llvm/trunk/test/CodeGen/AMDGPU/hsa-globals.ll
+END
+local-memory-two-objects.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/264877/llvm/trunk/test/CodeGen/AMDGPU/local-memory-two-objects.ll
+END
+ctpop64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/ctpop64.ll
+END
+spill-alloc-sgpr-init-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/256870/llvm/trunk/test/CodeGen/AMDGPU/spill-alloc-sgpr-init-bug.ll
+END
+vtx-fetch-branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/vtx-fetch-branch.ll
+END
+llvm.AMDGPU.cube.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.cube.ll
+END
+fp_to_uint.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/fp_to_uint.f64.ll
+END
+extload-private.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/extload-private.ll
+END
+llvm.amdgcn.ldexp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.ldexp.ll
+END
+llvm.amdgcn.frexp.mant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/263948/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.frexp.mant.ll
+END
+ret_jump.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/ret_jump.ll
+END
+fetch-limits.r700+.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/fetch-limits.r700+.ll
+END
+lds-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266382/llvm/trunk/test/CodeGen/AMDGPU/lds-size.ll
+END
+fmax.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/fmax.ll
+END
+llvm.SI.fs.interp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.fs.interp.ll
+END
+shift-and-i64-ubfe.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/shift-and-i64-ubfe.ll
+END
+max-literals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/max-literals.ll
+END
+fma.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/fma.ll
+END
+llvm.AMDGPU.barrier.local.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.barrier.local.ll
+END
+llvm.amdgcn.dispatch.ptr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/259498/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.dispatch.ptr.ll
+END
+write-register-vgpr-into-sgpr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/write-register-vgpr-into-sgpr.ll
+END
+llvm.AMDGPU.barrier.global.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.barrier.global.ll
+END
+cube.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/258786/llvm/trunk/test/CodeGen/AMDGPU/cube.ll
+END
+build_vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/build_vector.ll
+END
+rv7x0_count3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/rv7x0_count3.ll
+END
+cvt_rpi_i32_f32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/cvt_rpi_i32_f32.ll
+END
+vgpr-spill-emergency-stack-slot.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/269145/llvm/trunk/test/CodeGen/AMDGPU/vgpr-spill-emergency-stack-slot.ll
+END
+split-smrd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/split-smrd.ll
+END
+promote-alloca-globals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/267791/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-globals.ll
+END
+icmp64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/icmp64.ll
+END
+disconnected-predset-break-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/disconnected-predset-break-bug.ll
+END
+llvm.amdgcn.buffer.store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.store.ll
+END
+set-dx10.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/set-dx10.ll
+END
+cf-stack-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/cf-stack-bug.ll
+END
+fminnum.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fminnum.f64.ll
+END
+schedule-fs-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/258614/llvm/trunk/test/CodeGen/AMDGPU/schedule-fs-loop.ll
+END
+commute_modifiers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/commute_modifiers.ll
+END
+promote-alloca-mem-intrinsics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/259911/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-mem-intrinsics.ll
+END
+fneg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fneg.ll
+END
+ds-sub-offset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/ds-sub-offset.ll
+END
+llvm.SI.gather4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.gather4.ll
+END
+floor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/floor.ll
+END
+selectcc-cnde-int.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/selectcc-cnde-int.ll
+END
+si-scheduler.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/si-scheduler.ll
+END
+fmin.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/fmin.ll
+END
+reduce-store-width-alignment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/267217/llvm/trunk/test/CodeGen/AMDGPU/reduce-store-width-alignment.ll
+END
+amdgpu.private-memory.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269207/llvm/trunk/test/CodeGen/AMDGPU/amdgpu.private-memory.ll
+END
+llvm.cos.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/llvm.cos.ll
+END
+jump-address.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/jump-address.ll
+END
+input-mods.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/input-mods.ll
+END
+llvm.amdgcn.interp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.interp.ll
+END
+schedule-vs-if-nested-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/schedule-vs-if-nested-loop.ll
+END
+store-v3i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/store-v3i64.ll
+END
+vgpr-spill-emergency-stack-slot-compute.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/269145/llvm/trunk/test/CodeGen/AMDGPU/vgpr-spill-emergency-stack-slot-compute.ll
+END
+llvm.amdgcn.div.fmas.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.div.fmas.ll
+END
+urem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/urem.ll
+END
+promote-alloca-no-opts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/259551/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-no-opts.ll
+END
+hsa.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/268717/llvm/trunk/test/CodeGen/AMDGPU/hsa.ll
+END
+atomic_cmp_swap_local.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268260/llvm/trunk/test/CodeGen/AMDGPU/atomic_cmp_swap_local.ll
+END
+literals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/literals.ll
+END
+llvm.amdgpu.kilp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgpu.kilp.ll
+END
+ffloor.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/ffloor.f64.ll
+END
+dot4-folding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/dot4-folding.ll
+END
+fract.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/fract.f64.ll
+END
+llvm.amdgcn.buffer.wbinvl1.sc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/248532/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.wbinvl1.sc.ll
+END
+local-atomics64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/local-atomics64.ll
+END
+call_fs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/call_fs.ll
+END
+vselect.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/vselect.ll
+END
+bitreverse-inline-immediates.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/268293/llvm/trunk/test/CodeGen/AMDGPU/bitreverse-inline-immediates.ll
+END
+uint_to_fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/uint_to_fp.ll
+END
+fmad.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/fmad.ll
+END
+si-annotate-cf.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/260765/llvm/trunk/test/CodeGen/AMDGPU/si-annotate-cf.ll
+END
+fsub64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/fsub64.ll
+END
+global-directive.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/global-directive.ll
+END
+ctlz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/ctlz.ll
+END
+store-vector-ptrs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/store-vector-ptrs.ll
+END
+split-scalar-i64-add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/split-scalar-i64-add.ll
+END
+extract-vector-elt-i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/254086/llvm/trunk/test/CodeGen/AMDGPU/extract-vector-elt-i64.ll
+END
+hsa-fp-mode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/259088/llvm/trunk/test/CodeGen/AMDGPU/hsa-fp-mode.ll
+END
+llvm.SI.getlod.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.getlod.ll
+END
+si-lod-bias.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/si-lod-bias.ll
+END
+fmin_legacy.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/fmin_legacy.f64.ll
+END
+shared-op-cycle.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/shared-op-cycle.ll
+END
+llvm.AMDGPU.flbit.i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.flbit.i32.ll
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/README
+END
+subreg-eliminate-dead.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/subreg-eliminate-dead.ll
+END
+basic-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/basic-loop.ll
+END
+sub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/246358/llvm/trunk/test/CodeGen/AMDGPU/sub.ll
+END
+selectcc-icmp-select-float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/selectcc-icmp-select-float.ll
+END
+zext-i64-bit-operand.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266104/llvm/trunk/test/CodeGen/AMDGPU/zext-i64-bit-operand.ll
+END
+mul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/mul.ll
+END
+load-input-fold.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/load-input-fold.ll
+END
+packetizer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/packetizer.ll
+END
+structurize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/structurize.ll
+END
+llvm.amdgcn.s.memrealtime.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/262119/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.memrealtime.ll
+END
+rsq.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/rsq.ll
+END
+fp32_to_fp16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fp32_to_fp16.ll
+END
+amdgpu-shader-calling-convention.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/amdgpu-shader-calling-convention.ll
+END
+half.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/half.ll
+END
+unsupported-cc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/254683/llvm/trunk/test/CodeGen/AMDGPU/unsupported-cc.ll
+END
+smed3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/262864/llvm/trunk/test/CodeGen/AMDGPU/smed3.ll
+END
+endcf-loop-header.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/260765/llvm/trunk/test/CodeGen/AMDGPU/endcf-loop-header.ll
+END
+r600-infinite-loop-bug-while-reorganizing-vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/r600-infinite-loop-bug-while-reorganizing-vector.ll
+END
+trunc-vector-store-assertion-failure.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/trunc-vector-store-assertion-failure.ll
+END
+read-register-invalid-subtarget.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/258785/llvm/trunk/test/CodeGen/AMDGPU/read-register-invalid-subtarget.ll
+END
+si-spill-cf.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/si-spill-cf.ll
+END
+llvm.amdgcn.groupstaticgroup.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/263563/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.groupstaticgroup.ll
+END
+atomic_load_add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/atomic_load_add.ll
+END
+ds_read2_offset_order.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/264877/llvm/trunk/test/CodeGen/AMDGPU/ds_read2_offset_order.ll
+END
+fcmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/246485/llvm/trunk/test/CodeGen/AMDGPU/fcmp.ll
+END
+llvm.amdgcn.cos.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260782/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.cos.ll
+END
+rotr.i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/rotr.i64.ll
+END
+bfe_uint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/bfe_uint.ll
+END
+indirect-addressing-si.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/indirect-addressing-si.ll
+END
+debugger-reserve-regs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268944/llvm/trunk/test/CodeGen/AMDGPU/debugger-reserve-regs.ll
+END
+vop-shrink.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/vop-shrink.ll
+END
+local-memory.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/local-memory.ll
+END
+lds-output-queue.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/lds-output-queue.ll
+END
+invariant-load-no-alias-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/invariant-load-no-alias-store.ll
+END
+elf.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/elf.ll
+END
+setcc-equivalent.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/setcc-equivalent.ll
+END
+fmin3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fmin3.ll
+END
+fmax3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fmax3.ll
+END
+vselect64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/vselect64.ll
+END
+hsa-note-no-func.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/268647/llvm/trunk/test/CodeGen/AMDGPU/hsa-note-no-func.ll
+END
+llvm.amdgcn.image.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.image.ll
+END
+fneg-fabs.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268260/llvm/trunk/test/CodeGen/AMDGPU/fneg-fabs.f64.ll
+END
+mulhu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/mulhu.ll
+END
+llvm.amdgcn.workgroup.id.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.workgroup.id.ll
+END
+trunc-store-i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/trunc-store-i1.ll
+END
+udiv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/udiv.ll
+END
+s_movk_i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/248467/llvm/trunk/test/CodeGen/AMDGPU/s_movk_i32.ll
+END
+basic-branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/basic-branch.ll
+END
+uniform-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/260765/llvm/trunk/test/CodeGen/AMDGPU/uniform-crash.ll
+END
+llvm.amdgcn.s.getreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267724/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.getreg.ll
+END
+llvm.amdgcn.s.dcache.wb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/248533/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.dcache.wb.ll
+END
+lds-zero-initializer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/259498/llvm/trunk/test/CodeGen/AMDGPU/lds-zero-initializer.ll
+END
+sdivrem64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/266376/llvm/trunk/test/CodeGen/AMDGPU/sdivrem64.ll
+END
+schedule-fs-loop-nested-if.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/schedule-fs-loop-nested-if.ll
+END
+frem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/frem.ll
+END
+move-addr64-rsrc-dead-subreg-writes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/move-addr64-rsrc-dead-subreg-writes.ll
+END
+ssubo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/ssubo.ll
+END
+loop-address.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/loop-address.ll
+END
+reg-coalescer-sched-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/262768/llvm/trunk/test/CodeGen/AMDGPU/reg-coalescer-sched-crash.ll
+END
+coalescer_distribute.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/264345/llvm/trunk/test/CodeGen/AMDGPU/coalescer_distribute.ll
+END
+fsqrt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fsqrt.ll
+END
+ftrunc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/ftrunc.ll
+END
+lds-initializer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/259498/llvm/trunk/test/CodeGen/AMDGPU/lds-initializer.ll
+END
+fp16_to_fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fp16_to_fp.ll
+END
+mad_uint24.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/mad_uint24.ll
+END
+fadd64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/254086/llvm/trunk/test/CodeGen/AMDGPU/fadd64.ll
+END
+llvm.amdgcn.s.waitcnt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267729/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.s.waitcnt.ll
+END
+add-debug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/add-debug.ll
+END
+fma-combine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/fma-combine.ll
+END
+llvm.amdgcn.log.clamp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/260782/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.log.clamp.ll
+END
+store.r600.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/store.r600.ll
+END
+si-literal-folding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/si-literal-folding.ll
+END
+llvm.SI.image.sample-masked.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.image.sample-masked.ll
+END
+load64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/load64.ll
+END
+hsa-default-device.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/258901/llvm/trunk/test/CodeGen/AMDGPU/hsa-default-device.ll
+END
+tex-clause-antidep.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/tex-clause-antidep.ll
+END
+inline-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/inline-asm.ll
+END
+trunc-cmp-constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/trunc-cmp-constant.ll
+END
+fcmp64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fcmp64.ll
+END
+fp_to_sint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/fp_to_sint.ll
+END
+icmp-select-sete-reverse-args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/icmp-select-sete-reverse-args.ll
+END
+setcc64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/setcc64.ll
+END
+r600-encoding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/r600-encoding.ll
+END
+llvm.amdgpu.dp4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgpu.dp4.ll
+END
+llvm.amdgcn.buffer.atomic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.atomic.ll
+END
+fcmp-cnd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fcmp-cnd.ll
+END
+split-vector-memoperand-offsets.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/split-vector-memoperand-offsets.ll
+END
+llvm.amdgcn.queue.ptr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267451/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.queue.ptr.ll
+END
+llvm.SI.sendmsg-m0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268762/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.sendmsg-m0.ll
+END
+fmed3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/fmed3.ll
+END
+dagcombine-reassociate-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/dagcombine-reassociate-bug.ll
+END
+wqm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/wqm.ll
+END
+no-initializer-constant-addrspace.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/no-initializer-constant-addrspace.ll
+END
+insert_subreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/insert_subreg.ll
+END
+array-ptr-calc-i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267916/llvm/trunk/test/CodeGen/AMDGPU/array-ptr-calc-i32.ll
+END
+fcmp-cnde-int-args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fcmp-cnde-int-args.ll
+END
+address-space.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/248611/llvm/trunk/test/CodeGen/AMDGPU/address-space.ll
+END
+fmax_legacy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/fmax_legacy.ll
+END
+read_register.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/258785/llvm/trunk/test/CodeGen/AMDGPU/read_register.ll
+END
+llvm.amdgcn.frexp.exp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/264944/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.frexp.exp.ll
+END
+empty-function.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/empty-function.ll
+END
+parallelandifcollapse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/parallelandifcollapse.ll
+END
+invalid-addrspacecast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267452/llvm/trunk/test/CodeGen/AMDGPU/invalid-addrspacecast.ll
+END
+pv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/pv.ll
+END
+schedule-fs-loop-nested.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/258614/llvm/trunk/test/CodeGen/AMDGPU/schedule-fs-loop-nested.ll
+END
+promote-alloca-to-lds-phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/269265/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-to-lds-phi.ll
+END
+llvm.AMDGPU.rsq.clamped.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.rsq.clamped.ll
+END
+shift-i64-opts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/shift-i64-opts.ll
+END
+image-resource-id.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/244372/llvm/trunk/test/CodeGen/AMDGPU/image-resource-id.ll
+END
+fp_to_sint.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/fp_to_sint.f64.ll
+END
+llvm.sin.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.sin.ll
+END
+flat-address-space.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/flat-address-space.ll
+END
+sint_to_fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/sint_to_fp.ll
+END
+commute-shifts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/commute-shifts.ll
+END
+loop-idiom.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/loop-idiom.ll
+END
+anyext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/anyext.ll
+END
+fminnum.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/263201/llvm/trunk/test/CodeGen/AMDGPU/fminnum.ll
+END
+unroll.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/unroll.ll
+END
+vtx-schedule.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/vtx-schedule.ll
+END
+madak.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/264589/llvm/trunk/test/CodeGen/AMDGPU/madak.ll
+END
+fmul64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fmul64.ll
+END
+reorder-stores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/254086/llvm/trunk/test/CodeGen/AMDGPU/reorder-stores.ll
+END
+llvm.AMDGPU.clamp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.clamp.ll
+END
+mad_int24.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/mad_int24.ll
+END
+schedule-kernel-arg-loads.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268260/llvm/trunk/test/CodeGen/AMDGPU/schedule-kernel-arg-loads.ll
+END
+shl_add_ptr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/shl_add_ptr.ll
+END
+ds_read2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/ds_read2.ll
+END
+smrd-vccz-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/260765/llvm/trunk/test/CodeGen/AMDGPU/smrd-vccz-bug.ll
+END
+combine_vloads.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/combine_vloads.ll
+END
+swizzle-export.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/swizzle-export.ll
+END
+add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/add.ll
+END
+cayman-loop-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/cayman-loop-bug.ll
+END
+i8-to-double-to-float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/i8-to-double-to-float.ll
+END
+fceil64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/266506/llvm/trunk/test/CodeGen/AMDGPU/fceil64.ll
+END
+trunc-store-f64-to-f16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/trunc-store-f64-to-f16.ll
+END
+rcp-pattern.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/rcp-pattern.ll
+END
+fsub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/fsub.ll
+END
+branch-uniformity.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266347/llvm/trunk/test/CodeGen/AMDGPU/branch-uniformity.ll
+END
+unhandled-loop-condition-assertion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/unhandled-loop-condition-assertion.ll
+END
+fmul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fmul.ll
+END
+ds-negative-offset-addressing-mode-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/ds-negative-offset-addressing-mode-loop.ll
+END
+captured-frame-index.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/captured-frame-index.ll
+END
+amdgcn.private-memory.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269207/llvm/trunk/test/CodeGen/AMDGPU/amdgcn.private-memory.ll
+END
+lshr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/lshr.ll
+END
+global-extload-i8.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/global-extload-i8.ll
+END
+sminmax.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/266126/llvm/trunk/test/CodeGen/AMDGPU/sminmax.ll
+END
+reduce-load-width-alignment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/reduce-load-width-alignment.ll
+END
+use-sgpr-multiple-times.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/use-sgpr-multiple-times.ll
+END
+extract_vector_elt_i16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/extract_vector_elt_i16.ll
+END
+llvm.r600.read.workdim.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/llvm.r600.read.workdim.ll
+END
+zero_extend.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/zero_extend.ll
+END
+rotr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/rotr.ll
+END
+fdiv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/fdiv.ll
+END
+global-extload-i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/254086/llvm/trunk/test/CodeGen/AMDGPU/global-extload-i32.ll
+END
+schedule-global-loads.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/schedule-global-loads.ll
+END
+readcyclecounter.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/262119/llvm/trunk/test/CodeGen/AMDGPU/readcyclecounter.ll
+END
+register-count-comments.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/256282/llvm/trunk/test/CodeGen/AMDGPU/register-count-comments.ll
+END
+llvm.amdgcn.rsq.clamp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.rsq.clamp.ll
+END
+sint_to_fp.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/sint_to_fp.f64.ll
+END
+uint_to_fp.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/uint_to_fp.f64.ll
+END
+s_mulk_i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266506/llvm/trunk/test/CodeGen/AMDGPU/s_mulk_i32.ll
+END
+fmaxnum.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fmaxnum.f64.ll
+END
+llvm.log2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/llvm.log2.ll
+END
+drop-mem-operand-move-smrd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/drop-mem-operand-move-smrd.ll
+END
+valu-i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/267977/llvm/trunk/test/CodeGen/AMDGPU/valu-i1.ll
+END
+cf_end.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/cf_end.ll
+END
+udivrem24.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/udivrem24.ll
+END
+structurize1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/structurize1.ll
+END
+selectcc-opt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/selectcc-opt.ll
+END
+over-max-lds-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267922/llvm/trunk/test/CodeGen/AMDGPU/over-max-lds-size.ll
+END
+llvm.amdgcn.read.workdim.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/258557/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.read.workdim.ll
+END
+complex-folding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/complex-folding.ll
+END
+bug-vopc-commute.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266825/llvm/trunk/test/CodeGen/AMDGPU/bug-vopc-commute.ll
+END
+saddo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/saddo.ll
+END
+llvm.amdgcn.cubeid.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/258786/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.cubeid.ll
+END
+llvm.amdgcn.workitem.id.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.workitem.id.ll
+END
+llvm.round.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/llvm.round.f64.ll
+END
+private-memory-broken.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/AMDGPU/private-memory-broken.ll
+END
+read-register-invalid-type-i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/258785/llvm/trunk/test/CodeGen/AMDGPU/read-register-invalid-type-i64.ll
+END
+setcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/setcc.ll
+END
+v_cndmask.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/v_cndmask.ll
+END
+operand-folding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/CodeGen/AMDGPU/operand-folding.ll
+END
+llvm.SI.tbuffer.store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.SI.tbuffer.store.ll
+END
+udivrem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/264877/llvm/trunk/test/CodeGen/AMDGPU/udivrem.ll
+END
+fceil.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/fceil.ll
+END
+tti-unroll-prefs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/tti-unroll-prefs.ll
+END
+shl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/268672/llvm/trunk/test/CodeGen/AMDGPU/shl.ll
+END
+extractelt-to-trunc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/266126/llvm/trunk/test/CodeGen/AMDGPU/extractelt-to-trunc.ll
+END
+si-triv-disjoint-mem-access.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/268143/llvm/trunk/test/CodeGen/AMDGPU/si-triv-disjoint-mem-access.ll
+END
+llvm.AMDGPU.rsq.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/258783/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.rsq.ll
+END
+llvm.amdgcn.sin.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260782/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.sin.ll
+END
+elf.r600.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/elf.r600.ll
+END
+v1i64-kernel-arg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/v1i64-kernel-arg.ll
+END
+si-sgpr-spill.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/si-sgpr-spill.ll
+END
+lower-range-metadata-intrinsic-call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/260694/llvm/trunk/test/CodeGen/AMDGPU/lower-range-metadata-intrinsic-call.ll
+END
+inline-calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/inline-calls.ll
+END
+fmaxnum.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/263201/llvm/trunk/test/CodeGen/AMDGPU/fmaxnum.ll
+END
+fneg.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266378/llvm/trunk/test/CodeGen/AMDGPU/fneg.f64.ll
+END
+llvm.pow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.pow.ll
+END
+store-barrier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266834/llvm/trunk/test/CodeGen/AMDGPU/store-barrier.ll
+END
+trunc-bitcast-vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/262397/llvm/trunk/test/CodeGen/AMDGPU/trunc-bitcast-vector.ll
+END
+inline-constraints.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/255203/llvm/trunk/test/CodeGen/AMDGPU/inline-constraints.ll
+END
+reciprocal.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/reciprocal.ll
+END
+llvm.amdgcn.atomic.inc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.atomic.inc.ll
+END
+load-i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/load-i1.ll
+END
+uniform-loop-inside-nonuniform.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/266834/llvm/trunk/test/CodeGen/AMDGPU/uniform-loop-inside-nonuniform.ll
+END
+ds_read2_superreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/ds_read2_superreg.ll
+END
+parallelorifcollapse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/parallelorifcollapse.ll
+END
+store-v3i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/store-v3i32.ll
+END
+copy-illegal-type.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/264676/llvm/trunk/test/CodeGen/AMDGPU/copy-illegal-type.ll
+END
+ds_read2st64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/ds_read2st64.ll
+END
+promote-alloca-stored-pointer-value.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/264200/llvm/trunk/test/CodeGen/AMDGPU/promote-alloca-stored-pointer-value.ll
+END
+lds-m0-init-in-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/266156/llvm/trunk/test/CodeGen/AMDGPU/lds-m0-init-in-loop.ll
+END
+llvm.amdgcn.div.scale.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/266071/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.div.scale.ll
+END
+merge-stores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/merge-stores.ll
+END
+fmax3.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/fmax3.f64.ll
+END
+llvm.amdgcn.buffer.load.format.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.buffer.load.format.ll
+END
+simplify-demanded-bits-build-pair.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/simplify-demanded-bits-build-pair.ll
+END
+llvm.AMDGPU.kill.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/llvm.AMDGPU.kill.ll
+END
+subreg-coalescer-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/subreg-coalescer-crash.ll
+END
+llvm.amdgcn.mov.dpp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268247/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.mov.dpp.ll
+END
+predicate-dp4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/predicate-dp4.ll
+END
+si-vector-hang.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/si-vector-hang.ll
+END
+select64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/247157/llvm/trunk/test/CodeGen/AMDGPU/select64.ll
+END
+global-extload-i16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/global-extload-i16.ll
+END
+fcopysign.f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/fcopysign.f64.ll
+END
+big_alu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/big_alu.ll
+END
+wrong-transalu-pos-fix.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/CodeGen/AMDGPU/wrong-transalu-pos-fix.ll
+END
+llvm.amdgcn.class.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/264876/llvm/trunk/test/CodeGen/AMDGPU/llvm.amdgcn.class.ll
+END
+r600cfg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/265589/llvm/trunk/test/CodeGen/AMDGPU/r600cfg.ll
+END

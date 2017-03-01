@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/test/Object/Lanai
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/262394/llvm/trunk/test/Object/Lanai/lit.local.cfg
+END
+yaml2obj-elf-lanai-rel.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/test/Object/Lanai/yaml2obj-elf-lanai-rel.yaml
+END

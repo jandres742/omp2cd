@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/265251/llvm/trunk/lib/Target/Lanai/InstPrinter
+END
+LanaiInstPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/265251/llvm/trunk/lib/Target/Lanai/InstPrinter/LanaiInstPrinter.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/InstPrinter/LLVMBuild.txt
+END
+LanaiInstPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/InstPrinter/LanaiInstPrinter.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/InstPrinter/CMakeLists.txt
+END

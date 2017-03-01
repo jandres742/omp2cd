@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/259360/llvm/trunk/test/MC/Mips/dsp
+END
+valid.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/255991/llvm/trunk/test/MC/Mips/dsp/valid.s
+END
+invalid.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/259360/llvm/trunk/test/MC/Mips/dsp/invalid.s
+END

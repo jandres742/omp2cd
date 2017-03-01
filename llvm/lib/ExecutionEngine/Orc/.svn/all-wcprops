@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/268845/llvm/trunk/lib/ExecutionEngine/Orc
+END
+OrcCBindingsStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267475/llvm/trunk/lib/ExecutionEngine/Orc/OrcCBindingsStack.h
+END
+OrcMCJITReplacement.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/258185/llvm/trunk/lib/ExecutionEngine/Orc/OrcMCJITReplacement.h
+END
+ExecutionUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/233885/llvm/trunk/lib/ExecutionEngine/Orc/ExecutionUtils.cpp
+END
+OrcCBindings.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267475/llvm/trunk/lib/ExecutionEngine/Orc/OrcCBindings.cpp
+END
+OrcRemoteTargetRPCAPI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/266663/llvm/trunk/lib/ExecutionEngine/Orc/OrcRemoteTargetRPCAPI.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/227040/llvm/trunk/lib/ExecutionEngine/Orc/LLVMBuild.txt
+END
+IndirectionUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/ExecutionEngine/Orc/IndirectionUtils.cpp
+END
+OrcCBindingsStack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268845/llvm/trunk/lib/ExecutionEngine/Orc/OrcCBindingsStack.cpp
+END
+OrcMCJITReplacement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/239687/llvm/trunk/lib/ExecutionEngine/Orc/OrcMCJITReplacement.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268845/llvm/trunk/lib/ExecutionEngine/Orc/CMakeLists.txt
+END
+NullResolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/240340/llvm/trunk/lib/ExecutionEngine/Orc/NullResolver.cpp
+END
+OrcABISupport.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268845/llvm/trunk/lib/ExecutionEngine/Orc/OrcABISupport.cpp
+END
+OrcError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267475/llvm/trunk/lib/ExecutionEngine/Orc/OrcError.cpp
+END

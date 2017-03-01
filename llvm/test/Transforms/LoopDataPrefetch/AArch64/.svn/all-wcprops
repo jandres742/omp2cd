@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/268578/llvm/trunk/test/Transforms/LoopDataPrefetch/AArch64
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/263771/llvm/trunk/test/Transforms/LoopDataPrefetch/AArch64/lit.local.cfg
+END
+opt-remark.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/268578/llvm/trunk/test/Transforms/LoopDataPrefetch/AArch64/opt-remark.ll
+END
+large-stride.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/264806/llvm/trunk/test/Transforms/LoopDataPrefetch/AArch64/large-stride.ll
+END

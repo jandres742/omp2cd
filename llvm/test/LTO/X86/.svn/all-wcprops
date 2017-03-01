@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/268965/llvm/trunk/test/LTO/X86
+END
+bcsection.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/LTO/X86/bcsection.ll
+END
+keep-used-puts-during-instcombine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/LTO/X86/keep-used-puts-during-instcombine.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/lit.local.cfg
+END
+cfi_endproc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/232769/llvm/trunk/test/LTO/X86/cfi_endproc.ll
+END
+private-symbol.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/private-symbol.ll
+END
+strip-debug-info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268965/llvm/trunk/test/LTO/X86/strip-debug-info.ll
+END
+linkonce_odr_func.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239940/llvm/trunk/test/LTO/X86/linkonce_odr_func.ll
+END
+current-section.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/LTO/X86/current-section.ll
+END
+runtime-library.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/runtime-library.ll
+END
+restore-externals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/258100/llvm/trunk/test/LTO/X86/restore-externals.ll
+END
+invalid.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/255778/llvm/trunk/test/LTO/X86/invalid.ll
+END
+unnamed.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/267820/llvm/trunk/test/LTO/X86/unnamed.ll
+END
+pr25919.ll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/257915/llvm/trunk/test/LTO/X86/pr25919.ll
+END
+set-merged.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/LTO/X86/set-merged.ll
+END
+parallel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/246862/llvm/trunk/test/LTO/X86/parallel.ll
+END
+attrs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/attrs.ll
+END
+triple-init.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/triple-init.ll
+END
+list-symbols.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/LTO/X86/list-symbols.ll
+END
+diagnostic-handler-remarks.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/265084/llvm/trunk/test/LTO/X86/diagnostic-handler-remarks.ll
+END
+diagnostic-handler-noexit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/252791/llvm/trunk/test/LTO/X86/diagnostic-handler-noexit.ll
+END
+symver-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/symver-asm.ll
+END
+no-undefined-puts-when-implemented.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/LTO/X86/no-undefined-puts-when-implemented.ll
+END
+llvm-lto-output.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/253624/llvm/trunk/test/LTO/X86/llvm-lto-output.ll
+END
+disable-verify.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/266167/llvm/trunk/test/LTO/X86/disable-verify.ll
+END

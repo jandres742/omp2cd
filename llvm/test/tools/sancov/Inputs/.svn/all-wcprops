@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/Inputs
+END
+test-linux_x86_64.0.sancov
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/Inputs/test-linux_x86_64.0.sancov
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/Inputs/test.cpp
+END
+test-linux_x86_64.1.sancov
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/Inputs/test-linux_x86_64.1.sancov
+END
+foo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/252933/llvm/trunk/test/tools/sancov/Inputs/foo.cpp
+END
+test-linux_x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/Inputs/test-linux_x86_64
+END
+src_blacklist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/Inputs/src_blacklist.txt
+END
+fun_blacklist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/Inputs/fun_blacklist.txt
+END

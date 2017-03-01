@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov
+END
+blacklist.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/blacklist.test
+END
+print.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/print.test
+END
+print_coverage_pcs.test
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/print_coverage_pcs.test
+END
+html-report.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/263308/llvm/trunk/test/tools/sancov/html-report.test
+END
+stats.test
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/test/tools/sancov/stats.test
+END
+covered_functions.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/260628/llvm/trunk/test/tools/sancov/covered_functions.test
+END
+not_covered_functions.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/260628/llvm/trunk/test/tools/sancov/not_covered_functions.test
+END

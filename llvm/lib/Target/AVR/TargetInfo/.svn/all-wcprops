@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/258861/llvm/trunk/lib/Target/AVR/TargetInfo
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/252865/llvm/trunk/lib/Target/AVR/TargetInfo/LLVMBuild.txt
+END
+AVRTargetInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/252865/llvm/trunk/lib/Target/AVR/TargetInfo/AVRTargetInfo.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/252865/llvm/trunk/lib/Target/AVR/TargetInfo/CMakeLists.txt
+END

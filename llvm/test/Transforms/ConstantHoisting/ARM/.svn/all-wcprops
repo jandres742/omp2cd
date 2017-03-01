@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266464/llvm/trunk/test/Transforms/ConstantHoisting/ARM
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/266260/llvm/trunk/test/Transforms/ConstantHoisting/ARM/lit.local.cfg
+END
+bad-cases.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/266464/llvm/trunk/test/Transforms/ConstantHoisting/ARM/bad-cases.ll
+END

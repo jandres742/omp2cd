@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/269104/llvm/trunk/cmake/modules
+END
+GenerateVersionFromCVS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/266523/llvm/trunk/cmake/modules/GenerateVersionFromCVS.cmake
+END
+HandleLLVMOptions.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/268670/llvm/trunk/cmake/modules/HandleLLVMOptions.cmake
+END
+CrossCompile.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/247151/llvm/trunk/cmake/modules/CrossCompile.cmake
+END
+AddOCaml.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239259/llvm/trunk/cmake/modules/AddOCaml.cmake
+END
+LLVMConfig.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/269104/llvm/trunk/cmake/modules/LLVMConfig.cmake.in
+END
+GetSVN.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/223864/llvm/trunk/cmake/modules/GetSVN.cmake
+END
+LLVMInstallSymlink.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/250573/llvm/trunk/cmake/modules/LLVMInstallSymlink.cmake
+END
+FindSphinx.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/215634/llvm/trunk/cmake/modules/FindSphinx.cmake
+END
+CheckAtomic.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/239819/llvm/trunk/cmake/modules/CheckAtomic.cmake
+END
+LLVMConfigVersion.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/206426/llvm/trunk/cmake/modules/LLVMConfigVersion.cmake.in
+END
+LLVM-Config.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/260641/llvm/trunk/cmake/modules/LLVM-Config.cmake
+END
+LLVMProcessSources.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/228670/llvm/trunk/cmake/modules/LLVMProcessSources.cmake
+END
+CheckCompilerVersion.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/262949/llvm/trunk/cmake/modules/CheckCompilerVersion.cmake
+END
+AddLLVMDefinitions.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/250025/llvm/trunk/cmake/modules/AddLLVMDefinitions.cmake
+END
+TableGen.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/251138/llvm/trunk/cmake/modules/TableGen.cmake
+END
+ChooseMSVCCRT.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/200644/llvm/trunk/cmake/modules/ChooseMSVCCRT.cmake
+END
+AddLLVM.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268812/llvm/trunk/cmake/modules/AddLLVM.cmake
+END
+LLVMExternalProjectUtils.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/265863/llvm/trunk/cmake/modules/LLVMExternalProjectUtils.cmake
+END
+VersionFromVCS.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/266523/llvm/trunk/cmake/modules/VersionFromVCS.cmake
+END
+HandleLLVMStdlib.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/248798/llvm/trunk/cmake/modules/HandleLLVMStdlib.cmake
+END
+DetermineGCCCompatible.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/248798/llvm/trunk/cmake/modules/DetermineGCCCompatible.cmake
+END
+AddSphinxTarget.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/215635/llvm/trunk/cmake/modules/AddSphinxTarget.cmake
+END
+FindOCaml.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/223071/llvm/trunk/cmake/modules/FindOCaml.cmake
+END
+GetHostTriple.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/258861/llvm/trunk/cmake/modules/GetHostTriple.cmake
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/259821/llvm/trunk/cmake/modules/CMakeLists.txt
+END

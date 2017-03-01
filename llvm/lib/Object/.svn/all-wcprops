@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/269218/llvm/trunk/lib/Object
+END
+SymbolSize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/240961/llvm/trunk/lib/Object/SymbolSize.cpp
+END
+IRObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/269218/llvm/trunk/lib/Object/IRObjectFile.cpp
+END
+COFFObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268298/llvm/trunk/lib/Object/COFFObjectFile.cpp
+END
+ELF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/262394/llvm/trunk/lib/Object/ELF.cpp
+END
+Object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/268298/llvm/trunk/lib/Object/Object.cpp
+END
+ObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/268298/llvm/trunk/lib/Object/ObjectFile.cpp
+END
+MachOObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/268789/llvm/trunk/lib/Object/MachOObjectFile.cpp
+END
+ArchiveWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/268916/llvm/trunk/lib/Object/ArchiveWriter.cpp
+END
+MachOUniversal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/264473/llvm/trunk/lib/Object/MachOUniversal.cpp
+END
+RecordStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/237936/llvm/trunk/lib/Object/RecordStreamer.cpp
+END
+Archive.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/268226/llvm/trunk/lib/Object/Archive.cpp
+END
+SymbolicFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/265606/llvm/trunk/lib/Object/SymbolicFile.cpp
+END
+ModuleSummaryIndexObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267097/llvm/trunk/lib/Object/ModuleSummaryIndexObjectFile.cpp
+END
+Binary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/265606/llvm/trunk/lib/Object/Binary.cpp
+END
+RecordStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Object/RecordStreamer.h
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/212917/llvm/trunk/lib/Object/LLVMBuild.txt
+END
+Error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/268789/llvm/trunk/lib/Object/Error.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/263513/llvm/trunk/lib/Object/CMakeLists.txt
+END
+ELFObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239116/llvm/trunk/lib/Object/ELFObjectFile.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/Scalarizer
+END
+cache-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/244448/llvm/trunk/test/Transforms/Scalarizer/cache-bug.ll
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/Scalarizer/basic.ll
+END
+store-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/243040/llvm/trunk/test/Transforms/Scalarizer/store-bug.ll
+END
+dbginfo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/Scalarizer/dbginfo.ll
+END

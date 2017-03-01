@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/259971/llvm/trunk/test/tools/llvm-dwp/Inputs/merge/notypes
+END
+c.dwo
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/259971/llvm/trunk/test/tools/llvm-dwp/Inputs/merge/notypes/c.dwo
+END
+ab.dwp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/259971/llvm/trunk/test/tools/llvm-dwp/Inputs/merge/notypes/ab.dwp
+END

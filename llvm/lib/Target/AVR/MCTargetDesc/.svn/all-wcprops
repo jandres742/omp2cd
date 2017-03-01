@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/MCTargetDesc
+END
+AVRMCTargetDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268722/llvm/trunk/lib/Target/AVR/MCTargetDesc/AVRMCTargetDesc.h
+END

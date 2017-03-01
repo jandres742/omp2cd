@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/269383/llvm/trunk/test/tools/dsymutil/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/248331/llvm/trunk/test/tools/dsymutil/X86/lit.local.cfg
+END
+odr-member-functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/245803/llvm/trunk/test/tools/dsymutil/X86/odr-member-functions.cpp
+END
+basic-with-libfat-test.test
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/268924/llvm/trunk/test/tools/dsymutil/X86/basic-with-libfat-test.test
+END
+fat-object-input-x86_64.test
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/244269/llvm/trunk/test/tools/dsymutil/X86/fat-object-input-x86_64.test
+END
+odr-anon-namespace.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/245803/llvm/trunk/test/tools/dsymutil/X86/odr-anon-namespace.cpp
+END
+multiple-inputs.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/244572/llvm/trunk/test/tools/dsymutil/X86/multiple-inputs.test
+END
+fat-archive-input-i386.test
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/244269/llvm/trunk/test/tools/dsymutil/X86/fat-archive-input-i386.test
+END
+fat-object-input-x86_64h.test
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/244269/llvm/trunk/test/tools/dsymutil/X86/fat-object-input-x86_64h.test
+END
+basic-linking-bundle.test
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/256350/llvm/trunk/test/tools/dsymutil/X86/basic-linking-bundle.test
+END
+mismatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/269383/llvm/trunk/test/tools/dsymutil/X86/mismatch.m
+END
+custom-line-table.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/244319/llvm/trunk/test/tools/dsymutil/X86/custom-line-table.test
+END
+odr-uniquing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246411/llvm/trunk/test/tools/dsymutil/X86/odr-uniquing.cpp
+END
+basic-lto-dw4-linking-x86.test
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/244572/llvm/trunk/test/tools/dsymutil/X86/basic-lto-dw4-linking-x86.test
+END
+modules.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/252649/llvm/trunk/test/tools/dsymutil/X86/modules.m
+END
+frame-1.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/244269/llvm/trunk/test/tools/dsymutil/X86/frame-1.test
+END
+dummy-debug-map.map
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/245803/llvm/trunk/test/tools/dsymutil/X86/dummy-debug-map.map
+END
+dead-stripped.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/247386/llvm/trunk/test/tools/dsymutil/X86/dead-stripped.cpp
+END
+frame-2.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/244269/llvm/trunk/test/tools/dsymutil/X86/frame-2.test
+END
+basic-lto-linking-x86.test
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/244572/llvm/trunk/test/tools/dsymutil/X86/basic-lto-linking-x86.test
+END
+basic-linking-x86.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/244572/llvm/trunk/test/tools/dsymutil/X86/basic-linking-x86.test
+END
+dsym-companion.test
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/246673/llvm/trunk/test/tools/dsymutil/X86/dsym-companion.test
+END
+empty_range.s
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/246412/llvm/trunk/test/tools/dsymutil/X86/empty_range.s
+END
+common-sym.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/259319/llvm/trunk/test/tools/dsymutil/X86/common-sym.test
+END
+modules-warnings.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/257784/llvm/trunk/test/tools/dsymutil/X86/modules-warnings.test
+END
+submodules.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/252649/llvm/trunk/test/tools/dsymutil/X86/submodules.m
+END

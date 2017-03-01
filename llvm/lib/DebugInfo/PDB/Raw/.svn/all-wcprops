@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/lib/DebugInfo/PDB/Raw
+END
+NameMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/lib/DebugInfo/PDB/Raw/NameMap.cpp
+END
+StreamReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/lib/DebugInfo/PDB/Raw/StreamReader.cpp
+END
+ByteStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/lib/DebugInfo/PDB/Raw/ByteStream.cpp
+END
+RawError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/lib/DebugInfo/PDB/Raw/RawError.cpp
+END
+PDBFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/lib/DebugInfo/PDB/Raw/PDBFile.cpp
+END
+InfoStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/lib/DebugInfo/PDB/Raw/InfoStream.cpp
+END
+TpiStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/269381/llvm/trunk/lib/DebugInfo/PDB/Raw/TpiStream.cpp
+END
+DbiStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/lib/DebugInfo/PDB/Raw/DbiStream.cpp
+END
+ModInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268072/llvm/trunk/lib/DebugInfo/PDB/Raw/ModInfo.cpp
+END
+ModStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268942/llvm/trunk/lib/DebugInfo/PDB/Raw/ModStream.cpp
+END
+NameHashTable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/lib/DebugInfo/PDB/Raw/NameHashTable.cpp
+END
+MappedBlockStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/lib/DebugInfo/PDB/Raw/MappedBlockStream.cpp
+END
+PublicsStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/lib/DebugInfo/PDB/Raw/PublicsStream.cpp
+END
+RawSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/lib/DebugInfo/PDB/Raw/RawSession.cpp
+END

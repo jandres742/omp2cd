@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/268341/llvm/trunk/test/Transforms/FunctionImport
+END
+adjustable_threshold.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/266131/llvm/trunk/test/Transforms/FunctionImport/adjustable_threshold.ll
+END
+funcimport_debug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/FunctionImport/funcimport_debug.ll
+END
+funcimport_alias.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/266131/llvm/trunk/test/Transforms/FunctionImport/funcimport_alias.ll
+END
+inlineasm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266877/llvm/trunk/test/Transforms/FunctionImport/inlineasm.ll
+END
+funcimport.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268341/llvm/trunk/test/Transforms/FunctionImport/funcimport.ll
+END

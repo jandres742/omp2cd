@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/252755/llvm/trunk/test/Transforms/SimplifyCFG/Mips
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/252755/llvm/trunk/test/Transforms/SimplifyCFG/Mips/lit.local.cfg
+END
+cttz-ctlz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/252755/llvm/trunk/test/Transforms/SimplifyCFG/Mips/cttz-ctlz.ll
+END

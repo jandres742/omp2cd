@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/265051/llvm/trunk/test/CodeGen/MIR/AArch64
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/243553/llvm/trunk/test/CodeGen/MIR/AArch64/lit.local.cfg
+END
+expected-target-flag-name.mir
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/245383/llvm/trunk/test/CodeGen/MIR/AArch64/expected-target-flag-name.mir
+END
+invalid-target-flag-name.mir
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/245383/llvm/trunk/test/CodeGen/MIR/AArch64/invalid-target-flag-name.mir
+END
+machine-scheduler.mir
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/265051/llvm/trunk/test/CodeGen/MIR/AArch64/machine-scheduler.mir
+END
+target-flags.mir
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/AArch64/target-flags.mir
+END
+cfi-def-cfa.mir
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/AArch64/cfi-def-cfa.mir
+END
+stack-object-local-offset.mir
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/264674/llvm/trunk/test/CodeGen/MIR/AArch64/stack-object-local-offset.mir
+END
+machine-dead-copy.mir
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/264593/llvm/trunk/test/CodeGen/MIR/AArch64/machine-dead-copy.mir
+END
+multiple-lhs-operands.mir
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/AArch64/multiple-lhs-operands.mir
+END

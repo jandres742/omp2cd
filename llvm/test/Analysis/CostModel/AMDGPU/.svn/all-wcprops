@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Analysis/CostModel/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/254438/llvm/trunk/test/Analysis/CostModel/AMDGPU/lit.local.cfg
+END
+fabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264368/llvm/trunk/test/Analysis/CostModel/AMDGPU/fabs.ll
+END
+bit-ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Analysis/CostModel/AMDGPU/bit-ops.ll
+END
+mul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Analysis/CostModel/AMDGPU/mul.ll
+END
+fadd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264374/llvm/trunk/test/Analysis/CostModel/AMDGPU/fadd.ll
+END
+insertelement.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/264364/llvm/trunk/test/Analysis/CostModel/AMDGPU/insertelement.ll
+END
+add-sub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Analysis/CostModel/AMDGPU/add-sub.ll
+END
+fsub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264374/llvm/trunk/test/Analysis/CostModel/AMDGPU/fsub.ll
+END
+shifts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Analysis/CostModel/AMDGPU/shifts.ll
+END
+addrspacecast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/264369/llvm/trunk/test/Analysis/CostModel/AMDGPU/addrspacecast.ll
+END
+br.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/255796/llvm/trunk/test/Analysis/CostModel/AMDGPU/br.ll
+END
+fmul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264374/llvm/trunk/test/Analysis/CostModel/AMDGPU/fmul.ll
+END
+extractelement.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/254438/llvm/trunk/test/Analysis/CostModel/AMDGPU/extractelement.ll
+END
+fdiv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264374/llvm/trunk/test/Analysis/CostModel/AMDGPU/fdiv.ll
+END

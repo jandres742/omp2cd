@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/268946/llvm/trunk/test/MC/Hexagon
+END
+v60-vcmp.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/254652/llvm/trunk/test/MC/Hexagon/v60-vcmp.s
+END
+fixups.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/fixups.s
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/221465/llvm/trunk/test/MC/Hexagon/lit.local.cfg
+END
+test.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/256707/llvm/trunk/test/MC/Hexagon/test.s
+END
+inst_cmp_lt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/238556/llvm/trunk/test/MC/Hexagon/inst_cmp_lt.ll
+END
+inst_select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/239161/llvm/trunk/test/MC/Hexagon/inst_select.ll
+END
+inst_sxtb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239161/llvm/trunk/test/MC/Hexagon/inst_sxtb.ll
+END
+relocations.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/260259/llvm/trunk/test/MC/Hexagon/relocations.s
+END
+v60-vmpy1.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/254652/llvm/trunk/test/MC/Hexagon/v60-vmpy1.s
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/260430/llvm/trunk/test/MC/Hexagon/basic.ll
+END
+v60-vmpy-acc.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/254652/llvm/trunk/test/MC/Hexagon/v60-vmpy-acc.s
+END
+inst_sxth.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239161/llvm/trunk/test/MC/Hexagon/inst_sxth.ll
+END
+inst_zxtb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239161/llvm/trunk/test/MC/Hexagon/inst_zxtb.ll
+END
+inst_aslh.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/222785/llvm/trunk/test/MC/Hexagon/inst_aslh.ll
+END
+got.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/256025/llvm/trunk/test/MC/Hexagon/got.s
+END
+align.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/267798/llvm/trunk/test/MC/Hexagon/align.s
+END
+v60-alu.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/254652/llvm/trunk/test/MC/Hexagon/v60-alu.s
+END
+v60-permute.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/254652/llvm/trunk/test/MC/Hexagon/v60-permute.s
+END
+inst_sub.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/222785/llvm/trunk/test/MC/Hexagon/inst_sub.ll
+END
+inst_or64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/250549/llvm/trunk/test/MC/Hexagon/inst_or64.ll
+END
+empty_asm.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/253000/llvm/trunk/test/MC/Hexagon/empty_asm.s
+END
+inst_zxth.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239161/llvm/trunk/test/MC/Hexagon/inst_zxth.ll
+END
+iconst.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/iconst.s
+END
+inst_asrh.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/222785/llvm/trunk/test/MC/Hexagon/inst_asrh.ll
+END
+inst_cmp_ugt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/238556/llvm/trunk/test/MC/Hexagon/inst_cmp_ugt.ll
+END
+dcfetch.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/253000/llvm/trunk/test/MC/Hexagon/dcfetch.s
+END
+elf-flags.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/267435/llvm/trunk/test/MC/Hexagon/elf-flags.s
+END
+labels.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/252968/llvm/trunk/test/MC/Hexagon/labels.s
+END
+register-alt-names.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267038/llvm/trunk/test/MC/Hexagon/register-alt-names.s
+END
+v60-misc.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/268946/llvm/trunk/test/MC/Hexagon/v60-misc.s
+END
+inst_add64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/222795/llvm/trunk/test/MC/Hexagon/inst_add64.ll
+END
+inst_cmp_ult.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/238556/llvm/trunk/test/MC/Hexagon/inst_cmp_ult.ll
+END
+v60lookup.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/254652/llvm/trunk/test/MC/Hexagon/v60lookup.s
+END
+inst_cmp_eq.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/238556/llvm/trunk/test/MC/Hexagon/inst_cmp_eq.ll
+END
+inst_cmp_ugti.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/inst_cmp_ugti.ll
+END
+inst_and64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/250549/llvm/trunk/test/MC/Hexagon/inst_and64.ll
+END
+new-value-check.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/252969/llvm/trunk/test/MC/Hexagon/new-value-check.s
+END
+asmMap.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/asmMap.s
+END
+inst_cmp_eqi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/inst_cmp_eqi.ll
+END
+inst_or.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/222785/llvm/trunk/test/MC/Hexagon/inst_or.ll
+END
+inst_cmp_gti.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/inst_cmp_gti.ll
+END
+inst_xor64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/250549/llvm/trunk/test/MC/Hexagon/inst_xor64.ll
+END
+v60-shift.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/254652/llvm/trunk/test/MC/Hexagon/v60-shift.s
+END
+two_ext.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/two_ext.s
+END
+inst_add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/239161/llvm/trunk/test/MC/Hexagon/inst_add.ll
+END
+relaxed_newvalue.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/relaxed_newvalue.s
+END
+tprel_noextend.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/262258/llvm/trunk/test/MC/Hexagon/tprel_noextend.s
+END
+double-vector-producer.s
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267897/llvm/trunk/test/MC/Hexagon/double-vector-producer.s
+END
+endloop.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/253000/llvm/trunk/test/MC/Hexagon/endloop.s
+END
+inst_and.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/222785/llvm/trunk/test/MC/Hexagon/inst_and.ll
+END
+pcrel.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/256025/llvm/trunk/test/MC/Hexagon/pcrel.s
+END
+inst_sub64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/222795/llvm/trunk/test/MC/Hexagon/inst_sub64.ll
+END
+duplex-registers.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/duplex-registers.s
+END
+lcomm.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/266882/llvm/trunk/test/MC/Hexagon/lcomm.s
+END
+out_of_range.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/252969/llvm/trunk/test/MC/Hexagon/out_of_range.s
+END
+capitalizedEndloop.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/253000/llvm/trunk/test/MC/Hexagon/capitalizedEndloop.s
+END
+inst_xor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/222785/llvm/trunk/test/MC/Hexagon/inst_xor.ll
+END
+inst_cmp_gt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/238556/llvm/trunk/test/MC/Hexagon/inst_cmp_gt.ll
+END
+jumpdoublepound.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/252989/llvm/trunk/test/MC/Hexagon/jumpdoublepound.s
+END
+v60-vmem.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/MC/Hexagon/v60-vmem.s
+END

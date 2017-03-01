@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/269408/llvm/trunk/test/MC/Mips/micromips-dsp
+END
+valid.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/269408/llvm/trunk/test/MC/Mips/micromips-dsp/valid.s
+END
+invalid.s
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/255991/llvm/trunk/test/MC/Mips/micromips-dsp/invalid.s
+END
+invalid-wrong-error.s
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/255991/llvm/trunk/test/MC/Mips/micromips-dsp/invalid-wrong-error.s
+END

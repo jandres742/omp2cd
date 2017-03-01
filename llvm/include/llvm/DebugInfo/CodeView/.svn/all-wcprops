@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView
+END
+MemoryTypeTableBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/MemoryTypeTableBuilder.h
+END
+CVTypeVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/CVTypeVisitor.h
+END
+CVSymbolTypes.def
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/257712/llvm/trunk/include/llvm/DebugInfo/CodeView/CVSymbolTypes.def
+END
+TypeStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269381/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeStream.h
+END
+TypeDumper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268941/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeDumper.h
+END
+TypeStreamMerger.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeStreamMerger.h
+END
+TypeTableBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeTableBuilder.h
+END
+CodeViewOStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/include/llvm/DebugInfo/CodeView/CodeViewOStream.h
+END
+TypeSymbolEmitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeSymbolEmitter.h
+END
+FunctionId.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/include/llvm/DebugInfo/CodeView/FunctionId.h
+END
+SymbolRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/269381/llvm/trunk/include/llvm/DebugInfo/CodeView/SymbolRecord.h
+END
+CodeView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269461/llvm/trunk/include/llvm/DebugInfo/CodeView/CodeView.h
+END
+TypeIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266465/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeIndex.h
+END
+TypeRecords.def
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/269461/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeRecords.def
+END
+RecordSerialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/269374/llvm/trunk/include/llvm/DebugInfo/CodeView/RecordSerialization.h
+END
+TypeRecord.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeRecord.h
+END
+ListRecordBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/ListRecordBuilder.h
+END
+MethodListRecordBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/256385/llvm/trunk/include/llvm/DebugInfo/CodeView/MethodListRecordBuilder.h
+END
+FieldListRecordBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/FieldListRecordBuilder.h
+END
+Line.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/259806/llvm/trunk/include/llvm/DebugInfo/CodeView/Line.h
+END
+TypeRecordBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/269521/llvm/trunk/include/llvm/DebugInfo/CodeView/TypeRecordBuilder.h
+END
+RecordIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/269381/llvm/trunk/include/llvm/DebugInfo/CodeView/RecordIterator.h
+END

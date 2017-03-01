@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268845/llvm/trunk/include/llvm/ExecutionEngine/Orc
+END
+CompileOnDemandLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/257373/llvm/trunk/include/llvm/ExecutionEngine/Orc/CompileOnDemandLayer.h
+END
+NullResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/240340/llvm/trunk/include/llvm/ExecutionEngine/Orc/NullResolver.h
+END
+OrcABISupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268845/llvm/trunk/include/llvm/ExecutionEngine/Orc/OrcABISupport.h
+END
+OrcRemoteTargetServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/267457/llvm/trunk/include/llvm/ExecutionEngine/Orc/OrcRemoteTargetServer.h
+END
+OrcError.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267457/llvm/trunk/include/llvm/ExecutionEngine/Orc/OrcError.h
+END
+LogicalDylib.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/251674/llvm/trunk/include/llvm/ExecutionEngine/Orc/LogicalDylib.h
+END
+ObjectTransformLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/258630/llvm/trunk/include/llvm/ExecutionEngine/Orc/ObjectTransformLayer.h
+END
+LambdaResolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/include/llvm/ExecutionEngine/Orc/LambdaResolver.h
+END
+IRTransformLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/234805/llvm/trunk/include/llvm/ExecutionEngine/Orc/IRTransformLayer.h
+END
+RPCUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267475/llvm/trunk/include/llvm/ExecutionEngine/Orc/RPCUtils.h
+END
+OrcRemoteTargetRPCAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/267475/llvm/trunk/include/llvm/ExecutionEngine/Orc/OrcRemoteTargetRPCAPI.h
+END
+OrcRemoteTargetClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/268111/llvm/trunk/include/llvm/ExecutionEngine/Orc/OrcRemoteTargetClient.h
+END
+GlobalMappingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/246226/llvm/trunk/include/llvm/ExecutionEngine/Orc/GlobalMappingLayer.h
+END
+CompileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/265606/llvm/trunk/include/llvm/ExecutionEngine/Orc/CompileUtils.h
+END
+JITSymbol.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/233509/llvm/trunk/include/llvm/ExecutionEngine/Orc/JITSymbol.h
+END
+LazyEmittingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/250940/llvm/trunk/include/llvm/ExecutionEngine/Orc/LazyEmittingLayer.h
+END
+RPCChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268689/llvm/trunk/include/llvm/ExecutionEngine/Orc/RPCChannel.h
+END
+ObjectLinkingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/266919/llvm/trunk/include/llvm/ExecutionEngine/Orc/ObjectLinkingLayer.h
+END
+IRCompileLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/265606/llvm/trunk/include/llvm/ExecutionEngine/Orc/IRCompileLayer.h
+END
+ExecutionUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/233885/llvm/trunk/include/llvm/ExecutionEngine/Orc/ExecutionUtils.h
+END
+IndirectionUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/267475/llvm/trunk/include/llvm/ExecutionEngine/Orc/IndirectionUtils.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/267128/llvm/trunk/lib/CodeGen/GlobalISel
+END
+RegisterBank.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267033/llvm/trunk/lib/CodeGen/GlobalISel/RegisterBank.cpp
+END
+IRTranslator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266342/llvm/trunk/lib/CodeGen/GlobalISel/IRTranslator.cpp
+END
+MachineIRBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/263265/llvm/trunk/lib/CodeGen/GlobalISel/MachineIRBuilder.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/260701/llvm/trunk/lib/CodeGen/GlobalISel/LLVMBuild.txt
+END
+RegBankSelect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267033/llvm/trunk/lib/CodeGen/GlobalISel/RegBankSelect.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265449/llvm/trunk/lib/CodeGen/GlobalISel/CMakeLists.txt
+END
+RegisterBankInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267128/llvm/trunk/lib/CodeGen/GlobalISel/RegisterBankInfo.cpp
+END
+GlobalISel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265440/llvm/trunk/lib/CodeGen/GlobalISel/GlobalISel.cpp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/Transforms/CodeGenPrepare/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/CodeGenPrepare/AMDGPU/lit.local.cfg
+END
+no-sink-addrspacecast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/Transforms/CodeGenPrepare/AMDGPU/no-sink-addrspacecast.ll
+END

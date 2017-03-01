@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/269509/llvm/trunk/lib/Target/XCore
+END
+XCoreTargetStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Target/XCore/XCoreTargetStreamer.h
+END
+XCoreRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/241921/llvm/trunk/lib/Target/XCore/XCoreRegisterInfo.cpp
+END
+XCoreInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235989/llvm/trunk/lib/Target/XCore/XCoreInstrInfo.td
+END
+XCoreSubtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/247702/llvm/trunk/lib/Target/XCore/XCoreSubtarget.cpp
+END
+XCoreFrameLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265036/llvm/trunk/lib/Target/XCore/XCoreFrameLowering.cpp
+END
+XCoreISelLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/269218/llvm/trunk/lib/Target/XCore/XCoreISelLowering.cpp
+END
+XCoreTargetTransformInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/247864/llvm/trunk/lib/Target/XCore/XCoreTargetTransformInfo.h
+END
+XCoreMCInstLower.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Target/XCore/XCoreMCInstLower.h
+END
+XCoreInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/261605/llvm/trunk/lib/Target/XCore/XCoreInstrInfo.cpp
+END
+XCoreTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269011/llvm/trunk/lib/Target/XCore/XCoreTargetMachine.cpp
+END
+XCoreTargetObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/261463/llvm/trunk/lib/Target/XCore/XCoreTargetObjectFile.cpp
+END
+XCoreSelectionDAGInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/241780/llvm/trunk/lib/Target/XCore/XCoreSelectionDAGInfo.cpp
+END
+XCoreInstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/175407/llvm/trunk/lib/Target/XCore/XCoreInstrFormats.td
+END
+XCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Target/XCore/XCore.h
+END
+XCoreAsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/257999/llvm/trunk/lib/Target/XCore/XCoreAsmPrinter.cpp
+END
+XCoreCallingConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/202414/llvm/trunk/lib/Target/XCore/XCoreCallingConv.td
+END
+XCoreRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/178782/llvm/trunk/lib/Target/XCore/XCoreRegisterInfo.td
+END
+XCoreISelDAGToDAG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/269509/llvm/trunk/lib/Target/XCore/XCoreISelDAGToDAG.cpp
+END
+XCoreFrameToArgsOffsetElim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/XCore/XCoreFrameToArgsOffsetElim.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/227685/llvm/trunk/lib/Target/XCore/CMakeLists.txt
+END
+XCoreMachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/243585/llvm/trunk/lib/Target/XCore/XCoreMachineFunctionInfo.h
+END
+XCore.td
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/196065/llvm/trunk/lib/Target/XCore/XCore.td
+END
+XCoreRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/231970/llvm/trunk/lib/Target/XCore/XCoreRegisterInfo.h
+END
+XCoreSubtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Target/XCore/XCoreSubtarget.h
+END
+XCoreMCInstLower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/238634/llvm/trunk/lib/Target/XCore/XCoreMCInstLower.cpp
+END
+XCoreFrameLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265036/llvm/trunk/lib/Target/XCore/XCoreFrameLowering.h
+END
+XCoreISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/263665/llvm/trunk/lib/Target/XCore/XCoreISelLowering.h
+END
+XCoreInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Target/XCore/XCoreInstrInfo.h
+END
+XCoreTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/239554/llvm/trunk/lib/Target/XCore/XCoreTargetMachine.h
+END
+XCoreTargetObjectFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/261463/llvm/trunk/lib/Target/XCore/XCoreTargetObjectFile.h
+END
+XCoreSelectionDAGInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/258939/llvm/trunk/lib/Target/XCore/XCoreSelectionDAGInfo.h
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/239632/llvm/trunk/lib/Target/XCore/LLVMBuild.txt
+END
+XCoreMachineFunctionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/243585/llvm/trunk/lib/Target/XCore/XCoreMachineFunctionInfo.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/187348/llvm/trunk/lib/Target/XCore/README.txt
+END
+XCoreLowerThreadLocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/263393/llvm/trunk/lib/Target/XCore/XCoreLowerThreadLocal.cpp
+END

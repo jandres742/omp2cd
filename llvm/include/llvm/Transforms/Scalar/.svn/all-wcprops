@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/269511/llvm/trunk/include/llvm/Transforms/Scalar
+END
+LoopRotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268452/llvm/trunk/include/llvm/Transforms/Scalar/LoopRotation.h
+END
+GVN.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267898/llvm/trunk/include/llvm/Transforms/Scalar/GVN.h
+END
+DCE.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267196/llvm/trunk/include/llvm/Transforms/Scalar/DCE.h
+END
+ADCE.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/263217/llvm/trunk/include/llvm/Transforms/Scalar/ADCE.h
+END
+SimplifyCFG.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268681/llvm/trunk/include/llvm/Transforms/Scalar/SimplifyCFG.h
+END
+Reassociate.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268417/llvm/trunk/include/llvm/Transforms/Scalar/Reassociate.h
+END
+LowerExpectIntrinsic.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/263217/llvm/trunk/include/llvm/Transforms/Scalar/LowerExpectIntrinsic.h
+END
+SROA.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/263219/llvm/trunk/include/llvm/Transforms/Scalar/SROA.h
+END
+Sink.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/267199/llvm/trunk/include/llvm/Transforms/Scalar/Sink.h
+END
+LowerAtomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269511/llvm/trunk/include/llvm/Transforms/Scalar/LowerAtomic.h
+END
+LoopSimplifyCFG.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268446/llvm/trunk/include/llvm/Transforms/Scalar/LoopSimplifyCFG.h
+END
+EarlyCSE.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/263219/llvm/trunk/include/llvm/Transforms/Scalar/EarlyCSE.h
+END

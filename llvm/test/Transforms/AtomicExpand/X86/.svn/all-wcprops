@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/261281/llvm/trunk/test/Transforms/AtomicExpand/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/244229/llvm/trunk/test/Transforms/AtomicExpand/X86/lit.local.cfg
+END
+expand-atomic-non-integer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/261281/llvm/trunk/test/Transforms/AtomicExpand/X86/expand-atomic-non-integer.ll
+END
+expand-atomic-rmw-initial-load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/244229/llvm/trunk/test/Transforms/AtomicExpand/X86/expand-atomic-rmw-initial-load.ll
+END

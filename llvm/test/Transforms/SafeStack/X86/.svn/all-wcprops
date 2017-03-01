@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/266004/llvm/trunk/test/Transforms/SafeStack/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/248405/llvm/trunk/test/Transforms/SafeStack/X86/lit.local.cfg
+END
+abi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/248863/llvm/trunk/test/Transforms/SafeStack/X86/abi.ll
+END
+abi_ssp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266004/llvm/trunk/test/Transforms/SafeStack/X86/abi_ssp.ll
+END
+ssp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266004/llvm/trunk/test/Transforms/SafeStack/X86/ssp.ll
+END

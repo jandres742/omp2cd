@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/MIR
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/255759/llvm/trunk/test/DebugInfo/MIR/lit.local.cfg
+END

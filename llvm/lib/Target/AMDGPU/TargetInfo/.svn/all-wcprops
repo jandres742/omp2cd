@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/258861/llvm/trunk/lib/Target/AMDGPU/TargetInfo
+END
+AMDGPUTargetInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/lib/Target/AMDGPU/TargetInfo/AMDGPUTargetInfo.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/lib/Target/AMDGPU/TargetInfo/LLVMBuild.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/lib/Target/AMDGPU/TargetInfo/CMakeLists.txt
+END

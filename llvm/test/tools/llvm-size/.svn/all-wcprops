@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/268313/llvm/trunk/test/tools/llvm-size
+END
+basic.test
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268313/llvm/trunk/test/tools/llvm-size/basic.test
+END
+darwin-m.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/260243/llvm/trunk/test/tools/llvm-size/darwin-m.test
+END

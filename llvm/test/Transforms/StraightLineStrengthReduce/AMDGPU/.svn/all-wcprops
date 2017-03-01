@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/244937/llvm/trunk/test/Transforms/StraightLineStrengthReduce/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/StraightLineStrengthReduce/AMDGPU/lit.local.cfg
+END
+pr23975.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/240910/llvm/trunk/test/Transforms/StraightLineStrengthReduce/AMDGPU/pr23975.ll
+END
+reassociate-geps-and-slsr-addrspace.ll
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/llvm-project/!svn/ver/244937/llvm/trunk/test/Transforms/StraightLineStrengthReduce/AMDGPU/reassociate-geps-and-slsr-addrspace.ll
+END

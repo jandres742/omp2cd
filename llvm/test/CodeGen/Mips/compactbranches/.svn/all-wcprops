@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266301/llvm/trunk/test/CodeGen/Mips/compactbranches
+END
+compact-branches.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/266301/llvm/trunk/test/CodeGen/Mips/compactbranches/compact-branches.ll
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/PowerPC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/247283/llvm/trunk/test/CodeGen/MIR/PowerPC/lit.local.cfg
+END
+unordered-implicit-registers.mir
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/PowerPC/unordered-implicit-registers.mir
+END

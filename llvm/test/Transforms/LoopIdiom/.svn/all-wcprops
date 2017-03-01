@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/267762/llvm/trunk/test/Transforms/LoopIdiom
+END
+nontemporal_store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/261149/llvm/trunk/test/Transforms/LoopIdiom/nontemporal_store.ll
+END
+ctpop-multiple-users-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/242073/llvm/trunk/test/Transforms/LoopIdiom/ctpop-multiple-users-crash.ll
+END
+debug-line.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/LoopIdiom/debug-line.ll
+END
+unroll.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/258777/llvm/trunk/test/Transforms/LoopIdiom/unroll.ll
+END
+basic-address-space.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/Transforms/LoopIdiom/basic-address-space.ll
+END
+scev-invalidation.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopIdiom/scev-invalidation.ll
+END
+crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/LoopIdiom/crash.ll
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267762/llvm/trunk/test/Transforms/LoopIdiom/basic.ll
+END
+struct_pattern.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/258777/llvm/trunk/test/Transforms/LoopIdiom/struct_pattern.ll
+END
+struct.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/258777/llvm/trunk/test/Transforms/LoopIdiom/struct.ll
+END
+non-canonical-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/LoopIdiom/non-canonical-loop.ll
+END
+memset_noidiom.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/LoopIdiom/memset_noidiom.ll
+END

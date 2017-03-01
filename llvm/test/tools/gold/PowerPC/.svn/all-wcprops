@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/246328/llvm/trunk/test/tools/gold/PowerPC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/246328/llvm/trunk/test/tools/gold/PowerPC/lit.local.cfg
+END
+mtriple.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/246328/llvm/trunk/test/tools/gold/PowerPC/mtriple.ll
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268673/llvm/trunk/test/Instrumentation/MemorySanitizer/Mips
+END
+vararg-mips64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/268673/llvm/trunk/test/Instrumentation/MemorySanitizer/Mips/vararg-mips64.ll
+END
+vararg-mips64el.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/268673/llvm/trunk/test/Instrumentation/MemorySanitizer/Mips/vararg-mips64el.ll
+END

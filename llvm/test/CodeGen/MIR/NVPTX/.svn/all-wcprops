@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/NVPTX
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/243780/llvm/trunk/test/CodeGen/MIR/NVPTX/lit.local.cfg
+END
+floating-point-immediate-operands.mir
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/MIR/NVPTX/floating-point-immediate-operands.mir
+END
+expected-floating-point-literal.mir
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/244982/llvm/trunk/test/CodeGen/MIR/NVPTX/expected-floating-point-literal.mir
+END
+floating-point-invalid-type-error.mir
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/244982/llvm/trunk/test/CodeGen/MIR/NVPTX/floating-point-invalid-type-error.mir
+END

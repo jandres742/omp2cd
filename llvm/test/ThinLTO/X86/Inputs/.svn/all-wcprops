@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/269545/llvm/trunk/test/ThinLTO/X86/Inputs
+END
+llvm.used.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/268715/llvm/trunk/test/ThinLTO/X86/Inputs/llvm.used.ll
+END
+emit_imports.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269067/llvm/trunk/test/ThinLTO/X86/Inputs/emit_imports.ll
+END
+alias_resolution.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266958/llvm/trunk/test/ThinLTO/X86/Inputs/alias_resolution.ll
+END
+drop-debug-info.bc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268847/llvm/trunk/test/ThinLTO/X86/Inputs/drop-debug-info.bc
+END
+select_right_alias_definition1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/266854/llvm/trunk/test/ThinLTO/X86/Inputs/select_right_alias_definition1.ll
+END
+select_right_alias_definition2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/266854/llvm/trunk/test/ThinLTO/X86/Inputs/select_right_alias_definition2.ll
+END
+distributed_indexes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/269059/llvm/trunk/test/ThinLTO/X86/Inputs/distributed_indexes.ll
+END
+drop-debug-info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268847/llvm/trunk/test/ThinLTO/X86/Inputs/drop-debug-info.ll
+END
+alias_import.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266958/llvm/trunk/test/ThinLTO/X86/Inputs/alias_import.ll
+END
+cache.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/269545/llvm/trunk/test/ThinLTO/X86/Inputs/cache.ll
+END
+section.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267646/llvm/trunk/test/ThinLTO/X86/Inputs/section.ll
+END
+referenced_by_constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/267303/llvm/trunk/test/ThinLTO/X86/Inputs/referenced_by_constant.ll
+END
+funcimport.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/262993/llvm/trunk/test/ThinLTO/X86/Inputs/funcimport.ll
+END
+odr_resolution.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265190/llvm/trunk/test/ThinLTO/X86/Inputs/odr_resolution.ll
+END

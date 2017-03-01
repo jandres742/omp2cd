@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/246410/llvm/trunk/test/tools/dsymutil/Inputs/empty_range
+END
+1.o
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/246410/llvm/trunk/test/tools/dsymutil/Inputs/empty_range/1.o
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/266115/llvm/trunk/test/Transforms/AtomicExpand/SPARC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/266115/llvm/trunk/test/Transforms/AtomicExpand/SPARC/lit.local.cfg
+END
+libcalls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266115/llvm/trunk/test/Transforms/AtomicExpand/SPARC/libcalls.ll
+END

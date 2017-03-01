@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/llvm-project/!svn/ver/269346/llvm/trunk/docs
+END
+AdvancedBuilds.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/263843/llvm/trunk/docs/AdvancedBuilds.rst
+END
+MarkedUpDisassembly.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/212021/llvm/trunk/docs/MarkedUpDisassembly.rst
+END
+Makefile.sphinx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/264120/llvm/trunk/docs/Makefile.sphinx
+END
+GetElementPtr.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/231294/llvm/trunk/docs/GetElementPtr.rst
+END
+BitCodeFormat.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/265480/llvm/trunk/docs/BitCodeFormat.rst
+END
+TableGenFundamentals.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/205289/llvm/trunk/docs/TableGenFundamentals.rst
+END
+HowToSubmitABug.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/219951/llvm/trunk/docs/HowToSubmitABug.rst
+END
+HowToUseAttributes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/174982/llvm/trunk/docs/HowToUseAttributes.rst
+END
+WritingAnLLVMPass.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/262802/llvm/trunk/docs/WritingAnLLVMPass.rst
+END
+GettingStarted.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/268631/llvm/trunk/docs/GettingStarted.rst
+END
+LLVMBuild.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/258873/llvm/trunk/docs/LLVMBuild.rst
+END
+HowToUseInstrMappings.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/172162/llvm/trunk/docs/HowToUseInstrMappings.rst
+END
+ARM-BE-ld1.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/208577/llvm/trunk/docs/ARM-BE-ld1.png
+END
+linpack-pc.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/172965/llvm/trunk/docs/linpack-pc.png
+END
+Passes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/267978/llvm/trunk/docs/Passes.rst
+END
+ARM-BE-bitcastsuccess.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/208577/llvm/trunk/docs/ARM-BE-bitcastsuccess.png
+END
+Lexicon.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/239085/llvm/trunk/docs/Lexicon.rst
+END
+ARM-BE-bitcastfail.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/208577/llvm/trunk/docs/ARM-BE-bitcastfail.png
+END
+SourceLevelDebugging.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/265081/llvm/trunk/docs/SourceLevelDebugging.rst
+END
+DeveloperPolicy.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/269157/llvm/trunk/docs/DeveloperPolicy.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/257627/llvm/trunk/docs/conf.py
+END
+FAQ.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/264141/llvm/trunk/docs/FAQ.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/268096/llvm/trunk/docs/index.rst
+END
+MCJIT-engine-builder.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/188943/llvm/trunk/docs/MCJIT-engine-builder.png
+END
+re_format.7
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/103219/llvm/trunk/docs/re_format.7
+END
+CompileCudaWithLLVM.rst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/264839/llvm/trunk/docs/CompileCudaWithLLVM.rst
+END
+Statepoints.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/262730/llvm/trunk/docs/Statepoints.rst
+END
+HowToBuildOnARM.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/252329/llvm/trunk/docs/HowToBuildOnARM.rst
+END
+LangRef.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/269346/llvm/trunk/docs/LangRef.rst
+END
+Vectorizers.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/234939/llvm/trunk/docs/Vectorizers.rst
+END
+SphinxQuickstartTemplate.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/176195/llvm/trunk/docs/SphinxQuickstartTemplate.rst
+END
+CompilerWriterInfo.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/266137/llvm/trunk/docs/CompilerWriterInfo.rst
+END
+SegmentedStacks.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/205997/llvm/trunk/docs/SegmentedStacks.rst
+END
+MergeFunctions.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/260855/llvm/trunk/docs/MergeFunctions.rst
+END
+MCJITDesignAndImplementation.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/256707/llvm/trunk/docs/MCJITDesignAndImplementation.rst
+END
+HowToReleaseLLVM.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/260855/llvm/trunk/docs/HowToReleaseLLVM.rst
+END
+Phabricator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/257764/llvm/trunk/docs/Phabricator.rst
+END
+Atomics.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/266115/llvm/trunk/docs/Atomics.rst
+END
+MCJIT-load.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/188943/llvm/trunk/docs/MCJIT-load.png
+END
+BigEndianNEON.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/208839/llvm/trunk/docs/BigEndianNEON.rst
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/146409/llvm/trunk/docs/LLVMBuild.txt
+END
+GettingStartedVS.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/264779/llvm/trunk/docs/GettingStartedVS.rst
+END
+AMDGPUUsage.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/265500/llvm/trunk/docs/AMDGPUUsage.rst
+END
+GoldPlugin.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/259280/llvm/trunk/docs/GoldPlugin.rst
+END
+NVPTXUsage.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/268522/llvm/trunk/docs/NVPTXUsage.rst
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/260035/llvm/trunk/docs/README.txt
+END
+BlockFrequencyTerminology.rst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/208839/llvm/trunk/docs/BlockFrequencyTerminology.rst
+END
+TestSuiteMakefileGuide.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/263309/llvm/trunk/docs/TestSuiteMakefileGuide.rst
+END
+ExtendedIntegerResults.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/103219/llvm/trunk/docs/ExtendedIntegerResults.txt
+END
+LibFuzzer.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/269143/llvm/trunk/docs/LibFuzzer.rst
+END
+HowToCrossCompileLLVM.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/269062/llvm/trunk/docs/HowToCrossCompileLLVM.rst
+END
+doxygen-mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/262786/llvm/trunk/docs/doxygen-mainpage.dox
+END
+ReleaseProcess.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/255222/llvm/trunk/docs/ReleaseProcess.rst
+END
+yaml2obj.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/243434/llvm/trunk/docs/yaml2obj.rst
+END
+CoverageMappingFormat.rst
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/264679/llvm/trunk/docs/CoverageMappingFormat.rst
+END
+CodeGenerator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/268631/llvm/trunk/docs/CodeGenerator.rst
+END
+HowToAddABuilder.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/172162/llvm/trunk/docs/HowToAddABuilder.rst
+END
+InAlloca.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/204890/llvm/trunk/docs/InAlloca.rst
+END
+LinkTimeOptimization.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/223216/llvm/trunk/docs/LinkTimeOptimization.rst
+END
+Packaging.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/172162/llvm/trunk/docs/Packaging.rst
+END
+Dummy.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/170126/llvm/trunk/docs/Dummy.html
+END
+ARM-BE-ldr.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/208577/llvm/trunk/docs/ARM-BE-ldr.png
+END
+CMakePrimer.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/268096/llvm/trunk/docs/CMakePrimer.rst
+END
+Extensions.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/234174/llvm/trunk/docs/Extensions.rst
+END
+gcc-loops.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/172966/llvm/trunk/docs/gcc-loops.png
+END
+MCJIT-load-object.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/188943/llvm/trunk/docs/MCJIT-load-object.png
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/245256/llvm/trunk/docs/CMakeLists.txt
+END
+BranchWeightMetadata.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/247495/llvm/trunk/docs/BranchWeightMetadata.rst
+END
+DebuggingJITedCode.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/172162/llvm/trunk/docs/DebuggingJITedCode.rst
+END
+CodingStandards.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/245711/llvm/trunk/docs/CodingStandards.rst
+END
+SystemLibrary.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/172109/llvm/trunk/docs/SystemLibrary.rst
+END
+doxygen.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/262786/llvm/trunk/docs/doxygen.cfg.in
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/155132/llvm/trunk/docs/make.bat
+END
+BitSets.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/259619/llvm/trunk/docs/BitSets.rst
+END
+MCJIT-resolve-relocations.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/188943/llvm/trunk/docs/MCJIT-resolve-relocations.png
+END
+ExtendingLLVM.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/246752/llvm/trunk/docs/ExtendingLLVM.rst
+END
+CMake.rst
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/268197/llvm/trunk/docs/CMake.rst
+END
+MCJIT-creation.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/188943/llvm/trunk/docs/MCJIT-creation.png
+END
+StackMaps.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/242441/llvm/trunk/docs/StackMaps.rst
+END
+CommandLine.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/243075/llvm/trunk/docs/CommandLine.rst
+END
+MIRLangRef.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/247005/llvm/trunk/docs/MIRLangRef.rst
+END
+Bugpoint.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/234939/llvm/trunk/docs/Bugpoint.rst
+END
+MCJIT-dyld-load.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/188943/llvm/trunk/docs/MCJIT-dyld-load.png
+END
+Projects.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/243999/llvm/trunk/docs/Projects.rst
+END
+ReleaseNotes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/268693/llvm/trunk/docs/ReleaseNotes.rst
+END
+YamlIO.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/259825/llvm/trunk/docs/YamlIO.rst
+END
+TestingGuide.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/258873/llvm/trunk/docs/TestingGuide.rst
+END
+ProgrammersManual.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/266379/llvm/trunk/docs/ProgrammersManual.rst
+END
+FaultMaps.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/241116/llvm/trunk/docs/FaultMaps.rst
+END
+AliasAnalysis.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/257617/llvm/trunk/docs/AliasAnalysis.rst
+END
+HowToSetUpLLVMStyleRTTI.rst
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/228479/llvm/trunk/docs/HowToSetUpLLVMStyleRTTI.rst
+END
+ExceptionHandling.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/257274/llvm/trunk/docs/ExceptionHandling.rst
+END
+GarbageCollection.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/237869/llvm/trunk/docs/GarbageCollection.rst
+END
+WritingAnLLVMBackend.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/221638/llvm/trunk/docs/WritingAnLLVMBackend.rst
+END

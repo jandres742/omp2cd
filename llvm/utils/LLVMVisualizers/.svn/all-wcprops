@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/267050/llvm/trunk/utils/LLVMVisualizers
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/264620/llvm/trunk/utils/LLVMVisualizers/CMakeLists.txt
+END
+llvm.natvis
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/267050/llvm/trunk/utils/LLVMVisualizers/llvm.natvis
+END

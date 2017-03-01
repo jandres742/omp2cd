@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/243991/llvm/trunk/test/ExecutionEngine/RuntimeDyld/PowerPC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/243991/llvm/trunk/test/ExecutionEngine/RuntimeDyld/PowerPC/lit.local.cfg
+END
+ppc32_elf_rel_addr16.s
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/243991/llvm/trunk/test/ExecutionEngine/RuntimeDyld/PowerPC/ppc32_elf_rel_addr16.s
+END

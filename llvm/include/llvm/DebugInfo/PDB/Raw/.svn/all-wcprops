@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/include/llvm/DebugInfo/PDB/Raw
+END
+ModStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268942/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/ModStream.h
+END
+ModInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/ModInfo.h
+END
+NameHashTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/NameHashTable.h
+END
+RawSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/RawSession.h
+END
+MappedBlockStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/MappedBlockStream.h
+END
+RawError.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/RawError.h
+END
+PDBFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/PDBFile.h
+END
+InfoStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/InfoStream.h
+END
+TpiStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269381/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/TpiStream.h
+END
+DbiStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/DbiStream.h
+END
+StreamInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/StreamInterface.h
+END
+PublicsStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/PublicsStream.h
+END
+StreamReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268791/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/StreamReader.h
+END
+NameMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/NameMap.h
+END
+ByteStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/ByteStream.h
+END
+RawConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268989/llvm/trunk/include/llvm/DebugInfo/PDB/Raw/RawConstants.h
+END

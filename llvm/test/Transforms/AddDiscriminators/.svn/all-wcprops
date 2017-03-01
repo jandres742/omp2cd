@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268681/llvm/trunk/test/Transforms/AddDiscriminators
+END
+oneline.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268681/llvm/trunk/test/Transforms/AddDiscriminators/oneline.ll
+END
+call-nested.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/AddDiscriminators/call-nested.ll
+END
+call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/AddDiscriminators/call.ll
+END
+diamond.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/AddDiscriminators/diamond.ll
+END
+multiple.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268681/llvm/trunk/test/Transforms/AddDiscriminators/multiple.ll
+END
+dbg-declare-discriminator.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/AddDiscriminators/dbg-declare-discriminator.ll
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/AddDiscriminators/basic.ll
+END
+no-discriminators.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/AddDiscriminators/no-discriminators.ll
+END
+first-only.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/AddDiscriminators/first-only.ll
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/267033/llvm/trunk/include/llvm/CodeGen/GlobalISel
+END
+RegBankSelect.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266025/llvm/trunk/include/llvm/CodeGen/GlobalISel/RegBankSelect.h
+END
+RegisterBankInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/267033/llvm/trunk/include/llvm/CodeGen/GlobalISel/RegisterBankInfo.h
+END
+RegisterBank.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267033/llvm/trunk/include/llvm/CodeGen/GlobalISel/RegisterBank.h
+END
+CallLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266342/llvm/trunk/include/llvm/CodeGen/GlobalISel/CallLowering.h
+END
+IRTranslator.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/263265/llvm/trunk/include/llvm/CodeGen/GlobalISel/IRTranslator.h
+END
+Types.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/include/llvm/CodeGen/GlobalISel/Types.h
+END
+GISelAccessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/266348/llvm/trunk/include/llvm/CodeGen/GlobalISel/GISelAccessor.h
+END
+MachineIRBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/266024/llvm/trunk/include/llvm/CodeGen/GlobalISel/MachineIRBuilder.h
+END

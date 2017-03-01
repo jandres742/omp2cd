@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/260285/llvm/trunk/test/tools/llvm-size/Inputs
+END
+darwin-m.o
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260243/llvm/trunk/test/tools/llvm-size/Inputs/darwin-m.o
+END

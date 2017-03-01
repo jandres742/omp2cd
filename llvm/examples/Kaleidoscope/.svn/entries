@@ -1,0 +1,92 @@
+10
+
+dir
+269559
+http://llvm.org/svn/llvm-project/llvm/trunk/examples/Kaleidoscope
+http://llvm.org/svn/llvm-project
+
+
+
+2016-05-07T03:36:38.377150Z
+268845
+lhames
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+91177308-0d34-0410-b5e6-96231b3b80d8
+
+Orc
+dir
+
+include
+dir
+
+MCJIT
+dir
+
+Chapter2
+dir
+
+Chapter3
+dir
+
+Chapter4
+dir
+
+Chapter5
+dir
+
+Chapter6
+dir
+
+Chapter7
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2016-05-14T12:47:35.214833Z
+2d7fa3f62c872f8ce11f4c2e598f58ea
+2015-02-08T07:20:04.480826Z
+228520
+dblaikie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+462
+
+Chapter8
+dir
+

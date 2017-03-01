@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/268607/llvm/trunk/test/tools/lto
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/257899/llvm/trunk/test/tools/lto/lit.local.cfg
+END
+hide-linkonce-odr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268607/llvm/trunk/test/tools/lto/hide-linkonce-odr.ll
+END
+opt-level.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/257899/llvm/trunk/test/tools/lto/opt-level.ll
+END
+print-stats.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/261027/llvm/trunk/test/tools/lto/print-stats.ll
+END

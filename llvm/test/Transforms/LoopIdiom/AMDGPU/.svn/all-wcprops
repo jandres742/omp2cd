@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/LoopIdiom/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/LoopIdiom/AMDGPU/lit.local.cfg
+END
+popcnt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/LoopIdiom/AMDGPU/popcnt.ll
+END

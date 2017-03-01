@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc
+END
+WebAssemblyMCAsmInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/255925/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyMCAsmInfo.h
+END
+WebAssemblyMCCodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/258294/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyMCCodeEmitter.cpp
+END
+WebAssemblyMCTargetDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/261176/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyMCTargetDesc.cpp
+END
+WebAssemblyAsmBackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/257657/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyAsmBackend.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/241022/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/LLVMBuild.txt
+END
+WebAssemblyTargetStreamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyTargetStreamer.cpp
+END
+WebAssemblyELFObjectWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/257709/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyELFObjectWriter.cpp
+END
+WebAssemblyMCTargetDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/260968/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyMCTargetDesc.h
+END
+WebAssemblyMCAsmInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyMCAsmInfo.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/257511/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/CMakeLists.txt
+END
+WebAssemblyTargetStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/257517/llvm/trunk/lib/Target/WebAssembly/MCTargetDesc/WebAssemblyTargetStreamer.h
+END

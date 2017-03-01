@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/269067/llvm/trunk/include/llvm/Transforms/IPO
+END
+ElimAvailExtern.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/268599/llvm/trunk/include/llvm/Transforms/IPO/ElimAvailExtern.h
+END
+FunctionAttrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/263219/llvm/trunk/include/llvm/Transforms/IPO/FunctionAttrs.h
+END
+PassManagerBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/264923/llvm/trunk/include/llvm/Transforms/IPO/PassManagerBuilder.h
+END
+ConstantMerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/268582/llvm/trunk/include/llvm/Transforms/IPO/ConstantMerge.h
+END
+GlobalDCE.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/268425/llvm/trunk/include/llvm/Transforms/IPO/GlobalDCE.h
+END
+FunctionImport.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/269067/llvm/trunk/include/llvm/Transforms/IPO/FunctionImport.h
+END
+ForceFunctionAttrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/263217/llvm/trunk/include/llvm/Transforms/IPO/ForceFunctionAttrs.h
+END
+GlobalOpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267499/llvm/trunk/include/llvm/Transforms/IPO/GlobalOpt.h
+END
+WholeProgramDevirt.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/include/llvm/Transforms/IPO/WholeProgramDevirt.h
+END
+Internalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267596/llvm/trunk/include/llvm/Transforms/IPO/Internalize.h
+END
+LowerBitSets.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/265176/llvm/trunk/include/llvm/Transforms/IPO/LowerBitSets.h
+END
+InlinerPass.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268130/llvm/trunk/include/llvm/Transforms/IPO/InlinerPass.h
+END
+InferFunctionAttrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/263219/llvm/trunk/include/llvm/Transforms/IPO/InferFunctionAttrs.h
+END
+StripDeadPrototypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/263217/llvm/trunk/include/llvm/Transforms/IPO/StripDeadPrototypes.h
+END
+SCCP.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268684/llvm/trunk/include/llvm/Transforms/IPO/SCCP.h
+END

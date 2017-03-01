@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt
+END
+virtual-const-prop-begin.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/virtual-const-prop-begin.ll
+END
+vcp-uses-this.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/vcp-uses-this.ll
+END
+vcp-type-mismatch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/vcp-type-mismatch.ll
+END
+uniform-retval.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/uniform-retval.ll
+END
+devirt-single-impl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/devirt-single-impl.ll
+END
+bad-read-from-vtable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/bad-read-from-vtable.ll
+END
+vcp-non-constant-arg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/vcp-non-constant-arg.ll
+END
+non-array-vtable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/non-array-vtable.ll
+END
+vcp-accesses-memory.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/vcp-accesses-memory.ll
+END
+vcp-too-wide-ints.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/vcp-too-wide-ints.ll
+END
+virtual-const-prop-end.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/virtual-const-prop-end.ll
+END
+non-constant-vtable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/non-constant-vtable.ll
+END
+constant-arg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/constant-arg.ll
+END
+unique-retval.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/unique-retval.ll
+END
+uniform-retval-invoke.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/uniform-retval-invoke.ll
+END
+vcp-no-this.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/260312/llvm/trunk/test/Transforms/WholeProgramDevirt/vcp-no-this.ll
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/tools/sancov
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/254745/llvm/trunk/tools/sancov/CMakeLists.txt
+END
+sancov.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/267078/llvm/trunk/tools/sancov/sancov.cc
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/257784/llvm/trunk/test/tools/dsymutil/Inputs/modules
+END
+Foo.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/257664/llvm/trunk/test/tools/dsymutil/Inputs/modules/Foo.pcm
+END
+Bar.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/249110/llvm/trunk/test/tools/dsymutil/Inputs/modules/Bar.pcm
+END
+1.o
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/249110/llvm/trunk/test/tools/dsymutil/Inputs/modules/1.o
+END
+libstatic.a
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/257784/llvm/trunk/test/tools/dsymutil/Inputs/modules/libstatic.a
+END

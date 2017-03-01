@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266603/llvm/trunk/test/Transforms/LoopVectorize/ARM
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Transforms/LoopVectorize/ARM/lit.local.cfg
+END
+interleaved_cost.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/246541/llvm/trunk/test/Transforms/LoopVectorize/ARM/interleaved_cost.ll
+END
+arm-ieee-vectorize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/266603/llvm/trunk/test/Transforms/LoopVectorize/ARM/arm-ieee-vectorize.ll
+END
+vector_cast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/246848/llvm/trunk/test/Transforms/LoopVectorize/ARM/vector_cast.ll
+END
+gather-cost.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/ARM/gather-cost.ll
+END
+mul-cast-vect.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/ARM/mul-cast-vect.ll
+END
+width-detect.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/ARM/width-detect.ll
+END
+arm-unroll.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/ARM/arm-unroll.ll
+END
+gcc-examples.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/ARM/gcc-examples.ll
+END

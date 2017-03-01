@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/257115/llvm/trunk/test/tools/llvm-symbolizer/Inputs
+END
+addr.inp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/257115/llvm/trunk/test/tools/llvm-symbolizer/Inputs/addr.inp
+END
+coff-dwarf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/250582/llvm/trunk/test/tools/llvm-symbolizer/Inputs/coff-dwarf.cpp
+END
+coff-exports.exe
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/250582/llvm/trunk/test/tools/llvm-symbolizer/Inputs/coff-exports.exe
+END
+coff-exports.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/250582/llvm/trunk/test/tools/llvm-symbolizer/Inputs/coff-exports.cpp
+END
+dsym-test-exe-second
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/220004/llvm/trunk/test/tools/llvm-symbolizer/Inputs/dsym-test-exe-second
+END
+fat.o
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/240339/llvm/trunk/test/tools/llvm-symbolizer/Inputs/fat.o
+END
+dsym-test-exe
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/220004/llvm/trunk/test/tools/llvm-symbolizer/Inputs/dsym-test-exe
+END
+addr.exe
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/252798/llvm/trunk/test/tools/llvm-symbolizer/Inputs/addr.exe
+END
+dsym-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/220004/llvm/trunk/test/tools/llvm-symbolizer/Inputs/dsym-test.c
+END
+fat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/240339/llvm/trunk/test/tools/llvm-symbolizer/Inputs/fat.c
+END
+ppc64
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/221514/llvm/trunk/test/tools/llvm-symbolizer/Inputs/ppc64
+END
+coff-dwarf.exe
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/249784/llvm/trunk/test/tools/llvm-symbolizer/Inputs/coff-dwarf.exe
+END

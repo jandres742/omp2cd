@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/245611/llvm/trunk/test/Transforms/LoopStrengthReduce/NVPTX
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/245611/llvm/trunk/test/Transforms/LoopStrengthReduce/NVPTX/lit.local.cfg
+END
+trunc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/245611/llvm/trunk/test/Transforms/LoopStrengthReduce/NVPTX/trunc.ll
+END

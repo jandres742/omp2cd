@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266132/llvm/trunk/test/Transforms/NameAnonFunctions
+END
+rename.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/266132/llvm/trunk/test/Transforms/NameAnonFunctions/rename.ll
+END

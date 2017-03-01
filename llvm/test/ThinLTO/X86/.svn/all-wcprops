@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/269548/llvm/trunk/test/ThinLTO/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/262993/llvm/trunk/test/ThinLTO/X86/lit.local.cfg
+END
+llvm.used.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268715/llvm/trunk/test/ThinLTO/X86/llvm.used.ll
+END
+emit_imports.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/269067/llvm/trunk/test/ThinLTO/X86/emit_imports.ll
+END
+alias_resolution.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266958/llvm/trunk/test/ThinLTO/X86/alias_resolution.ll
+END
+select_right_alias_definition.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/266854/llvm/trunk/test/ThinLTO/X86/select_right_alias_definition.ll
+END
+distributed_indexes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269059/llvm/trunk/test/ThinLTO/X86/distributed_indexes.ll
+END
+drop-debug-info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268847/llvm/trunk/test/ThinLTO/X86/drop-debug-info.ll
+END
+alias_import.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268341/llvm/trunk/test/ThinLTO/X86/alias_import.ll
+END
+cache.ll
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/269548/llvm/trunk/test/ThinLTO/X86/cache.ll
+END
+internalize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/267317/llvm/trunk/test/ThinLTO/X86/internalize.ll
+END
+section.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/267646/llvm/trunk/test/ThinLTO/X86/section.ll
+END
+referenced_by_constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267303/llvm/trunk/test/ThinLTO/X86/referenced_by_constant.ll
+END
+funcimport.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/266131/llvm/trunk/test/ThinLTO/X86/funcimport.ll
+END
+odr_resolution.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267543/llvm/trunk/test/ThinLTO/X86/odr_resolution.ll
+END

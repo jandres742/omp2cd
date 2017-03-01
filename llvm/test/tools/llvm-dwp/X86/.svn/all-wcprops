@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/269339/llvm/trunk/test/tools/llvm-dwp/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/254355/llvm/trunk/test/tools/llvm-dwp/X86/lit.local.cfg
+END
+type_dedup.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/261072/llvm/trunk/test/tools/llvm-dwp/X86/type_dedup.test
+END
+compressfail.test
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269339/llvm/trunk/test/tools/llvm-dwp/X86/compressfail.test
+END
+nocompress.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269339/llvm/trunk/test/tools/llvm-dwp/X86/nocompress.test
+END
+simple.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/264350/llvm/trunk/test/tools/llvm-dwp/X86/simple.test
+END
+duplicate.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264520/llvm/trunk/test/tools/llvm-dwp/X86/duplicate.test
+END
+compress.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/261298/llvm/trunk/test/tools/llvm-dwp/X86/compress.test
+END
+gcc_type.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265457/llvm/trunk/test/tools/llvm-dwp/X86/gcc_type.test
+END
+empty.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/261987/llvm/trunk/test/tools/llvm-dwp/X86/empty.test
+END
+merge.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/259971/llvm/trunk/test/tools/llvm-dwp/X86/merge.test
+END

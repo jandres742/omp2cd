@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/Object/Mips
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Object/Mips/lit.local.cfg
+END
+elf-abi.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/236728/llvm/trunk/test/Object/Mips/elf-abi.yaml
+END
+elf-flags.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/236807/llvm/trunk/test/Object/Mips/elf-flags.yaml
+END
+abi-flags.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/236738/llvm/trunk/test/Object/Mips/abi-flags.yaml
+END
+elf-mips64-rel.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/241834/llvm/trunk/test/Object/Mips/elf-mips64-rel.yaml
+END
+feature.test
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/Object/Mips/feature.test
+END
+objdump-micro-mips.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265822/llvm/trunk/test/Object/Mips/objdump-micro-mips.test
+END
+reloc-visit.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/241440/llvm/trunk/test/Object/Mips/reloc-visit.test
+END

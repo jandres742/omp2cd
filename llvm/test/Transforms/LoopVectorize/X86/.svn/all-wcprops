@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268003/llvm/trunk/test/Transforms/LoopVectorize/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Transforms/LoopVectorize/X86/lit.local.cfg
+END
+no_fpmath.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/LoopVectorize/X86/no_fpmath.ll
+END
+x86_fp80-vector-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/LoopVectorize/X86/x86_fp80-vector-store.ll
+END
+struct-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/LoopVectorize/X86/struct-store.ll
+END
+uniform_load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/265901/llvm/trunk/test/Transforms/LoopVectorize/X86/uniform_load.ll
+END
+powof2div.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/245065/llvm/trunk/test/Transforms/LoopVectorize/X86/powof2div.ll
+END
+masked_load_store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/266282/llvm/trunk/test/Transforms/LoopVectorize/X86/masked_load_store.ll
+END
+constant-vector-operand.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/constant-vector-operand.ll
+END
+illegal-parallel-loop-uniform-write.ll
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/illegal-parallel-loop-uniform-write.ll
+END
+small-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/small-size.ll
+END
+unroll_selection.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/unroll_selection.ll
+END
+parallel-loops-after-reg2mem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/parallel-loops-after-reg2mem.ll
+END
+vectorization-remarks-missed.ll
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/LoopVectorize/X86/vectorization-remarks-missed.ll
+END
+min-trip-count-switch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/min-trip-count-switch.ll
+END
+register-assumption.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/265800/llvm/trunk/test/Transforms/LoopVectorize/X86/register-assumption.ll
+END
+unroll-pm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/unroll-pm.ll
+END
+avx512.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/LoopVectorize/X86/avx512.ll
+END
+tripcount.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/tripcount.ll
+END
+vectorization-remarks-profitable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/LoopVectorize/X86/vectorization-remarks-profitable.ll
+END
+vect.omp.force.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/232528/llvm/trunk/test/Transforms/LoopVectorize/X86/vect.omp.force.ll
+END
+vector-scalar-select-cost.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/vector-scalar-select-cost.ll
+END
+rauw-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/195162/llvm/trunk/test/Transforms/LoopVectorize/X86/rauw-bug.ll
+END
+fp64_to_uint32-cost-model.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/fp64_to_uint32-cost-model.ll
+END
+reduction-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/247167/llvm/trunk/test/Transforms/LoopVectorize/X86/reduction-crash.ll
+END
+veclib-calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/265521/llvm/trunk/test/Transforms/LoopVectorize/X86/veclib-calls.ll
+END
+vector_ptr_load_store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/251850/llvm/trunk/test/Transforms/LoopVectorize/X86/vector_ptr_load_store.ll
+END
+vectorization-remarks.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/266481/llvm/trunk/test/Transforms/LoopVectorize/X86/vectorization-remarks.ll
+END
+vect.omp.force.small-tc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/vect.omp.force.small-tc.ll
+END
+unroll-small-loops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/236613/llvm/trunk/test/Transforms/LoopVectorize/X86/unroll-small-loops.ll
+END
+no-vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/no-vector.ll
+END
+avx1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/263069/llvm/trunk/test/Transforms/LoopVectorize/X86/avx1.ll
+END
+gather-cost.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/gather-cost.ll
+END
+ptr-indvar-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/241054/llvm/trunk/test/Transforms/LoopVectorize/X86/ptr-indvar-crash.ll
+END
+fp32_to_uint32-cost-model.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/fp32_to_uint32-cost-model.ll
+END
+parallel-loops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/parallel-loops.ll
+END
+conversion-cost.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/LoopVectorize/X86/conversion-cost.ll
+END
+vector_max_bandwidth.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/261368/llvm/trunk/test/Transforms/LoopVectorize/X86/vector_max_bandwidth.ll
+END
+max-mstore.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/267597/llvm/trunk/test/Transforms/LoopVectorize/X86/max-mstore.ll
+END
+already-vectorized.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/231631/llvm/trunk/test/Transforms/LoopVectorize/X86/already-vectorized.ll
+END
+assume.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/assume.ll
+END
+uint64_to_fp64-cost-model.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/uint64_to_fp64-cost-model.ll
+END
+vectorize-only-for-real.ll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/llvm-project/!svn/ver/264904/llvm/trunk/test/Transforms/LoopVectorize/X86/vectorize-only-for-real.ll
+END
+gather_scatter.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/261140/llvm/trunk/test/Transforms/LoopVectorize/X86/gather_scatter.ll
+END
+funclet.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268003/llvm/trunk/test/Transforms/LoopVectorize/X86/funclet.ll
+END
+fp_to_sint8-cost-model.ll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/fp_to_sint8-cost-model.ll
+END
+metadata-enable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/243253/llvm/trunk/test/Transforms/LoopVectorize/X86/metadata-enable.ll
+END
+cost-model.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/cost-model.ll
+END
+force-ifcvt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/267514/llvm/trunk/test/Transforms/LoopVectorize/X86/force-ifcvt.ll
+END
+gcc-examples.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/LoopVectorize/X86/gcc-examples.ll
+END

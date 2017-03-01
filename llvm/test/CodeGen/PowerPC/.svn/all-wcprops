@@ -1,0 +1,4259 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/PowerPC
+END
+ctr-cleanup.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/189068/llvm/trunk/test/CodeGen/PowerPC/ctr-cleanup.ll
+END
+ext-bool-trunc-repl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269272/llvm/trunk/test/CodeGen/PowerPC/ext-bool-trunc-repl.ll
+END
+asm-printer-topological-order.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/265067/llvm/trunk/test/CodeGen/PowerPC/asm-printer-topological-order.ll
+END
+i64-to-float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/204559/llvm/trunk/test/CodeGen/PowerPC/i64-to-float.ll
+END
+ppc32-vacopy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/195977/llvm/trunk/test/CodeGen/PowerPC/ppc32-vacopy.ll
+END
+int-fp-conv-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/166958/llvm/trunk/test/CodeGen/PowerPC/int-fp-conv-1.ll
+END
+ppc64le-crsave.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/213492/llvm/trunk/test/CodeGen/PowerPC/ppc64le-crsave.ll
+END
+calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/calls.ll
+END
+fp-branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/220173/llvm/trunk/test/CodeGen/PowerPC/fp-branch.ll
+END
+toc-load-sched-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/toc-load-sched-bug.ll
+END
+i1-to-double.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/203015/llvm/trunk/test/CodeGen/PowerPC/i1-to-double.ll
+END
+rlwimi-and.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/rlwimi-and.ll
+END
+p8-isel-sched.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/227758/llvm/trunk/test/CodeGen/PowerPC/p8-isel-sched.ll
+END
+emutls_generic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/243475/llvm/trunk/test/CodeGen/PowerPC/emutls_generic.ll
+END
+qpx-load-splat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265049/llvm/trunk/test/CodeGen/PowerPC/qpx-load-splat.ll
+END
+2008-10-28-f128-i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-10-28-f128-i32.ll
+END
+mul-with-overflow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/133228/llvm/trunk/test/CodeGen/PowerPC/mul-with-overflow.ll
+END
+named-reg-alloc-r2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/227745/llvm/trunk/test/CodeGen/PowerPC/named-reg-alloc-r2.ll
+END
+vsx-args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/223509/llvm/trunk/test/CodeGen/PowerPC/vsx-args.ll
+END
+f32-to-i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/234561/llvm/trunk/test/CodeGen/PowerPC/f32-to-i64.ll
+END
+fp-to-int-ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/fp-to-int-ext.ll
+END
+ppc-crbits-onoff.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/242188/llvm/trunk/test/CodeGen/PowerPC/ppc-crbits-onoff.ll
+END
+ppc32-lshrti3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppc32-lshrti3.ll
+END
+reg-names.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/194384/llvm/trunk/test/CodeGen/PowerPC/reg-names.ll
+END
+mcm-6.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-6.ll
+END
+i32-to-float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/204559/llvm/trunk/test/CodeGen/PowerPC/i32-to-float.ll
+END
+2007-01-29-lbrx-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-01-29-lbrx-asm.ll
+END
+pr3711_widen_bit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/pr3711_widen_bit.ll
+END
+ppc64-vaarg-int.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/224071/llvm/trunk/test/CodeGen/PowerPC/ppc64-vaarg-int.ll
+END
+qpx-load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/qpx-load.ll
+END
+set0-v8i16.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/186108/llvm/trunk/test/CodeGen/PowerPC/set0-v8i16.ll
+END
+hidden-vis.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/hidden-vis.ll
+END
+mcm-11.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-11.ll
+END
+2007-11-19-VectorSplitting.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/CodeGen/PowerPC/2007-11-19-VectorSplitting.ll
+END
+vec_extload.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/191610/llvm/trunk/test/CodeGen/PowerPC/vec_extload.ll
+END
+mcm-default.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-default.ll
+END
+ctrloop-large-ec.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/201491/llvm/trunk/test/CodeGen/PowerPC/ctrloop-large-ec.ll
+END
+blockaddress.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/220959/llvm/trunk/test/CodeGen/PowerPC/blockaddress.ll
+END
+variable_elem_vec_extracts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/255246/llvm/trunk/test/CodeGen/PowerPC/variable_elem_vec_extracts.ll
+END
+mature-mc-support.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/232701/llvm/trunk/test/CodeGen/PowerPC/mature-mc-support.ll
+END
+andc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/266261/llvm/trunk/test/CodeGen/PowerPC/andc.ll
+END
+ctrloop-sums.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/ctrloop-sums.ll
+END
+ppc64le-smallarg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/236755/llvm/trunk/test/CodeGen/PowerPC/ppc64le-smallarg.ll
+END
+ppcf128-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppcf128-1.ll
+END
+big-endian-call-result.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/big-endian-call-result.ll
+END
+long-compare.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/251489/llvm/trunk/test/CodeGen/PowerPC/long-compare.ll
+END
+vsel-prom.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/228969/llvm/trunk/test/CodeGen/PowerPC/vsel-prom.ll
+END
+2007-05-30-dagcombine-miscomp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/2007-05-30-dagcombine-miscomp.ll
+END
+ashr-neg1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/185955/llvm/trunk/test/CodeGen/PowerPC/ashr-neg1.ll
+END
+Atomics-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/Atomics-64.ll
+END
+2006-01-11-darwin-fp-argument.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/159547/llvm/trunk/test/CodeGen/PowerPC/2006-01-11-darwin-fp-argument.ll
+END
+swaps-le-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235910/llvm/trunk/test/CodeGen/PowerPC/swaps-le-1.ll
+END
+2007-05-03-InlineAsm-S-Constraint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/2007-05-03-InlineAsm-S-Constraint.ll
+END
+fast-isel-shifter.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-shifter.ll
+END
+ppc64-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/133260/llvm/trunk/test/CodeGen/PowerPC/ppc64-crash.ll
+END
+align.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/258750/llvm/trunk/test/CodeGen/PowerPC/align.ll
+END
+2005-08-12-rlwimi-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2005-08-12-rlwimi-crash.ll
+END
+2007-04-30-InlineAsmEarlyClobber.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2007-04-30-InlineAsmEarlyClobber.ll
+END
+branch-hint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/255398/llvm/trunk/test/CodeGen/PowerPC/branch-hint.ll
+END
+flt-preinc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/flt-preinc.ll
+END
+weak_def_can_be_hidden.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/weak_def_can_be_hidden.ll
+END
+fp2int2fp-ppcfp128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/fp2int2fp-ppcfp128.ll
+END
+pr15031.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/pr15031.ll
+END
+misched.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/misched.ll
+END
+unal-vec-ldst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/246712/llvm/trunk/test/CodeGen/PowerPC/unal-vec-ldst.ll
+END
+vsx-self-copy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/223509/llvm/trunk/test/CodeGen/PowerPC/vsx-self-copy.ll
+END
+vec_cmpd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/231115/llvm/trunk/test/CodeGen/PowerPC/vec_cmpd.ll
+END
+arr-fp-arg-no-copy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/225268/llvm/trunk/test/CodeGen/PowerPC/arr-fp-arg-no-copy.ll
+END
+ctrloop-i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ctrloop-i64.ll
+END
+mcm-obj-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/235015/llvm/trunk/test/CodeGen/PowerPC/mcm-obj-2.ll
+END
+vec_shuffle_p8vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/237952/llvm/trunk/test/CodeGen/PowerPC/vec_shuffle_p8vector.ll
+END
+dyn-alloca-aligned.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/dyn-alloca-aligned.ll
+END
+early-ret2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/early-ret2.ll
+END
+remat-imm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/remat-imm.ll
+END
+pr26690.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266038/llvm/trunk/test/CodeGen/PowerPC/pr26690.ll
+END
+resolvefi-disp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/resolvefi-disp.ll
+END
+2007-10-21-LocalRegAllocAssert2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2007-10-21-LocalRegAllocAssert2.ll
+END
+2012-09-16-TOC-entry-check.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/232483/llvm/trunk/test/CodeGen/PowerPC/2012-09-16-TOC-entry-check.ll
+END
+fastisel-gep-promote-before-add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fastisel-gep-promote-before-add.ll
+END
+vsx-fma-mutate-trivial-copy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/245907/llvm/trunk/test/CodeGen/PowerPC/vsx-fma-mutate-trivial-copy.ll
+END
+vec-abi-align.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec-abi-align.ll
+END
+2007-09-04-AltivecDST.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/177152/llvm/trunk/test/CodeGen/PowerPC/2007-09-04-AltivecDST.ll
+END
+2016-04-28-setjmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267943/llvm/trunk/test/CodeGen/PowerPC/2016-04-28-setjmp.ll
+END
+vsx-spill.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/223509/llvm/trunk/test/CodeGen/PowerPC/vsx-spill.ll
+END
+i128-and-beyond.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/i128-and-beyond.ll
+END
+fp_to_uint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/220173/llvm/trunk/test/CodeGen/PowerPC/fp_to_uint.ll
+END
+atomic-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/210903/llvm/trunk/test/CodeGen/PowerPC/atomic-1.ll
+END
+recipest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/241985/llvm/trunk/test/CodeGen/PowerPC/recipest.ll
+END
+mcm-7.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-7.ll
+END
+frounds.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/frounds.ll
+END
+pr15632.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/178639/llvm/trunk/test/CodeGen/PowerPC/pr15632.ll
+END
+ctr-loop-tls-const.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/251582/llvm/trunk/test/CodeGen/PowerPC/ctr-loop-tls-const.ll
+END
+ppc32-cyclecounter.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/ppc32-cyclecounter.ll
+END
+ppc64-func-desc-hoist.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/226432/llvm/trunk/test/CodeGen/PowerPC/ppc64-func-desc-hoist.ll
+END
+vec_rotate_shift.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/231378/llvm/trunk/test/CodeGen/PowerPC/vec_rotate_shift.ll
+END
+srl-mask.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/195185/llvm/trunk/test/CodeGen/PowerPC/srl-mask.ll
+END
+vec_shuffle.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_shuffle.ll
+END
+fnabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/220173/llvm/trunk/test/CodeGen/PowerPC/fnabs.ll
+END
+hidden-vis-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/hidden-vis-2.ll
+END
+pr26378.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/263338/llvm/trunk/test/CodeGen/PowerPC/pr26378.ll
+END
+vrspill.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/220173/llvm/trunk/test/CodeGen/PowerPC/vrspill.ll
+END
+mcm-12.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/220019/llvm/trunk/test/CodeGen/PowerPC/mcm-12.ll
+END
+vsx-word-splats.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/268516/llvm/trunk/test/CodeGen/PowerPC/vsx-word-splats.ll
+END
+preincprep-invoke.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/preincprep-invoke.ll
+END
+vec-asm-disabled.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/PowerPC/vec-asm-disabled.ll
+END
+vec_mergeow.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/240650/llvm/trunk/test/CodeGen/PowerPC/vec_mergeow.ll
+END
+ppc64-patchpoint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/242239/llvm/trunk/test/CodeGen/PowerPC/ppc64-patchpoint.ll
+END
+cxx_tlscc64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265781/llvm/trunk/test/CodeGen/PowerPC/cxx_tlscc64.ll
+END
+tls_get_addr_clobbers.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/257137/llvm/trunk/test/CodeGen/PowerPC/tls_get_addr_clobbers.ll
+END
+unal-vec-negarith.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/246805/llvm/trunk/test/CodeGen/PowerPC/unal-vec-negarith.ll
+END
+2012-10-12-bitcast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/220173/llvm/trunk/test/CodeGen/PowerPC/2012-10-12-bitcast.ll
+END
+vec_urem_const.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/214721/llvm/trunk/test/CodeGen/PowerPC/vec_urem_const.ll
+END
+fast-isel-GEP-coalesce.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/fast-isel-GEP-coalesce.ll
+END
+2010-10-11-Fast-Varargs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/116222/llvm/trunk/test/CodeGen/PowerPC/2010-10-11-Fast-Varargs.ll
+END
+lsa.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/lsa.ll
+END
+fast-isel-fpconv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265020/llvm/trunk/test/CodeGen/PowerPC/fast-isel-fpconv.ll
+END
+ppcf128-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/ppcf128-2.ll
+END
+xxleqv_xxlnand_xxlorc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/229694/llvm/trunk/test/CodeGen/PowerPC/xxleqv_xxlnand_xxlorc.ll
+END
+qpx-s-load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/qpx-s-load.ll
+END
+pr18663.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/pr18663.ll
+END
+ppc64-align-long-double.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/265836/llvm/trunk/test/CodeGen/PowerPC/ppc64-align-long-double.ll
+END
+swaps-le-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268516/llvm/trunk/test/CodeGen/PowerPC/swaps-le-2.ll
+END
+2007-04-24-InlineAsm-I-Modifier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/201333/llvm/trunk/test/CodeGen/PowerPC/2007-04-24-InlineAsm-I-Modifier.ll
+END
+ppc32-nest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/241984/llvm/trunk/test/CodeGen/PowerPC/ppc32-nest.ll
+END
+named-reg-alloc-r2-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/227745/llvm/trunk/test/CodeGen/PowerPC/named-reg-alloc-r2-64.ll
+END
+machine-combiner.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/242279/llvm/trunk/test/CodeGen/PowerPC/machine-combiner.ll
+END
+select-cc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/select-cc.ll
+END
+ctrloop-s000.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/ctrloop-s000.ll
+END
+coal-sections.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/250370/llvm/trunk/test/CodeGen/PowerPC/coal-sections.ll
+END
+rotl-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/rotl-64.ll
+END
+vec_shuffle_le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/242680/llvm/trunk/test/CodeGen/PowerPC/vec_shuffle_le.ll
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/CodeGen/PowerPC/lit.local.cfg
+END
+floatPSA.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/floatPSA.ll
+END
+2008-07-24-PPC64-CCBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2008-07-24-PPC64-CCBug.ll
+END
+lsr-postinc-pos.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/lsr-postinc-pos.ll
+END
+loop-data-prefetch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/loop-data-prefetch.ll
+END
+2008-07-17-Fneg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-07-17-Fneg.ll
+END
+vec_splat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_splat.ll
+END
+2007-03-30-SpillerCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2007-03-30-SpillerCrash.ll
+END
+pr26180.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/262233/llvm/trunk/test/CodeGen/PowerPC/pr26180.ll
+END
+stack-realign.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/253247/llvm/trunk/test/CodeGen/PowerPC/stack-realign.ll
+END
+2007-03-24-cntlzd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2007-03-24-cntlzd.ll
+END
+pr18663-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/239940/llvm/trunk/test/CodeGen/PowerPC/pr18663-2.ll
+END
+inline-asm-s-modifier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/259835/llvm/trunk/test/CodeGen/PowerPC/inline-asm-s-modifier.ll
+END
+2006-01-20-ShiftPartsCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/CodeGen/PowerPC/2006-01-20-ShiftPartsCrash.ll
+END
+ctrloop-cpsgn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ctrloop-cpsgn.ll
+END
+tls_get_addr_stackframe.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/tls_get_addr_stackframe.ll
+END
+2006-04-01-FloatDoubleExtend.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2006-04-01-FloatDoubleExtend.ll
+END
+2006-12-07-LargeAlloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/CodeGen/PowerPC/2006-12-07-LargeAlloca.ll
+END
+preincprep-nontrans-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/252417/llvm/trunk/test/CodeGen/PowerPC/preincprep-nontrans-crash.ll
+END
+big-endian-formal-args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/162727/llvm/trunk/test/CodeGen/PowerPC/big-endian-formal-args.ll
+END
+2006-08-11-RetVector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2006-08-11-RetVector.ll
+END
+fabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/267051/llvm/trunk/test/CodeGen/PowerPC/fabs.ll
+END
+eqv-andc-orc-nor.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/eqv-andc-orc-nor.ll
+END
+ifcvt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/178926/llvm/trunk/test/CodeGen/PowerPC/ifcvt.ll
+END
+atomic-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/atomic-2.ll
+END
+2007-09-11-RegCoalescerAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-09-11-RegCoalescerAssert.ll
+END
+atomics-indexed.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/235663/llvm/trunk/test/CodeGen/PowerPC/atomics-indexed.ll
+END
+pr20442.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/pr20442.ll
+END
+vsx_insert_extract_le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/252651/llvm/trunk/test/CodeGen/PowerPC/vsx_insert_extract_le.ll
+END
+2010-12-18-PPCStackRefs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2010-12-18-PPCStackRefs.ll
+END
+ppc64-toc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/258750/llvm/trunk/test/CodeGen/PowerPC/ppc64-toc.ll
+END
+div-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/div-2.ll
+END
+mcm-8.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-8.ll
+END
+unwind-dw2-g.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/CodeGen/PowerPC/unwind-dw2-g.ll
+END
+complex-return.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/complex-return.ll
+END
+qpx-unal-cons-lds.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/246813/llvm/trunk/test/CodeGen/PowerPC/qpx-unal-cons-lds.ll
+END
+mcm-13.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/253708/llvm/trunk/test/CodeGen/PowerPC/mcm-13.ll
+END
+fast-isel-call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-call.ll
+END
+qpx-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230421/llvm/trunk/test/CodeGen/PowerPC/qpx-store.ll
+END
+svr4-redzone.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/svr4-redzone.ll
+END
+tls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/tls.ll
+END
+available-externally.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/213427/llvm/trunk/test/CodeGen/PowerPC/available-externally.ll
+END
+memcpy-vec.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/memcpy-vec.ll
+END
+fast-isel-fold.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-fold.ll
+END
+div-e-all.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/234546/llvm/trunk/test/CodeGen/PowerPC/div-e-all.ll
+END
+no-rlwimi-trivial-commute.mir
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/265350/llvm/trunk/test/CodeGen/PowerPC/no-rlwimi-trivial-commute.mir
+END
+ppc-prologue.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppc-prologue.ll
+END
+constants-i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/225147/llvm/trunk/test/CodeGen/PowerPC/constants-i64.ll
+END
+2008-10-31-PPCF128Libcalls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-10-31-PPCF128Libcalls.ll
+END
+ppcf128-3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/ppcf128-3.ll
+END
+vector-identity-shuffle.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vector-identity-shuffle.ll
+END
+div-e-32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/234546/llvm/trunk/test/CodeGen/PowerPC/div-e-32.ll
+END
+swaps-le-3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/242081/llvm/trunk/test/CodeGen/PowerPC/swaps-le-3.ll
+END
+2009-11-25-ImpDefBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/89880/llvm/trunk/test/CodeGen/PowerPC/2009-11-25-ImpDefBug.ll
+END
+ctrloop-reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/ctrloop-reg.ll
+END
+stubs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/180657/llvm/trunk/test/CodeGen/PowerPC/stubs.ll
+END
+unal-altivec-wint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/unal-altivec-wint.ll
+END
+varargs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/186258/llvm/trunk/test/CodeGen/PowerPC/varargs.ll
+END
+stdux-constuse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/stdux-constuse.ll
+END
+fast-isel-binary.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-binary.ll
+END
+neg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/neg.ll
+END
+vec_select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/170551/llvm/trunk/test/CodeGen/PowerPC/vec_select.ll
+END
+vperm-lowering.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/234004/llvm/trunk/test/CodeGen/PowerPC/vperm-lowering.ll
+END
+addrfuncstr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/189068/llvm/trunk/test/CodeGen/PowerPC/addrfuncstr.ll
+END
+rotl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/rotl.ll
+END
+pr25157-peephole.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/252651/llvm/trunk/test/CodeGen/PowerPC/pr25157-peephole.ll
+END
+pr25157.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/250324/llvm/trunk/test/CodeGen/PowerPC/pr25157.ll
+END
+vsx-ldst-builtin-le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/235910/llvm/trunk/test/CodeGen/PowerPC/vsx-ldst-builtin-le.ll
+END
+crbit-asm-disabled.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269432/llvm/trunk/test/CodeGen/PowerPC/crbit-asm-disabled.ll
+END
+qpx-bv-sint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/qpx-bv-sint.ll
+END
+qpx-rounding-ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230413/llvm/trunk/test/CodeGen/PowerPC/qpx-rounding-ops.ll
+END
+2013-05-15-preinc-fold.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/2013-05-15-preinc-fold.ll
+END
+subc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/subc.ll
+END
+ppc64-smallarg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppc64-smallarg.ll
+END
+select_lt0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/select_lt0.ll
+END
+ppcsoftops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/266600/llvm/trunk/test/CodeGen/PowerPC/ppcsoftops.ll
+END
+float-asmprint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/172189/llvm/trunk/test/CodeGen/PowerPC/float-asmprint.ll
+END
+vec_abs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/263035/llvm/trunk/test/CodeGen/PowerPC/vec_abs.ll
+END
+2007-05-22-tailmerge-3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2007-05-22-tailmerge-3.ll
+END
+ppc64-i128-abi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/238144/llvm/trunk/test/CodeGen/PowerPC/ppc64-i128-abi.ll
+END
+no-extra-fp-conv-ldst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/no-extra-fp-conv-ldst.ll
+END
+opt-cmp-inst-cr0-live.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/266040/llvm/trunk/test/CodeGen/PowerPC/opt-cmp-inst-cr0-live.ll
+END
+tls-pic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/tls-pic.ll
+END
+zero-not-run.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/zero-not-run.ll
+END
+return-val-i128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/return-val-i128.ll
+END
+mcm-9.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-9.ll
+END
+pr27350.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266438/llvm/trunk/test/CodeGen/PowerPC/pr27350.ll
+END
+ctrloop-intrin.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/247083/llvm/trunk/test/CodeGen/PowerPC/ctrloop-intrin.ll
+END
+ppc64-prefetch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/216339/llvm/trunk/test/CodeGen/PowerPC/ppc64-prefetch.ll
+END
+isel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/159045/llvm/trunk/test/CodeGen/PowerPC/isel.ll
+END
+ppc32-i1-vaarg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/244481/llvm/trunk/test/CodeGen/PowerPC/ppc32-i1-vaarg.ll
+END
+dbg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/CodeGen/PowerPC/dbg.ll
+END
+2007-01-15-AsmDialect.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/2007-01-15-AsmDialect.ll
+END
+crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/197426/llvm/trunk/test/CodeGen/PowerPC/crash.ll
+END
+novrsave.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/novrsave.ll
+END
+vec_add_sub_quadword.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/244481/llvm/trunk/test/CodeGen/PowerPC/vec_add_sub_quadword.ll
+END
+fast-isel-redefinition.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-redefinition.ll
+END
+2008-06-23-LiveVariablesCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-06-23-LiveVariablesCrash.ll
+END
+stwu-gta.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/stwu-gta.ll
+END
+rlwimi-keep-rsh.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/100705/llvm/trunk/test/CodeGen/PowerPC/rlwimi-keep-rsh.ll
+END
+inverted-bool-compares.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/inverted-bool-compares.ll
+END
+named-reg-alloc-r13-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/named-reg-alloc-r13-64.ll
+END
+ppcf128-1-opt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/ppcf128-1-opt.ll
+END
+select-i1-vs-i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/246400/llvm/trunk/test/CodeGen/PowerPC/select-i1-vs-i1.ll
+END
+ia-neg-const.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/225819/llvm/trunk/test/CodeGen/PowerPC/ia-neg-const.ll
+END
+ppcf128-4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/ppcf128-4.ll
+END
+fp128-bitcast-after-operation.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/255649/llvm/trunk/test/CodeGen/PowerPC/fp128-bitcast-after-operation.ll
+END
+cc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/223328/llvm/trunk/test/CodeGen/PowerPC/cc.ll
+END
+fold-li.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/fold-li.ll
+END
+swaps-le-4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/241290/llvm/trunk/test/CodeGen/PowerPC/swaps-le-4.ll
+END
+indexed-load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/indexed-load.ll
+END
+subreg-postra.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/subreg-postra.ll
+END
+2009-07-16-InlineAsm-M-Operand.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2009-07-16-InlineAsm-M-Operand.ll
+END
+hello-reloc.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/240073/llvm/trunk/test/CodeGen/PowerPC/hello-reloc.s
+END
+qpx-s-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230421/llvm/trunk/test/CodeGen/PowerPC/qpx-s-store.ll
+END
+fdiv-combine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/262054/llvm/trunk/test/CodeGen/PowerPC/fdiv-combine.ll
+END
+fma-mutate-register-constraint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/255299/llvm/trunk/test/CodeGen/PowerPC/fma-mutate-register-constraint.ll
+END
+2005-01-14-UndefLong.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2005-01-14-UndefLong.ll
+END
+sj-ctr-loop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/186488/llvm/trunk/test/CodeGen/PowerPC/sj-ctr-loop.ll
+END
+bitreverse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/252878/llvm/trunk/test/CodeGen/PowerPC/bitreverse.ll
+END
+trampoline.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/trampoline.ll
+END
+2008-07-15-Bswap.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-07-15-Bswap.ll
+END
+extra-toc-reg-deps.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/239940/llvm/trunk/test/CodeGen/PowerPC/extra-toc-reg-deps.ll
+END
+2008-04-23-CoalescerCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2008-04-23-CoalescerCrash.ll
+END
+combine-to-pre-index-store-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/259691/llvm/trunk/test/CodeGen/PowerPC/combine-to-pre-index-store-crash.ll
+END
+can-lower-ret.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/142172/llvm/trunk/test/CodeGen/PowerPC/can-lower-ret.ll
+END
+BreakableToken-reduced.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266834/llvm/trunk/test/CodeGen/PowerPC/BreakableToken-reduced.ll
+END
+mcm-obj.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/235608/llvm/trunk/test/CodeGen/PowerPC/mcm-obj.ll
+END
+sections.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/221791/llvm/trunk/test/CodeGen/PowerPC/sections.ll
+END
+qpx-sel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/qpx-sel.ll
+END
+stwu8.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/stwu8.ll
+END
+rlwimi-dyn-and.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/rlwimi-dyn-and.ll
+END
+ctr-minmaxnum.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/264532/llvm/trunk/test/CodeGen/PowerPC/ctr-minmaxnum.ll
+END
+fpcopy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/fpcopy.ll
+END
+fp-int-fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/fp-int-fp.ll
+END
+ppc440-msync.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/218923/llvm/trunk/test/CodeGen/PowerPC/ppc440-msync.ll
+END
+mask64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mask64.ll
+END
+no-dead-strip.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/no-dead-strip.ll
+END
+dyn-alloca-offset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/254404/llvm/trunk/test/CodeGen/PowerPC/dyn-alloca-offset.ll
+END
+e500-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/254064/llvm/trunk/test/CodeGen/PowerPC/e500-1.ll
+END
+2008-07-15-Fabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-07-15-Fabs.ll
+END
+jaggedstructs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/195977/llvm/trunk/test/CodeGen/PowerPC/jaggedstructs.ll
+END
+2006-10-17-ppc64-alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2006-10-17-ppc64-alloca.ll
+END
+crbit-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/251548/llvm/trunk/test/CodeGen/PowerPC/crbit-asm.ll
+END
+2011-12-06-SpillAndRestoreCR.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/2011-12-06-SpillAndRestoreCR.ll
+END
+addi-licm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/addi-licm.ll
+END
+ppc64-zext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/ppc64-zext.ll
+END
+fast-isel-fcmp-nan.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/263753/llvm/trunk/test/CodeGen/PowerPC/fast-isel-fcmp-nan.ll
+END
+fast-isel-cmp-imm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-cmp-imm.ll
+END
+delete-node.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/delete-node.ll
+END
+vec_minmax.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/231115/llvm/trunk/test/CodeGen/PowerPC/vec_minmax.ll
+END
+mem-rr-addr-mode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mem-rr-addr-mode.ll
+END
+vec_splat_constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_splat_constant.ll
+END
+fast-isel-conversion-p5.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-conversion-p5.ll
+END
+fma-ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/262573/llvm/trunk/test/CodeGen/PowerPC/fma-ext.ll
+END
+allocate-r0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/178123/llvm/trunk/test/CodeGen/PowerPC/allocate-r0.ll
+END
+emptystruct.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/emptystruct.ll
+END
+rlwimi-commute.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/rlwimi-commute.ll
+END
+2008-04-10-LiveIntervalCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-04-10-LiveIntervalCrash.ll
+END
+coalesce-ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/195977/llvm/trunk/test/CodeGen/PowerPC/coalesce-ext.ll
+END
+illegal-element-type.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/illegal-element-type.ll
+END
+fcpsgn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/220019/llvm/trunk/test/CodeGen/PowerPC/fcpsgn.ll
+END
+rlwimi-and-or-bits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/246900/llvm/trunk/test/CodeGen/PowerPC/rlwimi-and-or-bits.ll
+END
+isel-rc-nox0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/isel-rc-nox0.ll
+END
+2007-11-16-landingpad-split.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/239940/llvm/trunk/test/CodeGen/PowerPC/2007-11-16-landingpad-split.ll
+END
+BoolRetToIntTest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/254942/llvm/trunk/test/CodeGen/PowerPC/BoolRetToIntTest.ll
+END
+2009-08-17-inline-asm-addr-mode-breakage.ll
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2009-08-17-inline-asm-addr-mode-breakage.ll
+END
+pr12757.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/166943/llvm/trunk/test/CodeGen/PowerPC/pr12757.ll
+END
+stackmap-frame-setup.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/261286/llvm/trunk/test/CodeGen/PowerPC/stackmap-frame-setup.ll
+END
+stwux.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/stwux.ll
+END
+2011-12-08-DemandedBitsMiscompile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2011-12-08-DemandedBitsMiscompile.ll
+END
+vec_buildvector_loadstore.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_buildvector_loadstore.ll
+END
+shl_elim.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/shl_elim.ll
+END
+swaps-le-5.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/252651/llvm/trunk/test/CodeGen/PowerPC/swaps-le-5.ll
+END
+2010-02-04-EmptyGlobal.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/258750/llvm/trunk/test/CodeGen/PowerPC/2010-02-04-EmptyGlobal.ll
+END
+ldtoc-inv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ldtoc-inv.ll
+END
+dcbt-sched.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/dcbt-sched.ll
+END
+a2q-stackalign.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/173993/llvm/trunk/test/CodeGen/PowerPC/a2q-stackalign.ll
+END
+byval-agg-info.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/199763/llvm/trunk/test/CodeGen/PowerPC/byval-agg-info.ll
+END
+rlwimi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/rlwimi.ll
+END
+fma.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/262573/llvm/trunk/test/CodeGen/PowerPC/fma.ll
+END
+vec_call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/vec_call.ll
+END
+2007-09-07-LoadStoreIdxForms.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/2007-09-07-LoadStoreIdxForms.ll
+END
+post-ra-ec.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/post-ra-ec.ll
+END
+private.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/private.ll
+END
+vec_zero.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_zero.ll
+END
+2006-04-19-vmaddfp-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2006-04-19-vmaddfp-crash.ll
+END
+bdzlr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/bdzlr.ll
+END
+fast-isel-ret.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/259177/llvm/trunk/test/CodeGen/PowerPC/fast-isel-ret.ll
+END
+vaddsplat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vaddsplat.ll
+END
+pr17354.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/pr17354.ll
+END
+mulhs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/130658/llvm/trunk/test/CodeGen/PowerPC/mulhs.ll
+END
+2008-03-17-RegScavengerCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-03-17-RegScavengerCrash.ll
+END
+vsx-elementary-arith.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/241398/llvm/trunk/test/CodeGen/PowerPC/vsx-elementary-arith.ll
+END
+i1-ext-fold.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/225203/llvm/trunk/test/CodeGen/PowerPC/i1-ext-fold.ll
+END
+ppc32-align-long-double-sf.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/268909/llvm/trunk/test/CodeGen/PowerPC/ppc32-align-long-double-sf.ll
+END
+rlwinm2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/rlwinm2.ll
+END
+addc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/186280/llvm/trunk/test/CodeGen/PowerPC/addc.ll
+END
+anon_aggr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/anon_aggr.ll
+END
+and-branch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/and-branch.ll
+END
+2004-11-30-shift-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2004-11-30-shift-crash.ll
+END
+2008-02-05-LiveIntervalsAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/2008-02-05-LiveIntervalsAssert.ll
+END
+sjlj.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/253965/llvm/trunk/test/CodeGen/PowerPC/sjlj.ll
+END
+hello.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/hello.ll
+END
+vsx-p8.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vsx-p8.ll
+END
+r31.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/177379/llvm/trunk/test/CodeGen/PowerPC/r31.ll
+END
+2007-10-18-PtrArithmetic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2007-10-18-PtrArithmetic.ll
+END
+2013-07-01-PHIElimBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/2013-07-01-PHIElimBug.ll
+END
+fast-isel-load-store-vsx.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/234078/llvm/trunk/test/CodeGen/PowerPC/fast-isel-load-store-vsx.ll
+END
+structsinregs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/structsinregs.ll
+END
+fneg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/fneg.ll
+END
+builtins-ppc-p8vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/239505/llvm/trunk/test/CodeGen/PowerPC/builtins-ppc-p8vector.ll
+END
+2008-02-09-LocalRegAllocAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-02-09-LocalRegAllocAssert.ll
+END
+and-imm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/and-imm.ll
+END
+asm-dialect.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/185858/llvm/trunk/test/CodeGen/PowerPC/asm-dialect.ll
+END
+2012-10-11-dynalloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/167855/llvm/trunk/test/CodeGen/PowerPC/2012-10-11-dynalloc.ll
+END
+vsx-ldst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/235910/llvm/trunk/test/CodeGen/PowerPC/vsx-ldst.ll
+END
+vec_sqrt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/186280/llvm/trunk/test/CodeGen/PowerPC/vec_sqrt.ll
+END
+and-elim.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/and-elim.ll
+END
+pr24546.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/CodeGen/PowerPC/pr24546.ll
+END
+ppc64le-localentry.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/257597/llvm/trunk/test/CodeGen/PowerPC/ppc64le-localentry.ll
+END
+2006-09-28-shift_64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2006-09-28-shift_64.ll
+END
+qpx-s-sel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/qpx-s-sel.ll
+END
+named-reg-alloc-r13.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/named-reg-alloc-r13.ll
+END
+fp-int-conversions-direct-moves.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/244921/llvm/trunk/test/CodeGen/PowerPC/fp-int-conversions-direct-moves.ll
+END
+ppc64-nest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/241984/llvm/trunk/test/CodeGen/PowerPC/ppc64-nest.ll
+END
+popcnt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/264690/llvm/trunk/test/CodeGen/PowerPC/popcnt.ll
+END
+func-addr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/211056/llvm/trunk/test/CodeGen/PowerPC/func-addr.ll
+END
+load-shift-combine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/CodeGen/PowerPC/load-shift-combine.ll
+END
+zext-free.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/zext-free.ll
+END
+small-arguments.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/small-arguments.ll
+END
+2007-02-23-lr-saved-twice.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2007-02-23-lr-saved-twice.ll
+END
+ctrloop-le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ctrloop-le.ll
+END
+mem_update.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mem_update.ll
+END
+asm-Zy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/asm-Zy.ll
+END
+loop-prep-all.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/234705/llvm/trunk/test/CodeGen/PowerPC/loop-prep-all.ll
+END
+add-fi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/add-fi.ll
+END
+LargeAbsoluteAddr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/176868/llvm/trunk/test/CodeGen/PowerPC/LargeAbsoluteAddr.ll
+END
+ec-input.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/ec-input.ll
+END
+vec_clz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/228301/llvm/trunk/test/CodeGen/PowerPC/vec_clz.ll
+END
+mult-alt-generic-powerpc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/mult-alt-generic-powerpc.ll
+END
+pr24636.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/246507/llvm/trunk/test/CodeGen/PowerPC/pr24636.ll
+END
+shl_sext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/shl_sext.ll
+END
+peephole-align.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/255319/llvm/trunk/test/CodeGen/PowerPC/peephole-align.ll
+END
+glob-comp-aa-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/glob-comp-aa-crash.ll
+END
+swaps-le-6.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/252651/llvm/trunk/test/CodeGen/PowerPC/swaps-le-6.ll
+END
+vec_popcnt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/228182/llvm/trunk/test/CodeGen/PowerPC/vec_popcnt.ll
+END
+pip-inner.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/234670/llvm/trunk/test/CodeGen/PowerPC/pip-inner.ll
+END
+tailcallpic1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/tailcallpic1.ll
+END
+ppc-shrink-wrapping.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/ppc-shrink-wrapping.ll
+END
+vec_vrsave.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/vec_vrsave.ll
+END
+ctrloops-softfloat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/263727/llvm/trunk/test/CodeGen/PowerPC/ctrloops-softfloat.ll
+END
+Frames-large.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/224859/llvm/trunk/test/CodeGen/PowerPC/Frames-large.ll
+END
+MergeConsecutiveStores.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/236855/llvm/trunk/test/CodeGen/PowerPC/MergeConsecutiveStores.ll
+END
+2016-04-17-combine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267420/llvm/trunk/test/CodeGen/PowerPC/2016-04-17-combine.ll
+END
+2007-10-21-LocalRegAllocAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2007-10-21-LocalRegAllocAssert.ll
+END
+mcm-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-1.ll
+END
+ppc64-altivec-abi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/211492/llvm/trunk/test/CodeGen/PowerPC/ppc64-altivec-abi.ll
+END
+byval-aliased.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/byval-aliased.ll
+END
+cttz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/251489/llvm/trunk/test/CodeGen/PowerPC/cttz.ll
+END
+pr15359.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/179361/llvm/trunk/test/CodeGen/PowerPC/pr15359.ll
+END
+2007-05-14-InlineAsmSelectCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/2007-05-14-InlineAsmSelectCrash.ll
+END
+in-asm-f64-reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/225819/llvm/trunk/test/CodeGen/PowerPC/in-asm-f64-reg.ll
+END
+2008-07-10-SplatMiscompile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/209662/llvm/trunk/test/CodeGen/PowerPC/2008-07-10-SplatMiscompile.ll
+END
+vec_shuffle_p8vector_le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/237499/llvm/trunk/test/CodeGen/PowerPC/vec_shuffle_p8vector_le.ll
+END
+and_sext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/133228/llvm/trunk/test/CodeGen/PowerPC/and_sext.ll
+END
+2004-11-29-ShrCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2004-11-29-ShrCrash.ll
+END
+ctrloop-udivti3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/ctrloop-udivti3.ll
+END
+fma-mutate-duplicate-vreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/259617/llvm/trunk/test/CodeGen/PowerPC/fma-mutate-duplicate-vreg.ll
+END
+ld-st-upd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ld-st-upd.ll
+END
+fast-isel-const.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-const.ll
+END
+vsx-fma-m.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/259673/llvm/trunk/test/CodeGen/PowerPC/vsx-fma-m.ll
+END
+load-constant-addr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/load-constant-addr.ll
+END
+pr22711.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230811/llvm/trunk/test/CodeGen/PowerPC/pr22711.ll
+END
+ppcf128-endian.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/259074/llvm/trunk/test/CodeGen/PowerPC/ppcf128-endian.ll
+END
+reg-coalesce-simple.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/reg-coalesce-simple.ll
+END
+fsl-e5500.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/fsl-e5500.ll
+END
+2008-10-17-AsmMatchingOperands.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/143247/llvm/trunk/test/CodeGen/PowerPC/2008-10-17-AsmMatchingOperands.ll
+END
+2009-09-18-carrybit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/186280/llvm/trunk/test/CodeGen/PowerPC/2009-09-18-carrybit.ll
+END
+ppc-empty-fs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/ppc-empty-fs.ll
+END
+pr26381.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/259740/llvm/trunk/test/CodeGen/PowerPC/pr26381.ll
+END
+pr26193.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/259888/llvm/trunk/test/CodeGen/PowerPC/pr26193.ll
+END
+ppc32-pic-large.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/ppc32-pic-large.ll
+END
+2008-03-18-RegScavengerAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/145819/llvm/trunk/test/CodeGen/PowerPC/2008-03-18-RegScavengerAssert.ll
+END
+2008-07-15-SignExtendInreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-07-15-SignExtendInreg.ll
+END
+mc-instrlat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/244020/llvm/trunk/test/CodeGen/PowerPC/mc-instrlat.ll
+END
+cr1eq-no-extra-moves.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/cr1eq-no-extra-moves.ll
+END
+addi-reassoc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/addi-reassoc.ll
+END
+2016-04-16-ADD8TLS.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267388/llvm/trunk/test/CodeGen/PowerPC/2016-04-16-ADD8TLS.ll
+END
+lbz-from-ld-shift.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/lbz-from-ld-shift.ll
+END
+2010-03-09-indirect-call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2010-03-09-indirect-call.ll
+END
+remap-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/186338/llvm/trunk/test/CodeGen/PowerPC/remap-crash.ll
+END
+2006-08-15-SelectionCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/CodeGen/PowerPC/2006-08-15-SelectionCrash.ll
+END
+ppc-vaarg-agg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/154786/llvm/trunk/test/CodeGen/PowerPC/ppc-vaarg-agg.ll
+END
+vsx-fma-mutate-undef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/vsx-fma-mutate-undef.ll
+END
+quadint-return.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/quadint-return.ll
+END
+ppc64-anyregcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/242217/llvm/trunk/test/CodeGen/PowerPC/ppc64-anyregcc.ll
+END
+sign_ext_inreg1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/sign_ext_inreg1.ll
+END
+ppc440-fp-basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppc440-fp-basic.ll
+END
+subreg-postra-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/subreg-postra-2.ll
+END
+vsx-div.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vsx-div.ll
+END
+ppc32-pic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/ppc32-pic.ll
+END
+2010-02-12-saveCR.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/2010-02-12-saveCR.ll
+END
+2009-01-16-DeclareISelBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/2009-01-16-DeclareISelBug.ll
+END
+cr_spilling.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/cr_spilling.ll
+END
+vec_constants.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/234011/llvm/trunk/test/CodeGen/PowerPC/vec_constants.ll
+END
+fast-isel-indirectbr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-indirectbr.ll
+END
+mcm-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-2.ll
+END
+vec_auto_constant.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_auto_constant.ll
+END
+pr24216.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/243519/llvm/trunk/test/CodeGen/PowerPC/pr24216.ll
+END
+stfiwx-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/178486/llvm/trunk/test/CodeGen/PowerPC/stfiwx-2.ll
+END
+s000-alias-misched.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/s000-alias-misched.ll
+END
+thread-pointer.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/267546/llvm/trunk/test/CodeGen/PowerPC/thread-pointer.ll
+END
+store-load-fwd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/store-load-fwd.ll
+END
+pr17168.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/CodeGen/PowerPC/pr17168.ll
+END
+2008-03-24-CoalescerBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/269096/llvm/trunk/test/CodeGen/PowerPC/2008-03-24-CoalescerBug.ll
+END
+2008-05-01-ppc_fp128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-05-01-ppc_fp128.ll
+END
+2008-03-26-CoalescerBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-03-26-CoalescerBug.ll
+END
+2008-10-28-UnprocessedNode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-10-28-UnprocessedNode.ll
+END
+2006-04-05-splat-ish.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2006-04-05-splat-ish.ll
+END
+2012-11-16-mischedcall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/2012-11-16-mischedcall.ll
+END
+vec_mul_even_odd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/231827/llvm/trunk/test/CodeGen/PowerPC/vec_mul_even_odd.ll
+END
+compare-duplicate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/compare-duplicate.ll
+END
+fp-to-int-to-fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/225248/llvm/trunk/test/CodeGen/PowerPC/fp-to-int-to-fp.ll
+END
+fold-zero.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/202451/llvm/trunk/test/CodeGen/PowerPC/fold-zero.ll
+END
+frame-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/177140/llvm/trunk/test/CodeGen/PowerPC/frame-size.ll
+END
+fast-isel-icmp-split.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/239940/llvm/trunk/test/CodeGen/PowerPC/fast-isel-icmp-split.ll
+END
+altivec-ord.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/185855/llvm/trunk/test/CodeGen/PowerPC/altivec-ord.ll
+END
+and_add.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/and_add.ll
+END
+fast-isel-conversion.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-conversion.ll
+END
+xvcmpeqdp-v2f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/xvcmpeqdp-v2f64.ll
+END
+qpx-bv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230413/llvm/trunk/test/CodeGen/PowerPC/qpx-bv.ll
+END
+2006-11-29-AltivecFPSplat.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2006-11-29-AltivecFPSplat.ll
+END
+2016-01-07-BranchWeightCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/257518/llvm/trunk/test/CodeGen/PowerPC/2016-01-07-BranchWeightCrash.ll
+END
+2008-03-24-AddressRegImm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-03-24-AddressRegImm.ll
+END
+cmpb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/cmpb.ll
+END
+negctr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/189068/llvm/trunk/test/CodeGen/PowerPC/negctr.ll
+END
+2005-09-02-LegalizeDuplicatesCalls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/2005-09-02-LegalizeDuplicatesCalls.ll
+END
+std-unal-fi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/std-unal-fi.ll
+END
+crypto_bifs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/268950/llvm/trunk/test/CodeGen/PowerPC/crypto_bifs.ll
+END
+or-addressing-mode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/or-addressing-mode.ll
+END
+a2-fp-basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/a2-fp-basic.ll
+END
+ppc64le-aggregates.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/ppc64le-aggregates.ll
+END
+pr26356.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/259840/llvm/trunk/test/CodeGen/PowerPC/pr26356.ll
+END
+2008-06-21-F128LoadStore.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-06-21-F128LoadStore.ll
+END
+2010-05-03-retaddr1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/176868/llvm/trunk/test/CodeGen/PowerPC/2010-05-03-retaddr1.ll
+END
+2006-12-07-SelectCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/247775/llvm/trunk/test/CodeGen/PowerPC/2006-12-07-SelectCrash.ll
+END
+varargs-struct-float.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/varargs-struct-float.ll
+END
+ctrloop-sh.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ctrloop-sh.ll
+END
+2008-09-12-CoalescerBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2008-09-12-CoalescerBug.ll
+END
+aggressive-anti-dep-breaker-subreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/265097/llvm/trunk/test/CodeGen/PowerPC/aggressive-anti-dep-breaker-subreg.ll
+END
+ppc64-stackmap.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/242217/llvm/trunk/test/CodeGen/PowerPC/ppc64-stackmap.ll
+END
+fsqrt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/220019/llvm/trunk/test/CodeGen/PowerPC/fsqrt.ll
+END
+atomics-fences.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/266834/llvm/trunk/test/CodeGen/PowerPC/atomics-fences.ll
+END
+mult-alt-generic-powerpc64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/mult-alt-generic-powerpc64.ll
+END
+code-align.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268121/llvm/trunk/test/CodeGen/PowerPC/code-align.ll
+END
+early-ret.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/235608/llvm/trunk/test/CodeGen/PowerPC/early-ret.ll
+END
+vec_perf_shuffle.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_perf_shuffle.ll
+END
+bperm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/bperm.ll
+END
+unal-altivec2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/unal-altivec2.ll
+END
+2008-12-02-LegalizeTypeAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-12-02-LegalizeTypeAssert.ll
+END
+2007-11-04-CoalescerCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-11-04-CoalescerCrash.ll
+END
+vsx-minmax.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vsx-minmax.ll
+END
+selectiondag-extload-computeknownbits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/251486/llvm/trunk/test/CodeGen/PowerPC/selectiondag-extload-computeknownbits.ll
+END
+tls-cse.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/tls-cse.ll
+END
+bv-widen-undef.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/185960/llvm/trunk/test/CodeGen/PowerPC/bv-widen-undef.ll
+END
+vec_cmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/214714/llvm/trunk/test/CodeGen/PowerPC/vec_cmp.ll
+END
+vec_fneg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/262079/llvm/trunk/test/CodeGen/PowerPC/vec_fneg.ll
+END
+2007-08-04-CoalescerAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/2007-08-04-CoalescerAssert.ll
+END
+2006-07-07-ComputeMaskedBits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2006-07-07-ComputeMaskedBits.ll
+END
+rlwinm-zero-ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/264183/llvm/trunk/test/CodeGen/PowerPC/rlwinm-zero-ext.ll
+END
+frameaddr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/189068/llvm/trunk/test/CodeGen/PowerPC/frameaddr.ll
+END
+indirectbr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/indirectbr.ll
+END
+pr13891.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/pr13891.ll
+END
+vcmp-fold.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vcmp-fold.ll
+END
+memset-nc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/memset-nc.ll
+END
+bitcasts-direct-move.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/255649/llvm/trunk/test/CodeGen/PowerPC/bitcasts-direct-move.ll
+END
+ppc64-cyclecounter.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/161346/llvm/trunk/test/CodeGen/PowerPC/ppc64-cyclecounter.ll
+END
+2008-04-16-CoalescerBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-04-16-CoalescerBug.ll
+END
+2009-03-17-LSRBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/2009-03-17-LSRBug.ll
+END
+reloc-align.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/reloc-align.ll
+END
+ppc64-fastcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/259673/llvm/trunk/test/CodeGen/PowerPC/ppc64-fastcc.ll
+END
+vec_veqv_vnand_vorc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/230020/llvm/trunk/test/CodeGen/PowerPC/vec_veqv_vnand_vorc.ll
+END
+fast-isel-load-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-load-store.ll
+END
+sdag-ppcf128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/sdag-ppcf128.ll
+END
+2005-01-14-SetSelectCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2005-01-14-SetSelectCrash.ll
+END
+optcmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/optcmp.ll
+END
+2007-06-28-BCCISelBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/2007-06-28-BCCISelBug.ll
+END
+rotl-rotr-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/254501/llvm/trunk/test/CodeGen/PowerPC/rotl-rotr-crash.ll
+END
+p8altivec-shuffles-pred.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/246675/llvm/trunk/test/CodeGen/PowerPC/p8altivec-shuffles-pred.ll
+END
+empty-functions.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/231390/llvm/trunk/test/CodeGen/PowerPC/empty-functions.ll
+END
+optnone-crbits-i1-ret.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/233775/llvm/trunk/test/CodeGen/PowerPC/optnone-crbits-i1-ret.ll
+END
+copysignl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/220019/llvm/trunk/test/CodeGen/PowerPC/copysignl.ll
+END
+misched-inorder-latency.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/misched-inorder-latency.ll
+END
+fsl-e500mc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/fsl-e500mc.ll
+END
+fast-isel-br-const.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-br-const.ll
+END
+mcm-3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-3.ll
+END
+buildvec_canonicalize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/buildvec_canonicalize.ll
+END
+tls-store2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/242188/llvm/trunk/test/CodeGen/PowerPC/tls-store2.ll
+END
+rotl-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/rotl-2.ll
+END
+crsave.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/267660/llvm/trunk/test/CodeGen/PowerPC/crsave.ll
+END
+a2q.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/173973/llvm/trunk/test/CodeGen/PowerPC/a2q.ll
+END
+rounding-ops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/220019/llvm/trunk/test/CodeGen/PowerPC/rounding-ops.ll
+END
+pr26617.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/264282/llvm/trunk/test/CodeGen/PowerPC/pr26617.ll
+END
+pr16573.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/186409/llvm/trunk/test/CodeGen/PowerPC/pr16573.ll
+END
+2006-07-19-stwbrx-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2006-07-19-stwbrx-crash.ll
+END
+pr16556-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/pr16556-2.ll
+END
+ppc64-calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/ppc64-calls.ll
+END
+compare-simm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/compare-simm.ll
+END
+qpx-unalperm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/qpx-unalperm.ll
+END
+fsel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/220019/llvm/trunk/test/CodeGen/PowerPC/fsel.ll
+END
+sub-bv-types.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/185949/llvm/trunk/test/CodeGen/PowerPC/sub-bv-types.ll
+END
+2011-12-05-NoSpillDupCR.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/2011-12-05-NoSpillDupCR.ll
+END
+lha.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/lha.ll
+END
+unaligned.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/unaligned.ll
+END
+ppc64-icbt-pwr7.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/248010/llvm/trunk/test/CodeGen/PowerPC/ppc64-icbt-pwr7.ll
+END
+aantidep-inline-asm-use.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/254544/llvm/trunk/test/CodeGen/PowerPC/aantidep-inline-asm-use.ll
+END
+float-to-int.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/204559/llvm/trunk/test/CodeGen/PowerPC/float-to-int.ll
+END
+iabs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/176873/llvm/trunk/test/CodeGen/PowerPC/iabs.ll
+END
+ppc64le-localentry-large.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/257597/llvm/trunk/test/CodeGen/PowerPC/ppc64le-localentry-large.ll
+END
+pr13641.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/162854/llvm/trunk/test/CodeGen/PowerPC/pr13641.ll
+END
+ctrloop-ne.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ctrloop-ne.ll
+END
+2006-10-13-Miscompile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2006-10-13-Miscompile.ll
+END
+aa-tbaa.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/aa-tbaa.ll
+END
+2009-05-28-LegalizeBRCC.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2009-05-28-LegalizeBRCC.ll
+END
+pr16556.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/185821/llvm/trunk/test/CodeGen/PowerPC/pr16556.ll
+END
+htm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/233204/llvm/trunk/test/CodeGen/PowerPC/htm.ll
+END
+alias.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/247378/llvm/trunk/test/CodeGen/PowerPC/alias.ll
+END
+vsx_scalar_ld_st.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/244921/llvm/trunk/test/CodeGen/PowerPC/vsx_scalar_ld_st.ll
+END
+cmp-cmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/cmp-cmp.ll
+END
+2006-11-10-DAGCombineMiscompile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2006-11-10-DAGCombineMiscompile.ll
+END
+ppc64-nonfunc-calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/226207/llvm/trunk/test/CodeGen/PowerPC/ppc64-nonfunc-calls.ll
+END
+ispositive.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/ispositive.ll
+END
+atomics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/235663/llvm/trunk/test/CodeGen/PowerPC/atomics.ll
+END
+pwr7-gt-nop.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/pwr7-gt-nop.ll
+END
+no-pref-jumps.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/228895/llvm/trunk/test/CodeGen/PowerPC/no-pref-jumps.ll
+END
+2005-11-30-vastart-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2005-11-30-vastart-crash.ll
+END
+cmpb-ppc32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/cmpb-ppc32.ll
+END
+cr-spills.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/CodeGen/PowerPC/cr-spills.ll
+END
+fminnum.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/220342/llvm/trunk/test/CodeGen/PowerPC/fminnum.ll
+END
+store-update.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/store-update.ll
+END
+2010-04-01-MachineCSEBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/100170/llvm/trunk/test/CodeGen/PowerPC/2010-04-01-MachineCSEBug.ll
+END
+seteq-0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/251489/llvm/trunk/test/CodeGen/PowerPC/seteq-0.ll
+END
+vtable-reloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/203921/llvm/trunk/test/CodeGen/PowerPC/vtable-reloc.ll
+END
+unal-altivec.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/unal-altivec.ll
+END
+darwin-labels.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/darwin-labels.ll
+END
+rlwimi2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/224318/llvm/trunk/test/CodeGen/PowerPC/rlwimi2.ll
+END
+fast-isel-ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-ext.ll
+END
+addisdtprelha-nonr3.mir
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/265350/llvm/trunk/test/CodeGen/PowerPC/addisdtprelha-nonr3.mir
+END
+memset-nc-le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/memset-nc-le.ll
+END
+2008-03-05-RegScavengerAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2008-03-05-RegScavengerAssert.ll
+END
+2007-01-04-ArgExtension.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-01-04-ArgExtension.ll
+END
+branch-opt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/branch-opt.ll
+END
+spill-nor0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/200288/llvm/trunk/test/CodeGen/PowerPC/spill-nor0.ll
+END
+2006-10-17-brcc-miscompile.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2006-10-17-brcc-miscompile.ll
+END
+2008-06-19-LegalizerCrash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2008-06-19-LegalizerCrash.ll
+END
+vsx-fma-sp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/259673/llvm/trunk/test/CodeGen/PowerPC/vsx-fma-sp.ll
+END
+2009-11-15-ProcImpDefsBug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/2009-11-15-ProcImpDefsBug.ll
+END
+p8-scalar_vector_conversions.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/255246/llvm/trunk/test/CodeGen/PowerPC/p8-scalar_vector_conversions.ll
+END
+ppc64-r2-alloc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/227745/llvm/trunk/test/CodeGen/PowerPC/ppc64-r2-alloc.ll
+END
+named-reg-alloc-r0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/named-reg-alloc-r0.ll
+END
+retaddr2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/253247/llvm/trunk/test/CodeGen/PowerPC/retaddr2.ll
+END
+qpx-func-clobber.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230421/llvm/trunk/test/CodeGen/PowerPC/qpx-func-clobber.ll
+END
+shift128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/shift128.ll
+END
+unsafe-math.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/220173/llvm/trunk/test/CodeGen/PowerPC/unsafe-math.ll
+END
+vsx-recip-est.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/237937/llvm/trunk/test/CodeGen/PowerPC/vsx-recip-est.ll
+END
+vec_misaligned.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_misaligned.ll
+END
+vec_shift.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/vec_shift.ll
+END
+itofp128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/itofp128.ll
+END
+mcm-4.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/220019/llvm/trunk/test/CodeGen/PowerPC/mcm-4.ll
+END
+merge-st-chain-op.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/248698/llvm/trunk/test/CodeGen/PowerPC/merge-st-chain-op.ll
+END
+direct-move-profit.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/265593/llvm/trunk/test/CodeGen/PowerPC/direct-move-profit.ll
+END
+Frames-leaf.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/Frames-leaf.ll
+END
+bswap-load-store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/bswap-load-store.ll
+END
+vrsave-spill.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/178096/llvm/trunk/test/CodeGen/PowerPC/vrsave-spill.ll
+END
+lxvw4x-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/241108/llvm/trunk/test/CodeGen/PowerPC/lxvw4x-bug.ll
+END
+inlineasm-copy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/201336/llvm/trunk/test/CodeGen/PowerPC/inlineasm-copy.ll
+END
+builtins-ppc-elf2-abi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/242167/llvm/trunk/test/CodeGen/PowerPC/builtins-ppc-elf2-abi.ll
+END
+pr27078.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268516/llvm/trunk/test/CodeGen/PowerPC/pr27078.ll
+END
+tailcall1-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/tailcall1-64.ll
+END
+DbgValueOtherTargets.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/177327/llvm/trunk/test/CodeGen/PowerPC/DbgValueOtherTargets.test
+END
+fast-isel-i64offset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/265026/llvm/trunk/test/CodeGen/PowerPC/fast-isel-i64offset.ll
+END
+unwind-dw2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/185235/llvm/trunk/test/CodeGen/PowerPC/unwind-dw2.ll
+END
+big-endian-actual-args.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/big-endian-actual-args.ll
+END
+vperm-instcombine.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/210297/llvm/trunk/test/CodeGen/PowerPC/vperm-instcombine.ll
+END
+vec_conv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_conv.ll
+END
+2007-09-12-LiveIntervalsAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-09-12-LiveIntervalsAssert.ll
+END
+2007-09-08-unaligned.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/2007-09-08-unaligned.ll
+END
+ppc64-icbt-pwr8.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/226033/llvm/trunk/test/CodeGen/PowerPC/ppc64-icbt-pwr8.ll
+END
+unal4-std.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/unal4-std.ll
+END
+cr1eq.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/cr1eq.ll
+END
+asym-regclass-copy.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/189068/llvm/trunk/test/CodeGen/PowerPC/asym-regclass-copy.ll
+END
+ppc64-fastcc-fast-isel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/242188/llvm/trunk/test/CodeGen/PowerPC/ppc64-fastcc-fast-isel.ll
+END
+ppc64-anyregcc-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/ppc64-anyregcc-crash.ll
+END
+ia-mem-r0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ia-mem-r0.ll
+END
+pwr3-6x.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/174230/llvm/trunk/test/CodeGen/PowerPC/pwr3-6x.ll
+END
+crbits.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/crbits.ll
+END
+inlineasm-i64-reg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/inlineasm-i64-reg.ll
+END
+extsh.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/extsh.ll
+END
+preinc-ld-sel-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/235497/llvm/trunk/test/CodeGen/PowerPC/preinc-ld-sel-crash.ll
+END
+vsx-infl-copy1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/vsx-infl-copy1.ll
+END
+fma-mutate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/262573/llvm/trunk/test/CodeGen/PowerPC/fma-mutate.ll
+END
+2007-01-31-InlineAsmAddrMode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/2007-01-31-InlineAsmAddrMode.ll
+END
+split-index-tc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/split-index-tc.ll
+END
+rm-zext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/244481/llvm/trunk/test/CodeGen/PowerPC/rm-zext.ll
+END
+tailcall1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/tailcall1.ll
+END
+constants.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/constants.ll
+END
+ppcf128sf.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/259797/llvm/trunk/test/CodeGen/PowerPC/ppcf128sf.ll
+END
+ppc64-32bit-addic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/133439/llvm/trunk/test/CodeGen/PowerPC/ppc64-32bit-addic.ll
+END
+vsx.ll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/252651/llvm/trunk/test/CodeGen/PowerPC/vsx.ll
+END
+vec_rounding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/186280/llvm/trunk/test/CodeGen/PowerPC/vec_rounding.ll
+END
+qpx-recipest.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230413/llvm/trunk/test/CodeGen/PowerPC/qpx-recipest.ll
+END
+retaddr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/159525/llvm/trunk/test/CodeGen/PowerPC/retaddr.ll
+END
+rlwimi3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/176873/llvm/trunk/test/CodeGen/PowerPC/rlwimi3.ll
+END
+aantidep-def-ec.mir
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265350/llvm/trunk/test/CodeGen/PowerPC/aantidep-def-ec.mir
+END
+loop-data-prefetch-inner.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/234603/llvm/trunk/test/CodeGen/PowerPC/loop-data-prefetch-inner.ll
+END
+i64_fp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/220173/llvm/trunk/test/CodeGen/PowerPC/i64_fp.ll
+END
+ppc64-elf-abi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/229471/llvm/trunk/test/CodeGen/PowerPC/ppc64-elf-abi.ll
+END
+ppc64-sibcall-shrinkwrap.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/265528/llvm/trunk/test/CodeGen/PowerPC/ppc64-sibcall-shrinkwrap.ll
+END
+vec_mul.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/231827/llvm/trunk/test/CodeGen/PowerPC/vec_mul.ll
+END
+sdiv-pow2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/244481/llvm/trunk/test/CodeGen/PowerPC/sdiv-pow2.ll
+END
+load-two-flts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/264988/llvm/trunk/test/CodeGen/PowerPC/load-two-flts.ll
+END
+int-fp-conv-0.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/int-fp-conv-0.ll
+END
+ctrloop-fp64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ctrloop-fp64.ll
+END
+2005-10-08-ArithmeticRotate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2005-10-08-ArithmeticRotate.ll
+END
+ctrloop-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/182191/llvm/trunk/test/CodeGen/PowerPC/ctrloop-asm.ll
+END
+vsx-spill-norwstore.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/vsx-spill-norwstore.ll
+END
+ppc64-gep-opt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppc64-gep-opt.ll
+END
+named-reg-alloc-r1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/named-reg-alloc-r1.ll
+END
+setcc_no_zext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/202451/llvm/trunk/test/CodeGen/PowerPC/setcc_no_zext.ll
+END
+ppc64le-calls.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/227053/llvm/trunk/test/CodeGen/PowerPC/ppc64le-calls.ll
+END
+fma-assoc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/262573/llvm/trunk/test/CodeGen/PowerPC/fma-assoc.ll
+END
+fmaxnum.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/220342/llvm/trunk/test/CodeGen/PowerPC/fmaxnum.ll
+END
+mcm-5.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/235608/llvm/trunk/test/CodeGen/PowerPC/mcm-5.ll
+END
+pr15630.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/pr15630.ll
+END
+stack-protector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267017/llvm/trunk/test/CodeGen/PowerPC/stack-protector.ll
+END
+stfiwx.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/CodeGen/PowerPC/stfiwx.ll
+END
+vec_add_sub_doubleword.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/232239/llvm/trunk/test/CodeGen/PowerPC/vec_add_sub_doubleword.ll
+END
+asm-constraints.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/264340/llvm/trunk/test/CodeGen/PowerPC/asm-constraints.ll
+END
+qpx-split-vsetcc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/qpx-split-vsetcc.ll
+END
+2007-10-16-InlineAsmFrameOffset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-10-16-InlineAsmFrameOffset.ll
+END
+ppc64-linux-func-size.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/258750/llvm/trunk/test/CodeGen/PowerPC/ppc64-linux-func-size.ll
+END
+mcm-10.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/mcm-10.ll
+END
+2007-02-16-AlignPacked.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-02-16-AlignPacked.ll
+END
+mulli64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/187807/llvm/trunk/test/CodeGen/PowerPC/mulli64.ll
+END
+mul-neg-power-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/mul-neg-power-2.ll
+END
+splat-bug.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/209662/llvm/trunk/test/CodeGen/PowerPC/splat-bug.ll
+END
+i64_fp_round.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/235616/llvm/trunk/test/CodeGen/PowerPC/i64_fp_round.ll
+END
+ctrloop-lt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ctrloop-lt.ll
+END
+ppc64-byval-align.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppc64-byval-align.ll
+END
+vec_insert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/vec_insert.ll
+END
+ppc64-sibcall.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/265528/llvm/trunk/test/CodeGen/PowerPC/ppc64-sibcall.ll
+END
+bv-pres-v8i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/185794/llvm/trunk/test/CodeGen/PowerPC/bv-pres-v8i1.ll
+END
+longdbl-truncate.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/longdbl-truncate.ll
+END
+Frames-alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/211495/llvm/trunk/test/CodeGen/PowerPC/Frames-alloca.ll
+END
+vector-merge-store-fp-constants.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/248169/llvm/trunk/test/CodeGen/PowerPC/vector-merge-store-fp-constants.ll
+END
+2004-12-12-ZeroSizeCommon.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2004-12-12-ZeroSizeCommon.ll
+END
+rlwinm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/rlwinm.ll
+END
+vec_fmuladd.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/186163/llvm/trunk/test/CodeGen/PowerPC/vec_fmuladd.ll
+END
+ppc64-stackmap-nops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/235145/llvm/trunk/test/CodeGen/PowerPC/ppc64-stackmap-nops.ll
+END
+ppc64-abi-extend.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/ppc64-abi-extend.ll
+END
+vsx_shuffle_le.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/252651/llvm/trunk/test/CodeGen/PowerPC/vsx_shuffle_le.ll
+END
+rs-undef-use.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/rs-undef-use.ll
+END
+Frames-small.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/211495/llvm/trunk/test/CodeGen/PowerPC/Frames-small.ll
+END
+fast-isel-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/243079/llvm/trunk/test/CodeGen/PowerPC/fast-isel-crash.ll
+END
+mftb.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239827/llvm/trunk/test/CodeGen/PowerPC/mftb.ll
+END
+2006-05-12-rlwimi-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/2006-05-12-rlwimi-crash.ll
+END
+2007-02-16-InlineAsmNConstraint.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2007-02-16-InlineAsmNConstraint.ll
+END
+structsinmem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/structsinmem.ll
+END
+named-reg-alloc-r1-64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/224257/llvm/trunk/test/CodeGen/PowerPC/named-reg-alloc-r1-64.ll
+END
+vec_br_cmp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vec_br_cmp.ll
+END
+vsx-infl-copy2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vsx-infl-copy2.ll
+END
+2004-11-30-shr-var-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/2004-11-30-shr-var-crash.ll
+END
+vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/CodeGen/PowerPC/vector.ll
+END
+lbzux.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/lbzux.ll
+END
+resolvefi-basereg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/CodeGen/PowerPC/resolvefi-basereg.ll
+END
+ctrloops.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/265683/llvm/trunk/test/CodeGen/PowerPC/ctrloops.ll
+END
+and_sra.ll
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/81293/llvm/trunk/test/CodeGen/PowerPC/and_sra.ll
+END

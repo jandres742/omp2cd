@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/Disassembler
+END
+LanaiDisassembler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/Disassembler/LanaiDisassembler.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/Disassembler/LLVMBuild.txt
+END
+LanaiDisassembler.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/Disassembler/LanaiDisassembler.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/Disassembler/CMakeLists.txt
+END

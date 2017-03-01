@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/256471/llvm/trunk/utils/lit/tests/Inputs/shtest-timeout
+END
+infinite_loop.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/256471/llvm/trunk/utils/lit/tests/Inputs/shtest-timeout/infinite_loop.py
+END
+quick_then_slow.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/256471/llvm/trunk/utils/lit/tests/Inputs/shtest-timeout/quick_then_slow.py
+END
+lit.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/256471/llvm/trunk/utils/lit/tests/Inputs/shtest-timeout/lit.cfg
+END
+short.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/256471/llvm/trunk/utils/lit/tests/Inputs/shtest-timeout/short.py
+END
+slow.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/256471/llvm/trunk/utils/lit/tests/Inputs/shtest-timeout/slow.py
+END

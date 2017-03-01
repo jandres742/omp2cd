@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/246203/llvm/trunk/test/Examples/Kaleidoscope
+END
+Chapter3.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246203/llvm/trunk/test/Examples/Kaleidoscope/Chapter3.test
+END
+Chapter4.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246203/llvm/trunk/test/Examples/Kaleidoscope/Chapter4.test
+END
+Chapter5.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246203/llvm/trunk/test/Examples/Kaleidoscope/Chapter5.test
+END
+Chapter6.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246203/llvm/trunk/test/Examples/Kaleidoscope/Chapter6.test
+END
+Chapter7.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246203/llvm/trunk/test/Examples/Kaleidoscope/Chapter7.test
+END

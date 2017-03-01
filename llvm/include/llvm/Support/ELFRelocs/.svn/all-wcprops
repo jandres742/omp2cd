@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/267428/llvm/trunk/include/llvm/Support/ELFRelocs
+END
+Lanai.def
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/262394/llvm/trunk/include/llvm/Support/ELFRelocs/Lanai.def
+END
+AArch64.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/222821/llvm/trunk/include/llvm/Support/ELFRelocs/AArch64.def
+END
+AVR.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/251096/llvm/trunk/include/llvm/Support/ELFRelocs/AVR.def
+END
+Mips.def
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/266985/llvm/trunk/include/llvm/Support/ELFRelocs/Mips.def
+END
+Sparc.def
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/240020/llvm/trunk/include/llvm/Support/ELFRelocs/Sparc.def
+END
+Hexagon.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/261006/llvm/trunk/include/llvm/Support/ELFRelocs/Hexagon.def
+END
+PowerPC64.def
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/249714/llvm/trunk/include/llvm/Support/ELFRelocs/PowerPC64.def
+END
+i386.def
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267428/llvm/trunk/include/llvm/Support/ELFRelocs/i386.def
+END
+WebAssembly.def
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/257416/llvm/trunk/include/llvm/Support/ELFRelocs/WebAssembly.def
+END
+SystemZ.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/222565/llvm/trunk/include/llvm/Support/ELFRelocs/SystemZ.def
+END
+x86_64.def
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/263894/llvm/trunk/include/llvm/Support/ELFRelocs/x86_64.def
+END
+ARM.def
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/222817/llvm/trunk/include/llvm/Support/ELFRelocs/ARM.def
+END
+PowerPC.def
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/248957/llvm/trunk/include/llvm/Support/ELFRelocs/PowerPC.def
+END

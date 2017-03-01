@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/252639/llvm/trunk/test/Transforms/SimplifyCFG/ARM
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/252639/llvm/trunk/test/Transforms/SimplifyCFG/ARM/lit.local.cfg
+END
+cttz-ctlz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/252639/llvm/trunk/test/Transforms/SimplifyCFG/ARM/cttz-ctlz.ll
+END

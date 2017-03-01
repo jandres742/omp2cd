@@ -1,0 +1,587 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/269458/llvm/trunk/lib/Target/Hexagon
+END
+HexagonAsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Hexagon/HexagonAsmPrinter.cpp
+END
+HexagonCommonGEP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269415/llvm/trunk/lib/Target/Hexagon/HexagonCommonGEP.cpp
+END
+HexagonIntrinsicsV5.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267178/llvm/trunk/lib/Target/Hexagon/HexagonIntrinsicsV5.td
+END
+BitTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/243825/llvm/trunk/lib/Target/Hexagon/BitTracker.h
+END
+HexagonMachineFunctionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/195064/llvm/trunk/lib/Target/Hexagon/HexagonMachineFunctionInfo.cpp
+END
+HexagonSplitDouble.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269414/llvm/trunk/lib/Target/Hexagon/HexagonSplitDouble.cpp
+END
+HexagonGenPredicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonGenPredicate.cpp
+END
+HexagonOperands.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/261006/llvm/trunk/lib/Target/Hexagon/HexagonOperands.td
+END
+HexagonCFGOptimizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/268691/llvm/trunk/lib/Target/Hexagon/HexagonCFGOptimizer.cpp
+END
+HexagonOptAddrMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268057/llvm/trunk/lib/Target/Hexagon/HexagonOptAddrMode.cpp
+END
+HexagonVLIWPacketizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268776/llvm/trunk/lib/Target/Hexagon/HexagonVLIWPacketizer.cpp
+END
+HexagonTargetTransformInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/247864/llvm/trunk/lib/Target/Hexagon/HexagonTargetTransformInfo.h
+END
+HexagonGenExtract.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonGenExtract.cpp
+END
+HexagonRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/263977/llvm/trunk/lib/Target/Hexagon/HexagonRegisterInfo.h
+END
+HexagonIntrinsicsV60.td
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267178/llvm/trunk/lib/Target/Hexagon/HexagonIntrinsicsV60.td
+END
+HexagonISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266414/llvm/trunk/lib/Target/Hexagon/HexagonISelLowering.h
+END
+HexagonOptimizeSZextends.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonOptimizeSZextends.cpp
+END
+HexagonIntrinsics.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/268635/llvm/trunk/lib/Target/Hexagon/HexagonIntrinsics.td
+END
+HexagonInstrEnc.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/250600/llvm/trunk/lib/Target/Hexagon/HexagonInstrEnc.td
+END
+HexagonHardwareLoops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonHardwareLoops.cpp
+END
+HexagonInstrInfoV5.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/254099/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfoV5.td
+END
+HexagonIntrinsicsDerived.td
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/227338/llvm/trunk/lib/Target/Hexagon/HexagonIntrinsicsDerived.td
+END
+RDFDeadCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/258074/llvm/trunk/lib/Target/Hexagon/RDFDeadCode.h
+END
+RDFLiveness.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268051/llvm/trunk/lib/Target/Hexagon/RDFLiveness.h
+END
+HexagonInstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/250845/llvm/trunk/lib/Target/Hexagon/HexagonInstrFormats.td
+END
+HexagonExpandCondsets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonExpandCondsets.cpp
+END
+HexagonTargetObjectFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267034/llvm/trunk/lib/Target/Hexagon/HexagonTargetObjectFile.h
+END
+HexagonNewValueJump.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonNewValueJump.cpp
+END
+HexagonIntrinsicsV4.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267178/llvm/trunk/lib/Target/Hexagon/HexagonIntrinsicsV4.td
+END
+HexagonRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267038/llvm/trunk/lib/Target/Hexagon/HexagonRegisterInfo.td
+END
+RDFGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/267932/llvm/trunk/lib/Target/Hexagon/RDFGraph.h
+END
+HexagonAsmPrinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/255653/llvm/trunk/lib/Target/Hexagon/HexagonAsmPrinter.h
+END
+HexagonBlockRanges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267173/llvm/trunk/lib/Target/Hexagon/HexagonBlockRanges.cpp
+END
+HexagonInstrFormatsV4.td
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/253867/llvm/trunk/lib/Target/Hexagon/HexagonInstrFormatsV4.td
+END
+HexagonScheduleV4.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/262384/llvm/trunk/lib/Target/Hexagon/HexagonScheduleV4.td
+END
+HexagonBitSimplify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonBitSimplify.cpp
+END
+HexagonMachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/264580/llvm/trunk/lib/Target/Hexagon/HexagonMachineFunctionInfo.h
+END
+HexagonTargetStreamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/240390/llvm/trunk/lib/Target/Hexagon/HexagonTargetStreamer.h
+END
+HexagonRDFOpt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267932/llvm/trunk/lib/Target/Hexagon/HexagonRDFOpt.cpp
+END
+HexagonInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/268946/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfo.td
+END
+HexagonPeephole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonPeephole.cpp
+END
+HexagonGenMux.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonGenMux.cpp
+END
+HexagonISelLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/267853/llvm/trunk/lib/Target/Hexagon/HexagonISelLowering.cpp
+END
+Hexagon.td
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/268641/llvm/trunk/lib/Target/Hexagon/Hexagon.td
+END
+HexagonFrameLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267433/llvm/trunk/lib/Target/Hexagon/HexagonFrameLowering.h
+END
+HexagonInstrInfoV4.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267433/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfoV4.td
+END
+HexagonSplitConst32AndConst64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267034/llvm/trunk/lib/Target/Hexagon/HexagonSplitConst32AndConst64.cpp
+END
+HexagonTargetObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/267034/llvm/trunk/lib/Target/Hexagon/HexagonTargetObjectFile.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/252444/llvm/trunk/lib/Target/Hexagon/LLVMBuild.txt
+END
+HexagonTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/256025/llvm/trunk/lib/Target/Hexagon/HexagonTargetMachine.h
+END
+HexagonInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/268051/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfo.h
+END
+HexagonEarlyIfConv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonEarlyIfConv.cpp
+END
+RDFGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268691/llvm/trunk/lib/Target/Hexagon/RDFGraph.cpp
+END
+HexagonIntrinsicsV3.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/228026/llvm/trunk/lib/Target/Hexagon/HexagonIntrinsicsV3.td
+END
+Hexagon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/254564/llvm/trunk/lib/Target/Hexagon/Hexagon.h
+END
+HexagonCallingConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/156568/llvm/trunk/lib/Target/Hexagon/HexagonCallingConv.td
+END
+HexagonISelDAGToDAG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269458/llvm/trunk/lib/Target/Hexagon/HexagonISelDAGToDAG.cpp
+END
+HexagonBitTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/261605/llvm/trunk/lib/Target/Hexagon/HexagonBitTracker.cpp
+END
+RDFCopy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/267891/llvm/trunk/lib/Target/Hexagon/RDFCopy.cpp
+END
+HexagonGenInsert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonGenInsert.cpp
+END
+HexagonInstrAlias.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/268946/llvm/trunk/lib/Target/Hexagon/HexagonInstrAlias.td
+END
+HexagonBlockRanges.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/260758/llvm/trunk/lib/Target/Hexagon/HexagonBlockRanges.h
+END
+HexagonSubtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/255501/llvm/trunk/lib/Target/Hexagon/HexagonSubtarget.cpp
+END
+HexagonFrameLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269191/llvm/trunk/lib/Target/Hexagon/HexagonFrameLowering.cpp
+END
+HexagonSystemInst.td
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/267162/llvm/trunk/lib/Target/Hexagon/HexagonSystemInst.td
+END
+HexagonMachineScheduler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Hexagon/HexagonMachineScheduler.h
+END
+HexagonInstrInfoV3.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/267433/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfoV3.td
+END
+HexagonTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269192/llvm/trunk/lib/Target/Hexagon/HexagonTargetMachine.cpp
+END
+HexagonInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269328/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfo.cpp
+END
+HexagonInstrFormatsV60.td
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/253867/llvm/trunk/lib/Target/Hexagon/HexagonInstrFormatsV60.td
+END
+BitTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/261220/llvm/trunk/lib/Target/Hexagon/BitTracker.cpp
+END
+HexagonRDF.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/257504/llvm/trunk/lib/Target/Hexagon/HexagonRDF.h
+END
+HexagonSchedule.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/253867/llvm/trunk/lib/Target/Hexagon/HexagonSchedule.td
+END
+HexagonScheduleV55.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/262384/llvm/trunk/lib/Target/Hexagon/HexagonScheduleV55.td
+END
+HexagonSelectionDAGInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/258939/llvm/trunk/lib/Target/Hexagon/HexagonSelectionDAGInfo.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268666/llvm/trunk/lib/Target/Hexagon/CMakeLists.txt
+END
+HexagonBranchRelaxation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266792/llvm/trunk/lib/Target/Hexagon/HexagonBranchRelaxation.cpp
+END
+HexagonIsetDx.td
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/239161/llvm/trunk/lib/Target/Hexagon/HexagonIsetDx.td
+END
+HexagonSelectCCInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/150878/llvm/trunk/lib/Target/Hexagon/HexagonSelectCCInfo.td
+END
+HexagonInstrInfoV60.td
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/264584/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfoV60.td
+END
+HexagonTargetTransformInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/244130/llvm/trunk/lib/Target/Hexagon/HexagonTargetTransformInfo.cpp
+END
+HexagonBitTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/242062/llvm/trunk/lib/Target/Hexagon/HexagonBitTracker.h
+END
+HexagonRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Hexagon/HexagonRegisterInfo.cpp
+END
+RDFCopy.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/258075/llvm/trunk/lib/Target/Hexagon/RDFCopy.h
+END
+HexagonMachineScheduler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/262142/llvm/trunk/lib/Target/Hexagon/HexagonMachineScheduler.cpp
+END
+HexagonSubtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/255501/llvm/trunk/lib/Target/Hexagon/HexagonSubtarget.h
+END
+HexagonMCInstLower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/262238/llvm/trunk/lib/Target/Hexagon/HexagonMCInstLower.cpp
+END
+HexagonFixupHwLoops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269415/llvm/trunk/lib/Target/Hexagon/HexagonFixupHwLoops.cpp
+END
+HexagonVLIWPacketizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/262142/llvm/trunk/lib/Target/Hexagon/HexagonVLIWPacketizer.h
+END
+RDFLiveness.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/268051/llvm/trunk/lib/Target/Hexagon/RDFLiveness.cpp
+END
+RDFDeadCode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/258074/llvm/trunk/lib/Target/Hexagon/RDFDeadCode.cpp
+END
+HexagonCopyToCombine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/265313/llvm/trunk/lib/Target/Hexagon/HexagonCopyToCombine.cpp
+END
+HexagonRDF.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/257504/llvm/trunk/lib/Target/Hexagon/HexagonRDF.cpp
+END
+HexagonSelectionDAGInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/255785/llvm/trunk/lib/Target/Hexagon/HexagonSelectionDAGInfo.cpp
+END
+HexagonScheduleV60.td
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/262384/llvm/trunk/lib/Target/Hexagon/HexagonScheduleV60.td
+END
+HexagonStoreWidening.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267593/llvm/trunk/lib/Target/Hexagon/HexagonStoreWidening.cpp
+END
+HexagonInstrInfoVector.td
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/254165/llvm/trunk/lib/Target/Hexagon/HexagonInstrInfoVector.td
+END

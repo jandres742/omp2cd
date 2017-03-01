@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/test/MC/Disassembler/Lanai
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/test/MC/Disassembler/Lanai/lit.local.cfg
+END
+v11.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/test/MC/Disassembler/Lanai/v11.txt
+END

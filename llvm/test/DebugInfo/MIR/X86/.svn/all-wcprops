@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/MIR/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/255759/llvm/trunk/test/DebugInfo/MIR/X86/lit.local.cfg
+END
+live-debug-values-3preds.mir
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/MIR/X86/live-debug-values-3preds.mir
+END
+live-debug-values.mir
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/MIR/X86/live-debug-values.mir
+END

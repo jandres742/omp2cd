@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/254598/llvm/trunk/test/MC/Disassembler/Mips/dspr2
+END
+valid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/254598/llvm/trunk/test/MC/Disassembler/Mips/dspr2/valid.txt
+END

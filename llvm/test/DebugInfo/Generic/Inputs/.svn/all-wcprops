@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/Inputs
+END
+gmlt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/Generic/Inputs/gmlt.ll
+END

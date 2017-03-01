@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/255482/llvm/trunk/test/tools/llvm-dwp/Inputs/type_dedup
+END
+a.dwo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/255482/llvm/trunk/test/tools/llvm-dwp/Inputs/type_dedup/a.dwo
+END
+b.dwo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/255482/llvm/trunk/test/tools/llvm-dwp/Inputs/type_dedup/b.dwo
+END

@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/269531/llvm/trunk/lib/Target/WebAssembly
+END
+WebAssemblyReplacePhysRegs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyReplacePhysRegs.cpp
+END
+WebAssemblySubtarget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/258692/llvm/trunk/lib/Target/WebAssembly/WebAssemblySubtarget.cpp
+END
+WebAssemblyInstrSIMD.td
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/241923/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrSIMD.td
+END
+WebAssemblyFrameLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyFrameLowering.cpp
+END
+WebAssemblyInstrInteger.td
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/267264/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrInteger.td
+END
+WebAssemblyTargetTransformInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/254993/llvm/trunk/lib/Target/WebAssembly/WebAssemblyTargetTransformInfo.h
+END
+WebAssemblyInstrAtomics.td
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/241923/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrAtomics.td
+END
+WebAssemblySetP2AlignOperands.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/267082/llvm/trunk/lib/Target/WebAssembly/WebAssemblySetP2AlignOperands.cpp
+END
+WebAssemblyRegisterInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/254799/llvm/trunk/lib/Target/WebAssembly/WebAssemblyRegisterInfo.h
+END
+WebAssemblyLowerBrUnless.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/260152/llvm/trunk/lib/Target/WebAssembly/WebAssemblyLowerBrUnless.cpp
+END
+WebAssemblyISelLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/261032/llvm/trunk/lib/Target/WebAssembly/WebAssemblyISelLowering.h
+END
+WebAssemblyOptimizeReturned.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/254866/llvm/trunk/lib/Target/WebAssembly/WebAssemblyOptimizeReturned.cpp
+END
+WebAssemblyInstrFloat.td
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/259893/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrFloat.td
+END
+WebAssemblyInstrInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/260152/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrInfo.cpp
+END
+WebAssemblyMCInstLower.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/257416/llvm/trunk/lib/Target/WebAssembly/WebAssemblyMCInstLower.h
+END
+WebAssemblyTargetMachine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyTargetMachine.cpp
+END
+WebAssemblyPEI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyPEI.cpp
+END
+WebAssemblyInstrMemory.td
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268255/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrMemory.td
+END
+WebAssemblyInstrFormats.td
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/254997/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrFormats.td
+END
+WebAssemblyInstrCall.td
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/255844/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrCall.td
+END
+WebAssemblySelectionDAGInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/258939/llvm/trunk/lib/Target/WebAssembly/WebAssemblySelectionDAGInfo.h
+END
+WebAssemblyTargetObjectFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/255877/llvm/trunk/lib/Target/WebAssembly/WebAssemblyTargetObjectFile.h
+END
+WebAssemblyRegNumbering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyRegNumbering.cpp
+END
+WebAssemblyRegisterInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/254523/llvm/trunk/lib/Target/WebAssembly/WebAssemblyRegisterInfo.td
+END
+WebAssemblyISD.def
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/262903/llvm/trunk/lib/Target/WebAssembly/WebAssemblyISD.def
+END
+WebAssemblyMachineFunctionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyMachineFunctionInfo.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/CMakeLists.txt
+END
+WebAssemblyTargetTransformInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/254993/llvm/trunk/lib/Target/WebAssembly/WebAssemblyTargetTransformInfo.cpp
+END
+known_gcc_test_failures.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269523/llvm/trunk/lib/Target/WebAssembly/known_gcc_test_failures.txt
+END
+WebAssemblyRegisterInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyRegisterInfo.cpp
+END
+WebAssemblyInstrInfo.td
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/262903/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrInfo.td
+END
+WebAssemblyPeephole.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/261465/llvm/trunk/lib/Target/WebAssembly/WebAssemblyPeephole.cpp
+END
+WebAssemblyISelLowering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269531/llvm/trunk/lib/Target/WebAssembly/WebAssemblyISelLowering.cpp
+END
+WebAssembly.td
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/254996/llvm/trunk/lib/Target/WebAssembly/WebAssembly.td
+END
+WebAssemblySubtarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/254856/llvm/trunk/lib/Target/WebAssembly/WebAssemblySubtarget.h
+END
+WebAssemblyMCInstLower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/257505/llvm/trunk/lib/Target/WebAssembly/WebAssemblyMCInstLower.cpp
+END
+WebAssemblyFrameLowering.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/265036/llvm/trunk/lib/Target/WebAssembly/WebAssemblyFrameLowering.h
+END
+WebAssemblyOptimizeLiveIntervals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyOptimizeLiveIntervals.cpp
+END
+WebAssemblyArgumentMove.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/255125/llvm/trunk/lib/Target/WebAssembly/WebAssemblyArgumentMove.cpp
+END
+WebAssemblyInstrConv.td
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/255179/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrConv.td
+END
+WebAssemblyFastISel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/269273/llvm/trunk/lib/Target/WebAssembly/WebAssemblyFastISel.cpp
+END
+WebAssemblyRegColoring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/262179/llvm/trunk/lib/Target/WebAssembly/WebAssemblyRegColoring.cpp
+END
+WebAssemblyRegStackify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/269273/llvm/trunk/lib/Target/WebAssembly/WebAssemblyRegStackify.cpp
+END
+WebAssemblyTargetObjectFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/255877/llvm/trunk/lib/Target/WebAssembly/WebAssemblyTargetObjectFile.cpp
+END
+WebAssemblySelectionDAGInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/241859/llvm/trunk/lib/Target/WebAssembly/WebAssemblySelectionDAGInfo.cpp
+END
+WebAssemblyPrepareForLiveIntervals.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyPrepareForLiveIntervals.cpp
+END
+WebAssemblyStoreResults.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269273/llvm/trunk/lib/Target/WebAssembly/WebAssemblyStoreResults.cpp
+END
+WebAssemblyInstrInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/259009/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrInfo.h
+END
+WebAssemblyTargetMachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/241022/llvm/trunk/lib/Target/WebAssembly/WebAssemblyTargetMachine.h
+END
+WebAssemblyAsmPrinter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssemblyAsmPrinter.cpp
+END
+WebAssembly.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/lib/Target/WebAssembly/WebAssembly.h
+END
+WebAssemblyInstrControl.td
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/262903/llvm/trunk/lib/Target/WebAssembly/WebAssemblyInstrControl.td
+END
+WebAssemblyMachineFunctionInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/252975/llvm/trunk/lib/Target/WebAssembly/WebAssemblyMachineFunctionInfo.cpp
+END
+WebAssemblyISelDAGToDAG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269506/llvm/trunk/lib/Target/WebAssembly/WebAssemblyISelDAGToDAG.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/257536/llvm/trunk/lib/Target/WebAssembly/LLVMBuild.txt
+END
+WebAssemblyFixIrreducibleControlFlow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/267511/llvm/trunk/lib/Target/WebAssembly/WebAssemblyFixIrreducibleControlFlow.cpp
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/262995/llvm/trunk/lib/Target/WebAssembly/README.txt
+END
+WebAssemblyCFGStackify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/262982/llvm/trunk/lib/Target/WebAssembly/WebAssemblyCFGStackify.cpp
+END

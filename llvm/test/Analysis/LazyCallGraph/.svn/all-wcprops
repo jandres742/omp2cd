@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/263103/llvm/trunk/test/Analysis/LazyCallGraph
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/263103/llvm/trunk/test/Analysis/LazyCallGraph/basic.ll
+END
+non-leaf-intrinsics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/263103/llvm/trunk/test/Analysis/LazyCallGraph/non-leaf-intrinsics.ll
+END

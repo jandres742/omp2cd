@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/llvm-project/!svn/ver/267490/llvm/trunk/tools/llvm-shlib
+END
+libllvm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/263498/llvm/trunk/tools/llvm-shlib/libllvm.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/267490/llvm/trunk/tools/llvm-shlib/CMakeLists.txt
+END

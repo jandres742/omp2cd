@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/269232/llvm/trunk/lib/Bitcode
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/146436/llvm/trunk/lib/Bitcode/LLVMBuild.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/125968/llvm/trunk/lib/Bitcode/CMakeLists.txt
+END

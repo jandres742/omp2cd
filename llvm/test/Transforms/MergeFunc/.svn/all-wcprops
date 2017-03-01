@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/266022/llvm/trunk/test/Transforms/MergeFunc
+END
+merge-block-address.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/246305/llvm/trunk/test/Transforms/MergeFunc/merge-block-address.ll
+END
+mergefunc-struct-return.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/MergeFunc/mergefunc-struct-return.ll
+END
+no-merge-ptr-different-sizes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/246001/llvm/trunk/test/Transforms/MergeFunc/no-merge-ptr-different-sizes.ll
+END
+2013-01-10-MergeFuncAssert.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/172143/llvm/trunk/test/Transforms/MergeFunc/2013-01-10-MergeFuncAssert.ll
+END
+merge-block-address-other-function.ll
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/llvm-project/!svn/ver/246305/llvm/trunk/test/Transforms/MergeFunc/merge-block-address-other-function.ll
+END
+inttoptr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/247313/llvm/trunk/test/Transforms/MergeFunc/inttoptr.ll
+END
+vectors-and-arrays.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/176873/llvm/trunk/test/Transforms/MergeFunc/vectors-and-arrays.ll
+END
+phi-speculation1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/176873/llvm/trunk/test/Transforms/MergeFunc/phi-speculation1.ll
+END
+constant-entire-value.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/245762/llvm/trunk/test/Transforms/MergeFunc/constant-entire-value.ll
+END
+no-merge-block-address-different-labels.ll
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/llvm-project/!svn/ver/246305/llvm/trunk/test/Transforms/MergeFunc/no-merge-block-address-different-labels.ll
+END
+call-and-invoke-with-ranges.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/255522/llvm/trunk/test/Transforms/MergeFunc/call-and-invoke-with-ranges.ll
+END
+inttoptr-address-space.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/247313/llvm/trunk/test/Transforms/MergeFunc/inttoptr-address-space.ll
+END
+crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/232184/llvm/trunk/test/Transforms/MergeFunc/crash.ll
+END
+address-spaces.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/MergeFunc/address-spaces.ll
+END
+gep-base-type.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/247570/llvm/trunk/test/Transforms/MergeFunc/gep-base-type.ll
+END
+ptr-int-transitivity-2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/195769/llvm/trunk/test/Transforms/MergeFunc/ptr-int-transitivity-2.ll
+END
+no-merge-ptr-int-different-values.ll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/246001/llvm/trunk/test/Transforms/MergeFunc/no-merge-ptr-int-different-values.ll
+END
+undef-different-types.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/246001/llvm/trunk/test/Transforms/MergeFunc/undef-different-types.ll
+END
+functions.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/210486/llvm/trunk/test/Transforms/MergeFunc/functions.ll
+END
+ranges-multiple.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/246305/llvm/trunk/test/Transforms/MergeFunc/ranges-multiple.ll
+END
+vector-GEP-crash.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/230786/llvm/trunk/test/Transforms/MergeFunc/vector-GEP-crash.ll
+END
+fold-weak.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/239422/llvm/trunk/test/Transforms/MergeFunc/fold-weak.ll
+END
+2011-02-08-RemoveEqual.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/239940/llvm/trunk/test/Transforms/MergeFunc/2011-02-08-RemoveEqual.ll
+END
+merge-const-ptr-and-int.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/246001/llvm/trunk/test/Transforms/MergeFunc/merge-const-ptr-and-int.ll
+END
+ranges.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/244481/llvm/trunk/test/Transforms/MergeFunc/ranges.ll
+END
+crash2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/253168/llvm/trunk/test/Transforms/MergeFunc/crash2.ll
+END
+self-referential-global.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/242337/llvm/trunk/test/Transforms/MergeFunc/self-referential-global.ll
+END
+phi-speculation2.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/176873/llvm/trunk/test/Transforms/MergeFunc/phi-speculation2.ll
+END
+no-merge-block-address-other-function.ll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/llvm-project/!svn/ver/246305/llvm/trunk/test/Transforms/MergeFunc/no-merge-block-address-other-function.ll
+END
+merge-ptr-and-int.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/191786/llvm/trunk/test/Transforms/MergeFunc/merge-ptr-and-int.ll
+END
+alloca.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/266022/llvm/trunk/test/Transforms/MergeFunc/alloca.ll
+END
+apply_function_attributes.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/247313/llvm/trunk/test/Transforms/MergeFunc/apply_function_attributes.ll
+END
+vector.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/Transforms/MergeFunc/vector.ll
+END
+ptr-int-transitivity-1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/195769/llvm/trunk/test/Transforms/MergeFunc/ptr-int-transitivity-1.ll
+END
+ptr-int-transitivity-3.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/195769/llvm/trunk/test/Transforms/MergeFunc/ptr-int-transitivity-3.ll
+END
+merge-different-vector-types.ll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/246001/llvm/trunk/test/Transforms/MergeFunc/merge-different-vector-types.ll
+END
+linkonce_odr.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/239367/llvm/trunk/test/Transforms/MergeFunc/linkonce_odr.ll
+END
+too-small.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/191786/llvm/trunk/test/Transforms/MergeFunc/too-small.ll
+END

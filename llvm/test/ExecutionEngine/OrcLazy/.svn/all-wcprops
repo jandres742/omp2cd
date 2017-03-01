@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/260405/llvm/trunk/test/ExecutionEngine/OrcLazy
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/260405/llvm/trunk/test/ExecutionEngine/OrcLazy/lit.local.cfg
+END
+anonymous_globals.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/234707/llvm/trunk/test/ExecutionEngine/OrcLazy/anonymous_globals.ll
+END
+global_aliases.ll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/249481/llvm/trunk/test/ExecutionEngine/OrcLazy/global_aliases.ll
+END
+hello.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/236506/llvm/trunk/test/ExecutionEngine/OrcLazy/hello.ll
+END
+private_linkage.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/233895/llvm/trunk/test/ExecutionEngine/OrcLazy/private_linkage.ll
+END

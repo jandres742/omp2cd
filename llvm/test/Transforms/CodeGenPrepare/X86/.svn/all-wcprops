@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267767/llvm/trunk/test/Transforms/CodeGenPrepare/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Transforms/CodeGenPrepare/X86/lit.local.cfg
+END
+memset_chk-simplify-nobuiltin.ll
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/llvm-project/!svn/ver/253543/llvm/trunk/test/Transforms/CodeGenPrepare/X86/memset_chk-simplify-nobuiltin.ll
+END
+catchpad-phi-cast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/Transforms/CodeGenPrepare/X86/catchpad-phi-cast.ll
+END
+extend-sink-hoist.ll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/CodeGenPrepare/X86/extend-sink-hoist.ll
+END
+cttz-ctlz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/253574/llvm/trunk/test/Transforms/CodeGenPrepare/X86/cttz-ctlz.ll
+END
+select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/267504/llvm/trunk/test/Transforms/CodeGenPrepare/X86/select.ll
+END
+sink-addrmode.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/263074/llvm/trunk/test/Transforms/CodeGenPrepare/X86/sink-addrmode.ll
+END
+x86-shuffle-sink.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/201668/llvm/trunk/test/Transforms/CodeGenPrepare/X86/x86-shuffle-sink.ll
+END
+sink-addrspacecast.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/230794/llvm/trunk/test/Transforms/CodeGenPrepare/X86/sink-addrspacecast.ll
+END
+fcmp-sinking.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/265264/llvm/trunk/test/Transforms/CodeGenPrepare/X86/fcmp-sinking.ll
+END
+widen_switch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/251857/llvm/trunk/test/Transforms/CodeGenPrepare/X86/widen_switch.ll
+END
+pr27536.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/267767/llvm/trunk/test/Transforms/CodeGenPrepare/X86/pr27536.ll
+END

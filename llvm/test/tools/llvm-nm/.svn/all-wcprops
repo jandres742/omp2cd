@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/llvm-project/!svn/ver/264778/llvm/trunk/test/tools/llvm-nm
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/251718/llvm/trunk/test/tools/llvm-nm/lit.local.cfg
+END
+invalid-input.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/258982/llvm/trunk/test/tools/llvm-nm/invalid-input.test
+END

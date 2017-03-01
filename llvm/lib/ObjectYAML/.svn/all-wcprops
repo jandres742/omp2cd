@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/269442/llvm/trunk/lib/ObjectYAML
+END
+COFFYAML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/263721/llvm/trunk/lib/ObjectYAML/COFFYAML.cpp
+END
+YAML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/262368/llvm/trunk/lib/ObjectYAML/YAML.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/262396/llvm/trunk/lib/ObjectYAML/LLVMBuild.txt
+END
+ELFYAML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/ObjectYAML/ELFYAML.cpp
+END
+MachOYAML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/269442/llvm/trunk/lib/ObjectYAML/MachOYAML.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/269303/llvm/trunk/lib/ObjectYAML/CMakeLists.txt
+END

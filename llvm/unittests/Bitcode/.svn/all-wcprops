@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/llvm-project/!svn/ver/266379/llvm/trunk/unittests/Bitcode
+END
+BitReaderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/266379/llvm/trunk/unittests/Bitcode/BitReaderTest.cpp
+END
+BitstreamWriterTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/264550/llvm/trunk/unittests/Bitcode/BitstreamWriterTest.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/264550/llvm/trunk/unittests/Bitcode/CMakeLists.txt
+END
+BitstreamReaderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/264650/llvm/trunk/unittests/Bitcode/BitstreamReaderTest.cpp
+END

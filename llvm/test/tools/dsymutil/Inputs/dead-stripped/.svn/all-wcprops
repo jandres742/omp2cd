@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/247386/llvm/trunk/test/tools/dsymutil/Inputs/dead-stripped
+END
+1.o
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/247386/llvm/trunk/test/tools/dsymutil/Inputs/dead-stripped/1.o
+END

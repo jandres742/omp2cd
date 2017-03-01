@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/269531/llvm/trunk/test/CodeGen/WebAssembly
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/241520/llvm/trunk/test/CodeGen/WebAssembly/lit.local.cfg
+END
+comparisons_i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269203/llvm/trunk/test/CodeGen/WebAssembly/comparisons_i32.ll
+END
+cfg-stackify.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/cfg-stackify.ll
+END
+call.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/269273/llvm/trunk/test/CodeGen/WebAssembly/call.ll
+END
+non-executable-stack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/257962/llvm/trunk/test/CodeGen/WebAssembly/non-executable-stack.ll
+END
+return-void.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/return-void.ll
+END
+signext-zeroext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/258142/llvm/trunk/test/CodeGen/WebAssembly/signext-zeroext.ll
+END
+select.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/269273/llvm/trunk/test/CodeGen/WebAssembly/select.ll
+END
+load.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/load.ll
+END
+comparisons_i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/269203/llvm/trunk/test/CodeGen/WebAssembly/comparisons_i64.ll
+END
+load-store-i1.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/258142/llvm/trunk/test/CodeGen/WebAssembly/load-store-i1.ll
+END
+i32-load-store-alignment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267082/llvm/trunk/test/CodeGen/WebAssembly/i32-load-store-alignment.ll
+END
+irreducible-cfg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267511/llvm/trunk/test/CodeGen/WebAssembly/irreducible-cfg.ll
+END
+frem.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/257416/llvm/trunk/test/CodeGen/WebAssembly/frem.ll
+END
+f32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/257416/llvm/trunk/test/CodeGen/WebAssembly/f32.ll
+END
+store-results.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/test/CodeGen/WebAssembly/store-results.ll
+END
+legalize.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/legalize.ll
+END
+address-offsets.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/262180/llvm/trunk/test/CodeGen/WebAssembly/address-offsets.ll
+END
+store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/store.ll
+END
+dead-vreg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/258142/llvm/trunk/test/CodeGen/WebAssembly/dead-vreg.ll
+END
+globl.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/globl.ll
+END
+f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/257416/llvm/trunk/test/CodeGen/WebAssembly/f64.ll
+END
+ident.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/ident.ll
+END
+conv.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/conv.ll
+END
+varargs.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/260971/llvm/trunk/test/CodeGen/WebAssembly/varargs.ll
+END
+comparisons_f32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/comparisons_f32.ll
+END
+unreachable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/unreachable.ll
+END
+cpus.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/258295/llvm/trunk/test/CodeGen/WebAssembly/cpus.ll
+END
+return-int32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/return-int32.ll
+END
+comparisons_f64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/comparisons_f64.ll
+END
+vtable.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/vtable.ll
+END
+byval.ll
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/test/CodeGen/WebAssembly/byval.ll
+END
+load-ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/load-ext.ll
+END
+phi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/257083/llvm/trunk/test/CodeGen/WebAssembly/phi.ll
+END
+immediates.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260968/llvm/trunk/test/CodeGen/WebAssembly/immediates.ll
+END
+unused-argument.ll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/257416/llvm/trunk/test/CodeGen/WebAssembly/unused-argument.ll
+END
+i128.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/269531/llvm/trunk/test/CodeGen/WebAssembly/i128.ll
+END
+store-trunc.ll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/store-trunc.ll
+END
+memory-addr32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268255/llvm/trunk/test/CodeGen/WebAssembly/memory-addr32.ll
+END
+i64-load-store-alignment.ll
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/267082/llvm/trunk/test/CodeGen/WebAssembly/i64-load-store-alignment.ll
+END
+offset.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/test/CodeGen/WebAssembly/offset.ll
+END
+fast-isel.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/fast-isel.ll
+END
+returned.ll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/257416/llvm/trunk/test/CodeGen/WebAssembly/returned.ll
+END
+reg-stackify.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/test/CodeGen/WebAssembly/reg-stackify.ll
+END
+memory-addr64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/268255/llvm/trunk/test/CodeGen/WebAssembly/memory-addr64.ll
+END
+func.ll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/258142/llvm/trunk/test/CodeGen/WebAssembly/func.ll
+END
+inline-asm.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/257519/llvm/trunk/test/CodeGen/WebAssembly/inline-asm.ll
+END
+i32.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/264076/llvm/trunk/test/CodeGen/WebAssembly/i32.ll
+END
+global.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/258781/llvm/trunk/test/CodeGen/WebAssembly/global.ll
+END
+switch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/262903/llvm/trunk/test/CodeGen/WebAssembly/switch.ll
+END
+mem-intrinsics.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/269012/llvm/trunk/test/CodeGen/WebAssembly/mem-intrinsics.ll
+END
+i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/264076/llvm/trunk/test/CodeGen/WebAssembly/i64.ll
+END
+userstack.ll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/269083/llvm/trunk/test/CodeGen/WebAssembly/userstack.ll
+END
+offset-folding.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/258693/llvm/trunk/test/CodeGen/WebAssembly/offset-folding.ll
+END
+copysign-casts.ll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/257020/llvm/trunk/test/CodeGen/WebAssembly/copysign-casts.ll
+END

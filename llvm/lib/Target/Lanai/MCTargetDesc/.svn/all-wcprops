@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Lanai/MCTargetDesc
+END
+LanaiFixupKinds.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiFixupKinds.h
+END
+LanaiELFObjectWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiELFObjectWriter.cpp
+END
+LanaiMCTargetDesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiMCTargetDesc.h
+END
+LanaiBaseInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiBaseInfo.h
+END
+LanaiMCAsmInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiMCAsmInfo.cpp
+END
+LanaiMCExpr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiMCExpr.cpp
+END
+LanaiMCAsmInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/266595/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiMCAsmInfo.h
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LLVMBuild.txt
+END
+LanaiMCExpr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiMCExpr.h
+END
+LanaiMCCodeEmitter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiMCCodeEmitter.cpp
+END
+LanaiMCTargetDesc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiMCTargetDesc.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/CMakeLists.txt
+END
+LanaiAsmBackend.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/lib/Target/Lanai/MCTargetDesc/LanaiAsmBackend.cpp
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268967/llvm/trunk/test/Instrumentation/MemorySanitizer/AArch64
+END
+vararg.ll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/268967/llvm/trunk/test/Instrumentation/MemorySanitizer/AArch64/vararg.ll
+END

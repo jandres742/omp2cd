@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/Transforms/LoopUnroll/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/256075/llvm/trunk/test/Transforms/LoopUnroll/AMDGPU/lit.local.cfg
+END
+unroll-barrier.ll
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/260493/llvm/trunk/test/Transforms/LoopUnroll/AMDGPU/unroll-barrier.ll
+END

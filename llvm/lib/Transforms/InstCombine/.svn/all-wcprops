@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/269494/llvm/trunk/lib/Transforms/InstCombine
+END
+InstCombineMulDivRem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/261270/llvm/trunk/lib/Transforms/InstCombine/InstCombineMulDivRem.cpp
+END
+InstCombineLoadStoreAlloca.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/llvm-project/!svn/ver/268809/llvm/trunk/lib/Transforms/InstCombine/InstCombineLoadStoreAlloca.cpp
+END
+InstCombineCompares.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/269439/llvm/trunk/lib/Transforms/InstCombine/InstCombineCompares.cpp
+END
+InstructionCombining.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/269494/llvm/trunk/lib/Transforms/InstCombine/InstructionCombining.cpp
+END
+InstCombineCasts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/268010/llvm/trunk/lib/Transforms/InstCombine/InstCombineCasts.cpp
+END
+InstCombineSimplifyDemanded.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/llvm-project/!svn/ver/268099/llvm/trunk/lib/Transforms/InstCombine/InstCombineSimplifyDemanded.cpp
+END
+InstCombineSelect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/268104/llvm/trunk/lib/Transforms/InstCombine/InstCombineSelect.cpp
+END
+InstCombinePHI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/267139/llvm/trunk/lib/Transforms/InstCombine/InstCombinePHI.cpp
+END
+InstCombineInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/269033/llvm/trunk/lib/Transforms/InstCombine/InstCombineInternal.h
+END
+InstCombineVectorOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/262376/llvm/trunk/lib/Transforms/InstCombine/InstCombineVectorOps.cpp
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/226126/llvm/trunk/lib/Transforms/InstCombine/LLVMBuild.txt
+END
+InstCombineAndOrXor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/268975/llvm/trunk/lib/Transforms/InstCombine/InstCombineAndOrXor.cpp
+END
+InstCombineCalls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/269033/llvm/trunk/lib/Transforms/InstCombine/InstCombineCalls.cpp
+END
+InstCombineShifts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/265970/llvm/trunk/lib/Transforms/InstCombine/InstCombineShifts.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/228798/llvm/trunk/lib/Transforms/InstCombine/CMakeLists.txt
+END
+InstCombineAddSub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/261270/llvm/trunk/lib/Transforms/InstCombine/InstCombineAddSub.cpp
+END

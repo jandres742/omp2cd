@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/249362/llvm/trunk/test/tools/dsymutil/Inputs/submodules
+END
+Parent.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/249362/llvm/trunk/test/tools/dsymutil/Inputs/submodules/Parent.pcm
+END
+1.o
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/249362/llvm/trunk/test/tools/dsymutil/Inputs/submodules/1.o
+END

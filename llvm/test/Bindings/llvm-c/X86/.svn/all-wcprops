@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/240380/llvm/trunk/test/Bindings/llvm-c/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/240380/llvm/trunk/test/Bindings/llvm-c/X86/lit.local.cfg
+END
+disassemble.test
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/240380/llvm/trunk/test/Bindings/llvm-c/X86/disassemble.test
+END

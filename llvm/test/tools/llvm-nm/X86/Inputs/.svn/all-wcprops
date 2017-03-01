@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/264778/llvm/trunk/test/tools/llvm-nm/X86/Inputs
+END
+test.IRobj-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/252567/llvm/trunk/test/tools/llvm-nm/X86/Inputs/test.IRobj-x86_64
+END
+libExample.a.macho-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/llvm-project/!svn/ver/264778/llvm/trunk/test/tools/llvm-nm/X86/Inputs/libExample.a.macho-x86_64
+END
+hello.obj.elf-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/llvm-project/!svn/ver/264247/llvm/trunk/test/tools/llvm-nm/X86/Inputs/hello.obj.elf-x86_64
+END
+hello.obj.macho-x86_64
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/llvm-project/!svn/ver/251718/llvm/trunk/test/tools/llvm-nm/X86/Inputs/hello.obj.macho-x86_64
+END

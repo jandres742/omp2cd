@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/265005/llvm/trunk/test/Analysis/CostModel/PowerPC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Analysis/CostModel/PowerPC/lit.local.cfg
+END
+load_store.ll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/246807/llvm/trunk/test/Analysis/CostModel/PowerPC/load_store.ll
+END
+insert_extract.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/205658/llvm/trunk/test/Analysis/CostModel/PowerPC/insert_extract.ll
+END
+unal-vec-ldst.ll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/246807/llvm/trunk/test/Analysis/CostModel/PowerPC/unal-vec-ldst.ll
+END
+ext.ll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/205658/llvm/trunk/test/Analysis/CostModel/PowerPC/ext.ll
+END
+popcnt.ll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/265005/llvm/trunk/test/Analysis/CostModel/PowerPC/popcnt.ll
+END
+cmp-expanded.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/217859/llvm/trunk/test/Analysis/CostModel/PowerPC/cmp-expanded.ll
+END

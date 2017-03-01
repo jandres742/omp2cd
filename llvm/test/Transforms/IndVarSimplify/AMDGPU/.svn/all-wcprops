@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Transforms/IndVarSimplify/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Transforms/IndVarSimplify/AMDGPU/lit.local.cfg
+END
+no-widen-to-i64.ll
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/llvm-project/!svn/ver/264376/llvm/trunk/test/Transforms/IndVarSimplify/AMDGPU/no-widen-to-i64.ll
+END

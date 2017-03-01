@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/llvm-project/!svn/ver/269558/llvm/trunk
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/264954/llvm/trunk/LICENSE.TXT
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/llvm-project/!svn/ver/258861/llvm/trunk/configure
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/241622/llvm/trunk/.gitignore
+END
+CODE_OWNERS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/llvm-project/!svn/ver/269073/llvm/trunk/CODE_OWNERS.TXT
+END
+llvm.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/llvm-project/!svn/ver/244484/llvm/trunk/llvm.spec.in
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/191835/llvm/trunk/LLVMBuild.txt
+END
+.clang-format
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/202641/llvm/trunk/.clang-format
+END
+.arcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/205696/llvm/trunk/.arcconfig
+END
+.clang-tidy
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/266183/llvm/trunk/.clang-tidy
+END
+CREDITS.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/llvm-project/!svn/ver/269073/llvm/trunk/CREDITS.TXT
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/llvm-project/!svn/ver/256768/llvm/trunk/README.txt
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/268670/llvm/trunk/CMakeLists.txt
+END

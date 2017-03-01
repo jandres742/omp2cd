@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/258861/llvm/trunk/tools/llvm-symbolizer
+END
+llvm-symbolizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/257236/llvm/trunk/tools/llvm-symbolizer/llvm-symbolizer.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/251316/llvm/trunk/tools/llvm-symbolizer/CMakeLists.txt
+END

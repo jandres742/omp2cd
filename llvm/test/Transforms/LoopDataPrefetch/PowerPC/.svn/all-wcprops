@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/261578/llvm/trunk/test/Transforms/LoopDataPrefetch/PowerPC
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/llvm-project/!svn/ver/261578/llvm/trunk/test/Transforms/LoopDataPrefetch/PowerPC/lit.local.cfg
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/261578/llvm/trunk/test/Transforms/LoopDataPrefetch/PowerPC/basic.ll
+END

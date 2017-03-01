@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/269484/llvm/trunk/test/DebugInfo
+END
+dwarfdump-pubnames.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/193872/llvm/trunk/test/DebugInfo/dwarfdump-pubnames.test
+END
+dwarfdump-macho-relocs.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/245807/llvm/trunk/test/DebugInfo/dwarfdump-macho-relocs.test
+END
+dwarfdump-objc.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/219507/llvm/trunk/test/DebugInfo/dwarfdump-objc.test
+END
+arm-relocs.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/205502/llvm/trunk/test/DebugInfo/arm-relocs.test
+END
+skeletoncu.ll
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/skeletoncu.ll
+END
+llvm-symbolizer-zlib.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/209152/llvm/trunk/test/DebugInfo/llvm-symbolizer-zlib.test
+END
+dwarfdump-line-dwo.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/202091/llvm/trunk/test/DebugInfo/dwarfdump-line-dwo.test
+END
+dwarfdump-ranges.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/220466/llvm/trunk/test/DebugInfo/dwarfdump-ranges.test
+END
+llvm-symbolizer.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/267227/llvm/trunk/test/DebugInfo/llvm-symbolizer.test
+END
+dwarfdump-type-units.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/195063/llvm/trunk/test/DebugInfo/dwarfdump-type-units.test
+END
+debuglineinfo.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/238699/llvm/trunk/test/DebugInfo/debuglineinfo.test
+END
+missing-abstract-variable.o
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/219010/llvm/trunk/test/DebugInfo/missing-abstract-variable.o
+END
+dwarfdump-invalid.test
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/240729/llvm/trunk/test/DebugInfo/dwarfdump-invalid.test
+END
+dwarfdump-debug-loc-simple.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/llvm-project/!svn/ver/184362/llvm/trunk/test/DebugInfo/dwarfdump-debug-loc-simple.test
+END
+dwarfdump-dwp.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/254626/llvm/trunk/test/DebugInfo/dwarfdump-dwp.test
+END
+dwo.ll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/266446/llvm/trunk/test/DebugInfo/dwo.ll
+END
+debugmacinfo.test
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/256707/llvm/trunk/test/DebugInfo/debugmacinfo.test
+END
+dwarfdump-macho-universal.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/243872/llvm/trunk/test/DebugInfo/dwarfdump-macho-universal.test
+END
+dwarfdump-dump-flags.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/243778/llvm/trunk/test/DebugInfo/dwarfdump-dump-flags.test
+END
+dwarfdump-zlib.test
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/209152/llvm/trunk/test/DebugInfo/dwarfdump-zlib.test
+END
+member-pointers.o
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/219010/llvm/trunk/test/DebugInfo/member-pointers.o
+END
+dwarfdump-debug-frame-simple.test
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/230551/llvm/trunk/test/DebugInfo/dwarfdump-debug-frame-simple.test
+END
+dwarfdump-64-bit-dwarf.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/238434/llvm/trunk/test/DebugInfo/dwarfdump-64-bit-dwarf.test
+END
+llvm-symbolizer-split-dwarf-empty.test
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/llvm-project/!svn/ver/267281/llvm/trunk/test/DebugInfo/llvm-symbolizer-split-dwarf-empty.test
+END
+dwarfdump-accel.test
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/244481/llvm/trunk/test/DebugInfo/dwarfdump-accel.test
+END
+debuglineinfo-macho.test
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/238699/llvm/trunk/test/DebugInfo/debuglineinfo-macho.test
+END

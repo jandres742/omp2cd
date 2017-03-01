@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/llvm-project/!svn/ver/268762/llvm/trunk/test/MC/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/llvm-project/!svn/ver/239657/llvm/trunk/test/MC/AMDGPU/lit.local.cfg
+END
+mubuf.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/268066/llvm/trunk/test/MC/AMDGPU/mubuf.s
+END
+sopp.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/268762/llvm/trunk/test/MC/AMDGPU/sopp.s
+END
+vop_sdwa.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/267553/llvm/trunk/test/MC/AMDGPU/vop_sdwa.s
+END
+sop1.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/263540/llvm/trunk/test/MC/AMDGPU/sop1.s
+END
+reg-syntax-extra.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/268066/llvm/trunk/test/MC/AMDGPU/reg-syntax-extra.s
+END
+sop2.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/263540/llvm/trunk/test/MC/AMDGPU/sop2.s
+END
+mimg.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/262701/llvm/trunk/test/MC/AMDGPU/mimg.s
+END
+buffer_wbinv1l_vol_vi.s
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264137/llvm/trunk/test/MC/AMDGPU/buffer_wbinv1l_vol_vi.s
+END
+smrd-err.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/252142/llvm/trunk/test/MC/AMDGPU/smrd-err.s
+END
+ds-err.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/268015/llvm/trunk/test/MC/AMDGPU/ds-err.s
+END
+smem.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/263420/llvm/trunk/test/MC/AMDGPU/smem.s
+END
+sopk-err.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/267724/llvm/trunk/test/MC/AMDGPU/sopk-err.s
+END
+vopc.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/244362/llvm/trunk/test/MC/AMDGPU/vopc.s
+END
+sopp-err.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/268762/llvm/trunk/test/MC/AMDGPU/sopp-err.s
+END
+vop_dpp.s
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/265538/llvm/trunk/test/MC/AMDGPU/vop_dpp.s
+END
+sop1-err.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/252142/llvm/trunk/test/MC/AMDGPU/sop1-err.s
+END
+vopc-errs.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/244362/llvm/trunk/test/MC/AMDGPU/vopc-errs.s
+END
+vop1.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/249424/llvm/trunk/test/MC/AMDGPU/vop1.s
+END
+vop2.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/263212/llvm/trunk/test/MC/AMDGPU/vop2.s
+END
+flat.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/262314/llvm/trunk/test/MC/AMDGPU/flat.s
+END
+vop3.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/263006/llvm/trunk/test/MC/AMDGPU/vop3.s
+END
+vop3-vop1-nosrc.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/249424/llvm/trunk/test/MC/AMDGPU/vop3-vop1-nosrc.s
+END
+hsa-text.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/268647/llvm/trunk/test/MC/AMDGPU/hsa-text.s
+END
+hsa_code_object_isa_noargs.s
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/240831/llvm/trunk/test/MC/AMDGPU/hsa_code_object_isa_noargs.s
+END
+vop3-errs.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/llvm-project/!svn/ver/261559/llvm/trunk/test/MC/AMDGPU/vop3-errs.s
+END
+sopc.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/263540/llvm/trunk/test/MC/AMDGPU/sopc.s
+END
+smrd.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/268066/llvm/trunk/test/MC/AMDGPU/smrd.s
+END
+ds.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/261558/llvm/trunk/test/MC/AMDGPU/ds.s
+END
+trap.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/268073/llvm/trunk/test/MC/AMDGPU/trap.s
+END
+out-of-range-registers.s
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/252009/llvm/trunk/test/MC/AMDGPU/out-of-range-registers.s
+END
+flat-scratch.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/256178/llvm/trunk/test/MC/AMDGPU/flat-scratch.s
+END
+hsa.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/268647/llvm/trunk/test/MC/AMDGPU/hsa.s
+END
+vop2-err.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/247074/llvm/trunk/test/MC/AMDGPU/vop2-err.s
+END
+sopk.s
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/llvm-project/!svn/ver/267724/llvm/trunk/test/MC/AMDGPU/sopk.s
+END

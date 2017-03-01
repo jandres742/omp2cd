@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/268896/llvm/trunk/test/MC/Mips/micromips
+END
+invalid.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/llvm-project/!svn/ver/268896/llvm/trunk/test/MC/Mips/micromips/invalid.s
+END
+invalid-wrong-error.s
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/268491/llvm/trunk/test/MC/Mips/micromips/invalid-wrong-error.s
+END

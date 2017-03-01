@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/266818/llvm/trunk/test/Transforms/SafeStack/AArch64
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/248405/llvm/trunk/test/Transforms/SafeStack/AArch64/lit.local.cfg
+END
+abi.ll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/266818/llvm/trunk/test/Transforms/SafeStack/AArch64/abi.ll
+END
+abi_ssp.ll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/llvm-project/!svn/ver/266818/llvm/trunk/test/Transforms/SafeStack/AArch64/abi_ssp.ll
+END

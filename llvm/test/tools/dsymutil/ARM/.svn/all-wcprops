@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/llvm-project/!svn/ver/268894/llvm/trunk/test/tools/dsymutil/ARM
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/246406/llvm/trunk/test/tools/dsymutil/ARM/lit.local.cfg
+END
+scattered.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/259339/llvm/trunk/test/tools/dsymutil/ARM/scattered.c
+END
+thumb.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/268894/llvm/trunk/test/tools/dsymutil/ARM/thumb.c
+END
+fat-arch-name.test
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/245991/llvm/trunk/test/tools/dsymutil/ARM/fat-arch-name.test
+END
+inlined-low_pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/246406/llvm/trunk/test/tools/dsymutil/ARM/inlined-low_pc.c
+END
+dummy-debug-map.map
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/267249/llvm/trunk/test/tools/dsymutil/ARM/dummy-debug-map.map
+END
+empty-map.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/245988/llvm/trunk/test/tools/dsymutil/ARM/empty-map.test
+END
+fat-arch-not-found.test
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/244269/llvm/trunk/test/tools/dsymutil/ARM/fat-arch-not-found.test
+END
+dummy-debug-map-amr64.map
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/llvm-project/!svn/ver/246406/llvm/trunk/test/tools/dsymutil/ARM/dummy-debug-map-amr64.map
+END

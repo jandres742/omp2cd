@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/262646/llvm/trunk/test/Transforms/SeparateConstOffsetFromGEP/NVPTX
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/llvm-project/!svn/ver/210496/llvm/trunk/test/Transforms/SeparateConstOffsetFromGEP/NVPTX/lit.local.cfg
+END
+split-gep-and-gvn.ll
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/llvm-project/!svn/ver/245003/llvm/trunk/test/Transforms/SeparateConstOffsetFromGEP/NVPTX/split-gep-and-gvn.ll
+END
+split-gep.ll
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/llvm-project/!svn/ver/244937/llvm/trunk/test/Transforms/SeparateConstOffsetFromGEP/NVPTX/split-gep.ll
+END

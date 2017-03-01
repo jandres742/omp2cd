@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/268965/llvm/trunk/test/LTO/X86/Inputs
+END
+invalid.ll.bc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/255778/llvm/trunk/test/LTO/X86/Inputs/invalid.ll.bc
+END
+bcsection.macho.s
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/llvm-project/!svn/ver/262245/llvm/trunk/test/LTO/X86/Inputs/bcsection.macho.s
+END
+strip-debug-info.bc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/268965/llvm/trunk/test/LTO/X86/Inputs/strip-debug-info.bc
+END
+list-symbols.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/Inputs/list-symbols.ll
+END
+bcsection.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/llvm-project/!svn/ver/227564/llvm/trunk/test/LTO/X86/Inputs/bcsection.s
+END

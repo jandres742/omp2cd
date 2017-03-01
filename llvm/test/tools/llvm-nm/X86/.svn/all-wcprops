@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/llvm-project/!svn/ver/264778/llvm/trunk/test/tools/llvm-nm/X86
+END
+externalonly.test
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/251718/llvm/trunk/test/tools/llvm-nm/X86/externalonly.test
+END
+IRobj.test
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/252567/llvm/trunk/test/tools/llvm-nm/X86/IRobj.test
+END
+groupingflags.test
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/251864/llvm/trunk/test/tools/llvm-nm/X86/groupingflags.test
+END
+posixELF.test
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/llvm-project/!svn/ver/264778/llvm/trunk/test/tools/llvm-nm/X86/posixELF.test
+END
+posixMachO.test
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264778/llvm/trunk/test/tools/llvm-nm/X86/posixMachO.test
+END
+radix.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/llvm-project/!svn/ver/260464/llvm/trunk/test/tools/llvm-nm/X86/radix.s
+END
+posixArchiveMachO.test
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/llvm-project/!svn/ver/264778/llvm/trunk/test/tools/llvm-nm/X86/posixArchiveMachO.test
+END

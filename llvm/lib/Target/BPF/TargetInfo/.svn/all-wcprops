@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/llvm-project/!svn/ver/258861/llvm/trunk/lib/Target/BPF/TargetInfo
+END
+LLVMBuild.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/llvm-project/!svn/ver/227008/llvm/trunk/lib/Target/BPF/TargetInfo/LLVMBuild.txt
+END
+BPFTargetInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/llvm-project/!svn/ver/239162/llvm/trunk/lib/Target/BPF/TargetInfo/BPFTargetInfo.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/llvm-project/!svn/ver/227008/llvm/trunk/lib/Target/BPF/TargetInfo/CMakeLists.txt
+END

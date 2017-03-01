@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/240374/llvm/trunk/test/tools/llvm-cxxdump/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/llvm-project/!svn/ver/240368/llvm/trunk/test/tools/llvm-cxxdump/X86/lit.local.cfg
+END
+sym-size.s
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/240374/llvm/trunk/test/tools/llvm-cxxdump/X86/sym-size.s
+END

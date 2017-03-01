@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/SimplifyCFG/AMDGPU
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/SimplifyCFG/AMDGPU/lit.local.cfg
+END
+cttz-ctlz.ll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/llvm-project/!svn/ver/240143/llvm/trunk/test/Transforms/SimplifyCFG/AMDGPU/cttz-ctlz.ll
+END

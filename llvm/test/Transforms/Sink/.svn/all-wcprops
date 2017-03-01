@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/llvm-project/!svn/ver/267199/llvm/trunk/test/Transforms/Sink
+END
+convergent.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/267199/llvm/trunk/test/Transforms/Sink/convergent.ll
+END
+basic.ll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/llvm-project/!svn/ver/267199/llvm/trunk/test/Transforms/Sink/basic.ll
+END
+landingpad.ll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/llvm-project/!svn/ver/253182/llvm/trunk/test/Transforms/Sink/landingpad.ll
+END
+catchswitch.ll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/llvm-project/!svn/ver/255422/llvm/trunk/test/Transforms/Sink/catchswitch.ll
+END

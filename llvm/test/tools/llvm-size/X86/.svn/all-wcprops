@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/llvm-project/!svn/ver/264591/llvm/trunk/test/tools/llvm-size/X86
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/260293/llvm/trunk/test/tools/llvm-size/X86/lit.local.cfg
+END
+test-common.s
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/llvm-project/!svn/ver/264591/llvm/trunk/test/tools/llvm-size/X86/test-common.s
+END
+ignore-sections.s
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/llvm-project/!svn/ver/260293/llvm/trunk/test/tools/llvm-size/X86/ignore-sections.s
+END

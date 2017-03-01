@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/llvm-project/!svn/ver/265032/llvm/trunk/test/MC/Lanai
+END
+lit.local.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/test/MC/Lanai/lit.local.cfg
+END
+ctrl-instructions.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/llvm-project/!svn/ver/265032/llvm/trunk/test/MC/Lanai/ctrl-instructions.s
+END
+v11.s
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/llvm-project/!svn/ver/264578/llvm/trunk/test/MC/Lanai/v11.s
+END
