@@ -13,11 +13,15 @@ USA
 Jaime Arteaga
 jaime@udel.edu
 
+Download:
+https://github.com/jandres742/omp2cd
+
 Citation:
-Jaime A Arteaga Molina, Stephane Zuckerman, Guang R. Gao
-"Multigrain Parallelism: Bridging Coarse-Grain Parallel Programs and Fine-Grain
-Event-Driven Multithreading"
-2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS 2017)
+Jaime Arteagaa, Stephane Zuckerman, Guang R. Gao
+"Multigrain Parallelism: Bridging Coarse-Grain Parallel
+Programs and Fine-Grain Event-Driven Multithreading"
+2017 IEEE International Parallel and Distributed Processing
+Symposium (IPDPS 2017)
 May 2017
 ====================================================
 
