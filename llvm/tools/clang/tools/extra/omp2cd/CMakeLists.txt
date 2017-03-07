@@ -1,0 +1,44 @@
+set(LLVM_LINK_COMPONENTS
+  Support
+  )
+
+add_clang_executable(
+  omp2cd
+  omp2cd-main.cpp
+  src/omp2cd-utils.cpp
+  src/BaseVisitor/BaseVisitor.cpp
+  src/Preprocessor/Preprocessor.cpp
+  src/Compiler/ASTVisit.cpp
+  src/Compiler/ProcessVisitor.cpp
+  src/CodeGen/PrintCode.cpp
+  src/CodeGen/printTPDef.cpp
+  src/CodeGen/printTPConstructor.cpp
+  src/CodeGen/printTPDestructor.cpp
+  src/DFG/DFG.cpp
+  src/DFG/RegionList.cpp
+  src/DFG/NodeList.cpp
+  src/DFG/DFGNode.cpp
+  src/DFG/LoopCondNode.cpp
+  src/DFG/AtomicNode.cpp
+  src/DFG/LoopInfo.cpp
+  src/DFG/TaskInfo.cpp
+  src/DFG/TPRegion.cpp
+  src/DFG/FunctionInfo.cpp
+  src/DFG/BarrierCodelets.cpp
+  src/DFG/CheckInCodelets.cpp
+  src/DFG/TPLoopsCodelets.cpp
+  src/DFG/OMPCodeletsFireCode.cpp
+  src/DFG/BranchInfo.cpp
+  src/DFG/CopyPrivateClause.cpp
+  src/DFG/CopyinClause.cpp
+  )
+  
+target_link_libraries(
+  omp2cd
+  clangAST
+  clangASTMatchers
+  clangBasic
+  clangFrontend
+  clangTooling
+  clangRewrite
+  )

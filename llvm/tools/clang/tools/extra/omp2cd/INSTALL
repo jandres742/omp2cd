@@ -1,0 +1,68 @@
+====================================================
+omp2cd: An OpenMP to Codelets Compiler based on Clang
+
+v1.0
+March 1, 2017
+
+CAPSL: Computer Architectures and Parallel Systems Laboratory
+University of Delaware
+Newark, DE
+19716
+USA
+
+Jaime Arteaga
+jaime@udel.edu
+
+Download:
+https://github.com/jandres742/omp2cd
+
+Citation:
+Jaime Arteagaa, Stephane Zuckerman, Guang R. Gao
+"Multigrain Parallelism: Bridging Coarse-Grain Parallel
+Programs and Fine-Grain Event-Driven Multithreading"
+2017 IEEE International Parallel and Distributed Processing
+Symposium (IPDPS 2017)
+May 2017
+====================================================
+
+====================================================
+Intel's OpenMP Runtime:
+Follow the directions from http://openmp.llvm.org/
+====================================================
+
+====================================================
+cmake:
+
+1. git clone git://cmake.org/stage/cmake.git
+2. cd cmake
+3. git checkout next
+4. ./bootstrap
+5. make
+6. make install
+====================================================
+
+====================================================
+ninja:
+
+1. git clone https://github.com/martine/ninja.git
+2. cd ninja
+3. git checkout release
+4. ./bootstrap.py
+5. cp ninja $FOLDER_OF_YOUR_CHOICE
+====================================================
+
+====================================================
+llvm:
+We are assuming your directory tree looks like this:
+-omp2cd
+--llvm
+--darts
+
+OMP2CDDIR=Location of the omp2cd directory
+
+cd $OMP2CDDIR
+mkdir build && cd build
+cmake -G Ninja ../llvm -DLLVM_BUILD_TESTS=ON
+ninja
+ninja install
+====================================================

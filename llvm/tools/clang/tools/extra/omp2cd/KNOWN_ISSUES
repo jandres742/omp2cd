@@ -1,0 +1,20 @@
+
+====================================================
+"ordered" clause is not identified for structured blocks inside a (parallel) for:
+
+#pragma omp parallel for ordered schedule(static) /*Identified*/
+for (i = 0; i < N; i += 1) {
+	
+	fprintf(stderr, "not ordered: i = %d by %d\n", i, omp_get_thread_num());
+	
+	#pragma omp ordered /*Not identified*/
+		fprintf(stderr, "ordered: i = %d by %d\n", i, omp_get_thread_num());
+}
+
+Because of this, we cannot support it currently.
+====================================================
+
+====================================================
+It is better to have all declarations and preprocessor directives in a header file and not in the
+same source file.
+====================================================
