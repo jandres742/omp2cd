@@ -60,7 +60,6 @@ include_directories(include/abstractmachine
 )
 
 option(DEBUG "DEBUG" OFF)
-#option(DEBUG "DEBUG" ON)
 if(DEBUG)
 message("DEBUG VERSION!!!")
 set (CMAKE_BUILD_TYPE "DEBUG")
@@ -74,10 +73,10 @@ endif()
 #LINK_DIRECTORIES(/opt/shared/atlas/3.10.2/lib /usr/lib )
 
 #Select this for DEBUG
-#set (CMAKE_CXX_FLAGS_DEBUG "-g -std=c++0x -Wall -O3 -pg -lm -lsatlas -DNDEBUG ") 
+set (CMAKE_CXX_FLAGS_DEBUG "-g -std=c++0x -Wall -O3 -pg -lm") 
 
 #Select this for RELEASE
-set (CMAKE_CXX_FLAGS_RELEASE "-std=c++0x -Wall -O3 -lm -DNSDEBUG")
+set (CMAKE_CXX_FLAGS_RELEASE "-std=c++0x -Wall -O3 -lm -DNDEBUG")
 
 #Select this for RELEASE if you have added the path to ATLAS
 #set (CMAKE_CXX_FLAGS_RELEASE "-std=c++0x -Wall -O3 -lm -lsatlas -DNSDEBUG")
