@@ -30,8 +30,7 @@ fine-grain applications from OpenMP programs. Currently,
 output applications are generated for DARTS and
 SWARM runtimes.
 
-omp2cd is a free software and distributed under BSD license.
-See LICENSE file.
+omp2cd is a free software. See LICENSE file.
 
 ====================================================
 A summary of the current support on omp2cd follows:
