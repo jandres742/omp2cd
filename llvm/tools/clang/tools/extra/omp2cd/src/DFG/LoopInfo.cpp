@@ -659,7 +659,8 @@ void LoopInfo::printRequestIterationsFunctionDef(
 }
 
 void LoopInfo::printRequestIterationsFunctionImpl(
-    omp2cd_space::DFGNode* loopNode, std::ostringstream& outputStream, int parentRegionID)
+    omp2cd_space::DFGNode* loopNode, std::ostringstream& outputStream, int parentRegionID,
+	TPRegion* region)
 {
     bool atLeastOneLastPrivate = false;
     for (auto var : loopNode->ompInputs) {
@@ -673,8 +674,8 @@ void LoopInfo::printRequestIterationsFunctionImpl(
     string loopLimit = "";
 
     if (DARTS_BACKEND) {
-        loopInit = this->getForStmtInit(loopNode, "this->", "[this->getID()]");
-        loopLimit = this->getForStmtLimit(loopNode, "this->", "[this->getID()]");
+        loopInit = this->getForStmtInit(loopNode, "this->", "[codeletID]");
+        loopLimit = this->getForStmtLimit(loopNode, "this->", "[codeletID]");
     } else if (SWARM_BACKEND) {
         loopInit = this->getForStmtInit(loopNode, "", "[codeletID]");
         loopLimit = this->getForStmtLimit(loopNode, "", "[codeletID]");
@@ -713,6 +714,15 @@ void LoopInfo::printRequestIterationsFunctionImpl(
     }
 
     outputStream << ")\n{\n";
+
+	if (region->isInlinedRegion()){
+		int loopID = region->getID();
+		outputStream << "initIteration" << loopID << " = " << loopInit << ";\n"
+					 << "lastIteration" << loopID << " = " << loopLimit << ";\n";
+		outputStream << "/*Calculating the loop params for inlined region "
+			<< region->getID() << " that were otherwise calculated in the constructor*/\n";
+		this->printLoopParamInitialization(outputStream, region);
+	}
 
     outputStream << "/*Scheduling Policy = ";
     if (get<0>(this->schedulingPolicy) == 0)
@@ -1804,9 +1814,6 @@ void LoopInfo::createPrologue(std::vector<std::string>& varNamesToDeclare,
             dereferenceSymbol, parentRegion, parentNode, prologueStream, fireStmtStream,
             fireCodeStream);
 
-    if (parentRegion->isInlinedRegion())
-        return;
-
     bool atLeastOneLastPrivate = false;
     for (auto var : parentRegion->mainNode->ompInputs) {
         if (get<1>(var.second) == OMP_LASTPRIVATE) {
@@ -1865,17 +1872,10 @@ void LoopInfo::createForStmt(
     localLoopVarInit += this->localLoopVarStr;
     localLoopVarInit += " = ";
 
-    if (parentRegion->isInlinedRegion() == false) {
-        if (DARTS_BACKEND)
-            localLoopVarInit += this->transformedLoopVarStr;
-        else if (SWARM_BACKEND)
-            localLoopVarInit += "startRange";
-    } else {
-        string loopInit
-            = this->getForStmtInit(parentRegion->getMainNode(), "myTP->", "[this->getID()]");
-        if (DARTS_BACKEND)
-            localLoopVarInit += loopInit;
-    }
+	if (DARTS_BACKEND)
+		localLoopVarInit += this->transformedLoopVarStr;
+	else if (SWARM_BACKEND)
+		localLoopVarInit += "startRange";
 
 /*Use the localID instead of the global one obtained with getID()
 This is mainly for balanced OMPFor regions, where localID is different
@@ -1895,22 +1895,15 @@ to the global one. Under any other circumstances, both are the same*/
         pos = localLoopVarIncr.find(this->transformedLoopVarStr);
     }
 
-    if (parentRegion->isInlinedRegion() == false) {
-        fireStmtStream << "for (" << localLoopVarInit << ";" << this->localLoopVarStr
-                       << this->loopCondOpcode << "endRange && " << this->localLoopVarStr
-                       << this->loopCondOpcode;
+	fireStmtStream << "for (" << localLoopVarInit << ";" << this->localLoopVarStr
+				   << this->loopCondOpcode << "endRange && " << this->localLoopVarStr
+				   << this->loopCondOpcode;
 
-        if (DARTS_BACKEND)
-            fireStmtStream << DARTS_PREFIXSTR_DEFAULT;
+	if (DARTS_BACKEND)
+		fireStmtStream << DARTS_PREFIXSTR_DEFAULT;
 
-        fireStmtStream << "lastIteration" << parentRegion->getID() << ";" << localLoopVarIncr
-                       << ")\n";
-    } else {
-        string loopLimit
-            = this->getForStmtLimit(parentRegion->getMainNode(), "myTP->", "[this->getID()]");
-        fireStmtStream << "for (" << localLoopVarInit << ";" << this->localLoopVarStr
-                       << this->loopCondOpcode << loopLimit << ";" << localLoopVarIncr << ")\n";
-    }
+	fireStmtStream << "lastIteration" << parentRegion->getID() << ";" << localLoopVarIncr
+				   << ")\n";
 }
 
 void LoopInfo::printFireCode(std::ostringstream& outputStream, TPRegion* parentRegion,
@@ -1950,10 +1943,12 @@ void LoopInfo::printFireCode(std::ostringstream& outputStream, TPRegion* parentR
     this->replaceVarsForPtrs(
         varNamesToDeclare, varNamesToChange, dereferenceSymbol, node, fireCodeStream);
 
+	if (parentRegion->isInlinedRegion())
+		this->replaceLoopVarForLocal(this->initNode, fireCodeStream);
+
     /*Arrage everything in the output stream */
     outputStream << prologueStream.str();
 
-    if (parentRegion->isInlinedRegion() == false) {
         if (get<0>(this->schedulingPolicy) != STATIC_SCHED)
             outputStream << "while(isThereNewIteration)\n{\n";
 
@@ -1967,61 +1962,57 @@ void LoopInfo::printFireCode(std::ostringstream& outputStream, TPRegion* parentR
             outputStream << "}\n"
                          << "} else {\n";
         }
-    }
 
     outputStream << fireStmtStream.str() << "{\n" << fireCodeStream.str() << "}\n";
 
-    if (parentRegion->isInlinedRegion() == false) {
+	if (atLeastOneLastPrivate)
+		outputStream << "}\n";
 
-        if (atLeastOneLastPrivate)
-            outputStream << "}\n";
+	if (get<0>(this->schedulingPolicy) != STATIC_SCHED) {
+		if (get<0>(this->schedulingPolicy) == RUNTIME_SCHED) {
 
-        if (get<0>(this->schedulingPolicy) != STATIC_SCHED) {
-            if (get<0>(this->schedulingPolicy) == RUNTIME_SCHED) {
+			if (DARTS_BACKEND) {
+				outputStream << "/*dont ask for more iterations if the scheduling "
+							 << "selected at runtime is static*/\n"
+							 << "if(" << DARTS_PREFIXSTR_DEFAULT << "ompLoopSched"
+							 << parentRegion->getID() << " == 1)\n"
+							 << "break;\n";
+			} else if (SWARM_BACKEND) {
+				outputStream << "/*dont ask for more iterations if the scheduling "
+							 << "selected at runtime is static*/\n"
+							 << "if(ompLoopSched" << parentRegion->getID() << " == 1)\n"
+							 << "break;\n";
+			}
+		}
 
-                if (DARTS_BACKEND) {
-                    outputStream << "/*dont ask for more iterations if the scheduling "
-                                 << "selected at runtime is static*/\n"
-                                 << "if(" << DARTS_PREFIXSTR_DEFAULT << "ompLoopSched"
-                                 << parentRegion->getID() << " == 1)\n"
-                                 << "break;\n";
-                } else if (SWARM_BACKEND) {
-                    outputStream << "/*dont ask for more iterations if the scheduling "
-                                 << "selected at runtime is static*/\n"
-                                 << "if(ompLoopSched" << parentRegion->getID() << " == 1)\n"
-                                 << "break;\n";
-                }
-            }
+		if (DARTS_BACKEND) {
+			outputStream << "isThereNewIteration = " << DARTS_PREFIXSTR_DEFAULT
+						 << "requestNewRangeIterations" << parentRegion->getID()
+						 << "(&(this->endRange), this->getLocalID()";
 
-            if (DARTS_BACKEND) {
-                outputStream << "isThereNewIteration = " << DARTS_PREFIXSTR_DEFAULT
-                             << "requestNewRangeIterations" << parentRegion->getID()
-                             << "(&(this->endRange), this->getLocalID()";
+			if (atLeastOneLastPrivate)
+				outputStream << ", &containsLastIteration";
 
-                if (atLeastOneLastPrivate)
-                    outputStream << ", &containsLastIteration";
+			outputStream << ");\n";
+		} else if (SWARM_BACKEND) {
+			outputStream << "isThereNewIteration = "
+						 << "requestNewRangeIterations" << parentRegion->getID()
+						 << "(&startRange, &endRange, codeletID";
 
-                outputStream << ");\n";
-            } else if (SWARM_BACKEND) {
-                outputStream << "isThereNewIteration = "
-                             << "requestNewRangeIterations" << parentRegion->getID()
-                             << "(&startRange, &endRange, codeletID";
+			if (atLeastOneLastPrivate)
+				outputStream << ", &containsLastIteration";
 
-                if (atLeastOneLastPrivate)
-                    outputStream << ", &containsLastIteration";
+			outputStream << ");\n";
+		}
 
-                outputStream << ");\n";
-            }
+		outputStream << "}\n";
+	}
 
-            outputStream << "}\n";
-        }
+	node->replaceReductionVarInFireCode(outputStream, parentRegion);
 
-        node->replaceReductionVarInFireCode(outputStream, parentRegion);
-
-        /*Update the reduction variables if any */
-        if (parentRegion->getLoopInfo()->reductionVars.size() > 0)
-            node->updateGlobalReductionVars(outputStream, parentRegion);
-    }
+	/*Update the reduction variables if any */
+	if (parentRegion->getLoopInfo()->reductionVars.size() > 0)
+		node->updateGlobalReductionVars(outputStream, parentRegion);
 }
 
 void LoopInfo::printTPLoopFireCode(
@@ -2099,6 +2090,10 @@ void LoopInfo::printLoopParamInitialization(std::ostringstream& outputStream, TP
 
     if (get<0>(this->schedulingPolicy) == STATIC_SCHED
         || get<0>(this->schedulingPolicy) == RUNTIME_SCHED) {
+
+		if (get<0>(this->schedulingPolicy) == RUNTIME_SCHED)
+            outputStream << "if(ompLoopSched" << loopID << " == 1){\n";
+
         outputStream << "range" << loopID << " = "
                      << "abs (lastIteration" << loopID << " - initIteration" << loopID << ") / "
                      << this->incrVal << ";\n"
@@ -2122,11 +2117,31 @@ void LoopInfo::printLoopParamInitialization(std::ostringstream& outputStream, TP
             outputStream << "range" << loopID << " % numThreads;\n";
         else if (SWARM_BACKEND)
             outputStream << "range" << loopID << " % numThreads" << loopID << ";\n";
+
+		if (get<0>(this->schedulingPolicy) == RUNTIME_SCHED)
+            outputStream << "}\n";
     }
 
     if (get<0>(this->schedulingPolicy) == DYNAMIC_SCHED
         || get<0>(this->schedulingPolicy) == RUNTIME_SCHED) {
-        outputStream << "nextIteration" << loopID << " = initIteration" << loopID << ";\n";
+
+		if (get<0>(this->schedulingPolicy) == RUNTIME_SCHED)
+            outputStream << "else if(ompLoopSched" << loopID << " == 2){\n";
+
+		if (DARTS_BACKEND) {
+			if (region->isInlinedRegion())
+				outputStream << "if(__sync_bool_compare_and_swap(&TP"
+                             << loopID << "_alreadyLaunched, 0, 1) == 1){\n";
+
+			outputStream << "nextIteration" << loopID << " = initIteration" << loopID << ";\n";
+
+			if (region->isInlinedRegion())
+				outputStream << "}\n"
+                             << "while(nextIteration" << loopID << " == INT_MAX *(-1));\n";
+		}
+
+		if (get<0>(this->schedulingPolicy) == RUNTIME_SCHED)
+            outputStream << "}\n";
     }
 }
 }

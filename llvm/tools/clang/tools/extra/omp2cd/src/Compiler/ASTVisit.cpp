@@ -880,9 +880,7 @@ bool ompASTVisitor::VisitOMPExecutableDirective(OMPExecutableDirective* s)
             DFGNode* ompNode = this->currentNode;
             if (ompNode && ompNode->getTaskInfo()) {
                 OMPDependClause* dependClause = dyn_cast<OMPDependClause>(clause);
-
                 int depType = (unsigned int)(dependClause->getDependencyKind());
-
                 for (OMPDependClause::varlist_iterator I = dependClause->varlist_begin();
                      I != dependClause->varlist_end(); ++I) {
                     string ostreamString;
@@ -891,15 +889,15 @@ bool ompASTVisitor::VisitOMPExecutableDirective(OMPExecutableDirective* s)
 
                     string varName = rawStringOStream.str();
                     ompNode->getTaskInfo()->insertDependClauseVar(varName, depType);
-                    DFGNode* previousTaskNode
-                        = this->findDependencyInPreviousTask(varName, depType);
+					std::vector<DFGNode*> taskVector;
 
-                    if (previousTaskNode) {
+                    this->findDependencyInPreviousTask(this->currentNode->prev, varName, depType, taskVector);
+
+					for(DFGNode *previousTaskNode: taskVector) {
                         ompNode->getTaskInfo()->insertInputDependencyNode(previousTaskNode);
                         previousTaskNode->getTaskInfo()->insertOutputDependencyNode(ompNode);
                     }
                 }
-
                 this->insertDependTaskNode(ompNode);
             }
         }
@@ -915,55 +913,57 @@ bool ompASTVisitor::VisitOMPExecutableDirective(OMPExecutableDirective* s)
     return true;
 }
 
-DFGNode* ompASTVisitor::findDependencyInPreviousTask(std::string varName, unsigned int depType)
+void ompASTVisitor::findDependencyInPreviousTask(DFGNode *node, std::string varName,
+	unsigned int depType, std::vector<DFGNode*> &taskVector)
 {
+	unsigned int depType1 = 0, depType2 = 0;
+	if (depType == 0) {
+		depType1 = 1;
+		depType2 = 2;
+	} else if (depType == 1) {
+		depType1 = 0;
+		depType2 = 2;
+	} else {
+		depType1 = 0;
+		depType2 = 1;
+	}
+	(void)depType1;
+	(void)depType2;
 
-    DFGNode* taskNode = nullptr;
-
-    /*Current dependency is in, therefore we need to look for previous tasks having
-    same variable but with out or inout.*/
-    if (depType == 0) {
-        for (std::vector<DFGNode*>::reverse_iterator it = this->dependTaskNodes.rbegin();
-             it < this->dependTaskNodes.rend(); it++) {
-
-            taskNode = *it;
-            bool found = taskNode->getTaskInfo()->findDependClauseVar(varName, 1);
-            if (found == false)
-                found = taskNode->getTaskInfo()->findDependClauseVar(varName, 2);
-            if (found)
-                break;
-        }
-    }
-    /*Current dependency is out, therefore we need to look for previous tasks having
-    same variable but with in or inout.*/
-    else if (depType == 1) {
-        for (std::vector<DFGNode*>::reverse_iterator it = this->dependTaskNodes.rbegin();
-             it < this->dependTaskNodes.rend(); it++) {
-
-            taskNode = *it;
-            bool found = taskNode->getTaskInfo()->findDependClauseVar(varName, 0);
-            if (found == false)
-                found = taskNode->getTaskInfo()->findDependClauseVar(varName, 2);
-            if (found)
-                break;
-        }
-    }
-    /*Current dependency is inout, therefore we need to look for previous tasks having
-    same variable but with in or out.*/
-    else if (depType == 2) {
-        for (std::vector<DFGNode*>::reverse_iterator it = this->dependTaskNodes.rbegin();
-             it < this->dependTaskNodes.rend(); it++) {
-
-            taskNode = *it;
-            bool found = taskNode->getTaskInfo()->findDependClauseVar(varName, 0);
-            if (found == false)
-                found = taskNode->getTaskInfo()->findDependClauseVar(varName, 1);
-            if (found)
-                break;
-        }
-    }
-
-    return taskNode;
+	DFGNode* prevNode = node;
+	while(prevNode){
+		if(check_isa<IfStmt>(prevNode->getStmt())){
+			DFGNode *ifNode = prevNode->myNodes.head;
+			if(ifNode){
+				this->findDependencyInPreviousTask(ifNode->myNodes.tail, varName,
+					depType, taskVector);
+				DFGNode *elseNode = ifNode->next;
+				if(elseNode){
+					this->findDependencyInPreviousTask(elseNode->myNodes.tail, varName,
+						depType, taskVector);
+				}
+			}
+		} else if(check_isa<ForStmt>(prevNode->getStmt())){
+			if (prevNode->myNodes.size() > 0) {
+				DFGNode *bodyNode = prevNode->myNodes.front();
+				while(check_isa<CompoundStmt>(bodyNode->getStmt()))
+					bodyNode = bodyNode->myNodes.front();
+				if(bodyNode){
+					this->findDependencyInPreviousTask(bodyNode->myNodes.tail, varName,
+						depType, taskVector);
+				}
+			}
+		} else if(check_isa<OMPTaskDirective>(prevNode->getStmt())){
+			bool found = prevNode->getTaskInfo()->findDependClauseVar(varName, depType1);
+			if (found == false)
+				found = prevNode->getTaskInfo()->findDependClauseVar(varName, depType2);
+			if (found){
+				taskVector.push_back(prevNode);
+				break;
+			}
+		}
+		prevNode = prevNode->prev;
+	}
 }
 
 bool ompASTVisitor::VisitOMPTaskDirective(clang::OMPTaskDirective* s)

@@ -96,7 +96,7 @@ public:
 
     void addNewVarToTable(clang::VarDecl* d);
 
-    DFGNode* findDependencyInPreviousTask(std::string varName, unsigned int depType);
+    void findDependencyInPreviousTask(DFGNode *node, std::string varName, unsigned int depType, std::vector<DFGNode*> &taskVector);
 
     void generateFineGrainCode();
     void generateRegions(TPRegion* parentRegion, DFGNode* node);

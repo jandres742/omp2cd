@@ -45,8 +45,7 @@ void ompASTVisitor::printTPDef(TPRegion* region, std::ostringstream& TPStream)
     /*print any functions the inlined regions need*/
     for (TPRegion* inlinedChildRegion : region->inlinedRegions) {
         /*if the inlined region is an ompfor, print the iterationrequest function implementation*/
-        if (inlinedChildRegion->isOMPFor()
-            && inlinedChildRegion->getMainNode()->ompExtensionClause->codelet == false) {
+        if (inlinedChildRegion->isOMPFor()) {
             inlinedChildRegion->getLoopInfo()->printRequestIterationsFunctionDef(
                 inlinedChildRegion->getMainNode(), TPStream);
         }

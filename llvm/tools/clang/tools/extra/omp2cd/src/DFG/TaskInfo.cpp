@@ -160,6 +160,25 @@ void TaskInfo::printEncapsulateTaskData(std::ostringstream& outputStream)
 #endif
 
     if (DARTS_BACKEND) {
+
+		/*Print pointers to the completed flag of tasks this task depends on*/
+        for (DFGNode* inDepNode : this->inputDependencyNodes) {
+
+			ostringstream depTaskStream;
+			depTaskStream << DARTS_PREFIXSTR_DEFAULT << "task" << inDepNode->getID()
+                         << "Inputs[";
+            if (parentRegion->singleThreaded == false)
+                depTaskStream << "this->getID()";
+            else
+                depTaskStream << "0";
+            depTaskStream << "]";
+
+			outputStream << "bool *dep" << inDepNode->getID() << " = nullptr;\n"
+						 << "if(" << depTaskStream.str() << " != nullptr)\n"
+						 << "dep" << inDepNode->getID() << " = &(" << depTaskStream.str()
+						 << "->taskCompleted);\n";
+        }
+
         outputStream << "_task" << taskNode->getID() << "Inputs *"
                      << "task" << taskNode->getID() << "Inputs ";
         outputStream << " = new _task" << taskNode->getID() << "Inputs(";
@@ -193,14 +212,7 @@ void TaskInfo::printEncapsulateTaskData(std::ostringstream& outputStream)
             if (printComma || taskNode->ompInputs.size() > 0)
                 outputStream << ", ";
             printComma = true;
-            outputStream << "&(" << DARTS_PREFIXSTR_DEFAULT << "task" << inDepNode->getID()
-                         << "Inputs[";
-            if (parentRegion->singleThreaded == false)
-                outputStream << "this->getID()";
-            else
-                outputStream << "0";
-
-            outputStream << "]->taskCompleted)";
+            outputStream << "dep" << inDepNode->getID();
         }
 
         if (printComma || taskNode->ompInputs.size() > 0)

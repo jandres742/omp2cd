@@ -328,9 +328,10 @@ void TPRegion::printCheckInCodeletFire(std::ostringstream& outputStream)
     int myTPID = parentRegion->getID();
 
     if (check_isa<ForStmt>(this->getStmt()) && (parentRegion->isOMPFor())
-        && parentRegion->getMainNode()->ompExtensionClause->codelet == false)
-        parentRegion->getLoopInfo()->printRequestIterationsFunctionImpl(
-            parentRegion->getMainNode(), outputStream, myTPID);
+        && parentRegion->getMainNode()->ompExtensionClause->codelet == false){
+			parentRegion->getLoopInfo()->printRequestIterationsFunctionImpl(
+				parentRegion->getMainNode(), outputStream, myTPID, this);
+	}
 
     if (DARTS_BACKEND) {
         outputStream << "void TP" << myTPID << "::_checkInCodelets" << this->getID()
@@ -376,17 +377,21 @@ void TPRegion::printCheckInCodeletFire(std::ostringstream& outputStream)
                 if (taskInfo->inputDependencyNodes.size()) {
                     outputStream
                         << "/*Wait until the tasks this task depends on have completed*/\n";
-                    outputStream << "if(";
+                    outputStream << "if((";
                     bool printDelimiter = false;
                     for (DFGNode* inDepNode : taskInfo->inputDependencyNodes) {
                         if (printDelimiter)
-                            outputStream << " || ";
+                            outputStream << " && ";
                         printDelimiter = true;
-                        outputStream << "*(myTP->task" << this->getParent()->getID()
+						outputStream << " ( "
+									 << "myTP->task" << this->getParent()->getID()
                                      << "Inputs->task" << inDepNode->getID()
-                                     << "Completed) == false";
+                                     << "Completed == nullptr || "
+									 << "*(myTP->task" << this->getParent()->getID()
+                                     << "Inputs->task" << inDepNode->getID()
+                                     << "Completed) == true)";
                     }
-                    outputStream << "){\n"
+                    outputStream << " )== false){\n"
                                  << "myTP->add(this);\n"
                                  << "return;\n"
                                  << "}\n";

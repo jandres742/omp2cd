@@ -82,8 +82,8 @@ public:
     void printRequestIterationsFunctionDef(
         omp2cd_space::DFGNode* node, std::ostringstream& outputStream);
     void printRequestIterationsFunctionImpl(
-        omp2cd_space::DFGNode* node, std::ostringstream& outputStream, int parentRegionID);
-
+        omp2cd_space::DFGNode* node, std::ostringstream& outputStream, int parentRegionID,
+		TPRegion* region = nullptr);
     void printRequestIterationsFunctionDefTPLoops(
         omp2cd_space::DFGNode* node, std::ostringstream& outputStream);
     void printRequestIterationsFunctionImplTPLoops(

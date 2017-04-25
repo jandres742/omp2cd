@@ -2432,9 +2432,13 @@ void DFGNode::printOMPInputAndVarInitsInlinedRegion(std::ostringstream& outputSt
             } else if (get<1>(var.second) == OMP_PRIVATE) {
 
                 if (DARTS_BACKEND)
+#if 0
                     outputStream << prefixStr << var.first << suffixLang << parentNode->getID()
                                  << "= new " << varType
                                  << "[myTP->numThreads]/*OMP_PRIVATE - INPUT INLINED*/;\n";
+#else
+					asm("nop");
+#endif
                 else if (SWARM_BACKEND)
                     outputStream << prefixStr << var.first << suffixLang << parentNode->getID()
                                  << " = (" << varType << "*)malloc(sizeof(" << varType
@@ -2971,28 +2975,26 @@ void DFGNode::printExtraVarsDef(
 		string loopVarType = myLoopInfo->loopVarType;
 		int parentID = this->getRegion()->getParent()->getID();
 
-        if (this->getRegion()->getParent()->isInlinedRegion() == false) {
-            outputStream << loopVarType << " initIteration" << parentID << ";\n"
-						 << loopVarType << " lastIteration" << parentID << ";\n";
+		outputStream << loopVarType << " initIteration" << parentID << ";\n"
+					 << loopVarType << " lastIteration" << parentID << ";\n";
 
-            if (get<0>(myLoopInfo->schedulingPolicy) == RUNTIME_SCHED) {
-                outputStream << "size_t ompLoopSched" << parentID << ";\n";
-                outputStream << "size_t ompLoopChunk" << parentID << ";\n";
-            }
+		if (get<0>(myLoopInfo->schedulingPolicy) == RUNTIME_SCHED) {
+			outputStream << "size_t ompLoopSched" << parentID << ";\n";
+			outputStream << "size_t ompLoopChunk" << parentID << ";\n";
+		}
 
-            if (get<0>(myLoopInfo->schedulingPolicy) == STATIC_SCHED
-                || get<0>(myLoopInfo->schedulingPolicy) == RUNTIME_SCHED) {
-                outputStream << loopVarType << " range" << parentID << ";\n"
-							 << loopVarType << " rangePerCodelet" << parentID << ";\n"
-							 << loopVarType << " minIteration" << parentID << ";\n"
-							 << loopVarType << " remainderRange" << parentID << ";\n";
-            }
+		if (get<0>(myLoopInfo->schedulingPolicy) == STATIC_SCHED
+			|| get<0>(myLoopInfo->schedulingPolicy) == RUNTIME_SCHED) {
+			outputStream << loopVarType << " range" << parentID << ";\n"
+						 << loopVarType << " rangePerCodelet" << parentID << ";\n"
+						 << loopVarType << " minIteration" << parentID << ";\n"
+						 << loopVarType << " remainderRange" << parentID << ";\n";
+		}
 
-            if (get<0>(myLoopInfo->schedulingPolicy) != STATIC_SCHED) {
-                outputStream << loopVarType << " nextIteration" << parentID << ";\n"
-							 << "int loop" << parentID << "alreadySetUp;\n";
-            }
-        }
+		if (get<0>(myLoopInfo->schedulingPolicy) != STATIC_SCHED) {
+			outputStream << loopVarType << " nextIteration" << parentID << ";\n"
+						 << "int loop" << parentID << "alreadySetUp;\n";
+		}
 
         if (this->getRegion()->getParent()->isBalancedOMPFor()) {
             outputStream << "size_t readyCodelets;\n";
@@ -3308,6 +3310,21 @@ return value, but keep this code here in case we find that we actually need it.*
 
             if (get<0>(myLoopInfo->schedulingPolicy) != STATIC_SCHED) {
                 outputStream << ", nextIteration" << parentID << "(INT_MAX)"
+							 << ", loop" << parentID << "alreadySetUp(0)";
+            }
+        } else {
+            outputStream << ", initIteration" << parentID << "(-1)"
+						 << ", lastIteration" << parentID << "(-1)";
+
+            if (get<0>(myLoopInfo->schedulingPolicy) == RUNTIME_SCHED) {
+                outputStream << ", ompLoopSched" << parentID
+							 << "(1)/*Static by default with runtime scheduling*/"
+							 << ", ompLoopChunk" << parentID 
+							 << "(1)/*Chunk =1 by default with runtime scheduling*/";
+            }
+
+            if (get<0>(myLoopInfo->schedulingPolicy) != STATIC_SCHED) {
+                outputStream << ", nextIteration" << parentID << "(INT_MAX * (-1))"
 							 << ", loop" << parentID << "alreadySetUp(0)";
             }
         }

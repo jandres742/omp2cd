@@ -1518,10 +1518,9 @@ void ompASTVisitor::printRegionCode(TPRegion * region, std::string & codeStr)
 		for (TPRegion * inlinedChildRegion:region->inlinedRegions) {
 			/*if the inlined region is an ompfor,
 			print the iterationrequest function implementation*/
-			if (inlinedChildRegion->isOMPFor() &&
-				inlinedChildRegion->getMainNode()->ompExtensionClause->codelet == false) {
+			if (inlinedChildRegion->isOMPFor()) {
 				inlinedChildRegion->getLoopInfo()->printRequestIterationsFunctionImpl(
-					inlinedChildRegion->getMainNode(), TPStream, region->getID());
+					inlinedChildRegion->getMainNode(), TPStream, region->getID(), inlinedChildRegion);
 			}
 		}
 

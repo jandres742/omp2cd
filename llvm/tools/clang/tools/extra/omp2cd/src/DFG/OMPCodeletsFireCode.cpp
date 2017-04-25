@@ -309,7 +309,6 @@ void TPRegion::printOMPForCodeletFireCode_swarm(std::ostringstream& outputStream
 
 void TPRegion::printOMPForCodeletFireCode(std::ostringstream& outputStream)
 {
-    outputStream << "/*printOMPForCodeletFireCode, inlined: " << this->isInlinedRegion() << "*/\n";
     outputStream << "/*region " << this->getID() << " "
                  << this->getMainNode()->ompExtensionClause->codelet << "*/\n";
 
@@ -317,7 +316,9 @@ void TPRegion::printOMPForCodeletFireCode(std::ostringstream& outputStream)
     if (this->isOMPForOnlyChildRegion()) {
         this->getLoopInfo()->implementDARTSLoops(this, parentRegion, outputStream);
     } else if (this->isInlinedRegion() && this->childRegions.front()) {
-        this->printOMPCodeletFireCodeInlined(outputStream);
+		if (DARTS_BACKEND) {
+			this->printOMPCodeletFireCodeInlined(outputStream);
+		}
     } else if (this->isBalancedOMPFor()) {
         if (DARTS_BACKEND)
             this->printOMPForCodeletFireCode_darts(outputStream);

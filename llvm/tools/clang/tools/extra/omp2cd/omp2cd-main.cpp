@@ -88,9 +88,11 @@ loops (Experimental).\n";
         backEnd = backEndOption;
 
     /*Get inline options */
+	inlineOMPFor = inlineOMPForOption;
     inlineOMP = inlineOMPOption;
+	if(inlineOMP)
+		inlineOMPFor = true;
     useTPLoops = useTPLoopsOption;
-    inlineOMPFor = inlineOMPForOption;
 
     /*Get instruction granularity threshold */
     instrGranularityThr = instrGranularityThrOption;
