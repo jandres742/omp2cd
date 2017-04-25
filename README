@@ -35,34 +35,64 @@ omp2cd is a free software. See LICENSE file.
 ====================================================
 A summary of the current support on omp2cd follows:
 
-Compiler Directives:
-- omp parallel
-- omp (parallel) for: Including static, dynamic,
-runtime policies. Support also for reduction operations.
-- omp sections
-- omp single
-- omp critical
-- omp atomic
-- omp barrier
-- omp task: Including depend clauses.
-- omp taskwait
-- omp threadprivate
+-------------------
+OpenMP v2.5:
 
-Library Routines:
-- omp_get_num_threads()
-- omp_set_num_threads()
-- omp_get_max_threads()
-- omp_get_thread_num()
-- omp_get_num_threads()
-- omp_get_max_threads()
-- omp_get_num_procs()
-- omp_get_wtime() 
-- omp_init_lock()
-- omp_destroy_lock()
-- omp_set_lock()
-- omp_unset_lock()
+Directives:
+parallel
+for
+sections
+section
+single
+parallel for
+master
+critical
+barrier
+atomic
+flush
+ordered (Partially)
+threadprivate
 
-Environment Variables:
-- OMP_NUM_THREADS
-- OMP_SCHEDULE
+Clauses:
+default
+shared
+private
+firstprivate
+lastprivate
+reduction
+copyin
+copyprivate
+schedule
+nowait
+
+Env. Variables:
+OMP_SCHEDULE
+OMP_NUM_THREADS
+
+Runtime Routines Supported
+omp_set_num_threads
+omp_get_num threads
+omp_get_max threads
+omp_get_thread num
+omp_get_num procs
+omp_init_lock
+omp_destroy_lock
+omp_set_lock
+omp_unset_lock
+omp_test_lock
+omp_get_time
+
+-------------------
+OpenMP v3.0:
+
+Directives:
+task
+taskwait
+
+-------------------
+OpenMP v4.0:
+
+Clauses:
+depend
+
 ====================================================
