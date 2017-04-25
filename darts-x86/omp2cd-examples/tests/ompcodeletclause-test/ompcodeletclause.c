@@ -52,9 +52,9 @@ int main(int argc, char** argv)
         int endLoop = NUM_THREADS;
 
 #if USECODELETS
-#pragma omp for codelet
+#pragma omp for codelet schedule(runtime)
 #else
-#pragma omp for
+#pragma omp for schedule(runtime)
 #endif
         for (i = initLoop; i < endLoop; i++) {
             outVector[i] = 10;
