@@ -133,4 +133,16 @@ public:
     }
 };
 
+class ompOMPTaskgroupDirectiveTP : public ompTP {
+public:
+    ompOMPTaskgroupDirectiveTP(int in_numThreads, int in_mainCodeletID)
+        : ompTP(in_numThreads, in_mainCodeletID)
+    {
+		if(in_numThreads != 1)
+			this->availableCodelets[mainCodeletID] = 1;
+		else
+			this->availableCodelets[0] = 1;
+    }
+};
+
 #endif
